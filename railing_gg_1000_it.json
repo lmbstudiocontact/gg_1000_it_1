@@ -1,0 +1,21 @@
+{
+  "english": "railing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lan can",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng rào song",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fence or barrier made of rails.",
+      "definitions_ex_en": "wrought-iron railings",
+      "definitions_ex_vn": "Lan can sắt rèn",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

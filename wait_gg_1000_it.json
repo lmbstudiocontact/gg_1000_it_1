@@ -1,0 +1,55 @@
+{
+  "english": "wait",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phục kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chờ đợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngừng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đợi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "stay where one is or delay action until a particular time or until something else happens.",
+      "definitions_ex_en": "I rang the bell and waited",
+      "definitions_ex_vn": "Tôi reo chuông và chờ đợi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to indicate that one is eagerly impatient to do something or for something to happen.",
+      "definitions_ex_en": "I can't wait for tomorrow",
+      "definitions_ex_vn": "Tôi không thể đợi vào ngày mai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of waiting.",
+      "definitions_ex_en": "we had a long wait",
+      "definitions_ex_vn": "Chúng tôi đã có một sự chờ đợi lâu dài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "street singers of Christmas carols.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

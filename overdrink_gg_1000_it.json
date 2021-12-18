@@ -1,0 +1,17 @@
+{
+  "english": "overdrink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "uống quá nhiều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "drink too much alcohol.",
+      "definitions_ex_en": "the drug's disorienting effects can lead users to overdrink",
+      "definitions_ex_vn": "Các hiệu ứng mất phương hướng của thuốc có thể khiến người dùng vượt qua",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

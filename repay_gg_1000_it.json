@@ -1,0 +1,29 @@
+{
+  "english": "repay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả tiền lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pay back (a loan, debt, or sum of money).",
+      "definitions_ex_en": "the loans were to be repaid over a 20-year period",
+      "definitions_ex_vn": "Các khoản vay được hoàn trả trong khoảng thời gian 20 năm",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

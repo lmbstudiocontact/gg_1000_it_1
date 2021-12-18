@@ -1,0 +1,23 @@
+{
+  "english": "she",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cô ấy",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to refer to a woman, girl, or female animal previously mentioned or easily identified.",
+      "definitions_ex_en": "my sister told me that she was not happy",
+      "definitions_ex_vn": "chị tôi nói với tôi rằng cô ấy không hạnh phúc",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "a female; a woman.",
+      "definitions_ex_en": "is that a he or a she?",
+      "definitions_ex_vn": "Đó có phải là một người đó không?",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

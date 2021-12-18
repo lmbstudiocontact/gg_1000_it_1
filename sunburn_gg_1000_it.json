@@ -1,0 +1,35 @@
+{
+  "english": "sunburn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "da bị sạm vì nắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sạm da vì nắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị ăn nắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cháy nắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reddening, inflammation, and, in severe cases, blistering and peeling of the skin caused by overexposure to the ultraviolet rays of the sun.",
+      "definitions_ex_en": "my hands and face were raw with sunburn",
+      "definitions_ex_vn": "bàn tay và khuôn mặt của tôi đã sống bị cháy nắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause to be affected with sunburn.",
+      "definitions_ex_en": "we got sunburned but didn't realize it because of the breeze",
+      "definitions_ex_vn": "Chúng tôi bị cháy nắng nhưng không nhận ra điều đó vì gió",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

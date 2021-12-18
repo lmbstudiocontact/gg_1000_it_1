@@ -1,0 +1,67 @@
+{
+  "english": "speed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi mau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tốc độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận tốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the rate at which someone or something is able to move or operate.",
+      "definitions_ex_en": "we turned onto the runway and began to gather speed",
+      "definitions_ex_vn": "Chúng tôi bật đường băng và bắt đầu thu thập tốc độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the possible gear ratios of a bicycle or motor vehicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the light-gathering power or f-number of a camera lens.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amphetamine drug, especially methamphetamine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "success; prosperity.",
+      "definitions_ex_en": "wish me good speed",
+      "definitions_ex_vn": "Chúc tôi tốc độ tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move quickly.",
+      "definitions_ex_en": "I got into the car and home we sped",
+      "definitions_ex_vn": "Tôi vào xe và về nhà, chúng tôi đã tăng tốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make prosperous or successful.",
+      "definitions_ex_en": "may God speed you",
+      "definitions_ex_vn": "Chúa có thể tăng tốc bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take or be under the influence of an amphetamine drug.",
+      "definitions_ex_en": "more kids than ever are speeding, tripping, and getting stoned",
+      "definitions_ex_vn": "nhiều trẻ em hơn bao giờ hết đang tăng tốc, vấp ngã và bị ném đá",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

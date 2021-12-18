@@ -1,0 +1,27 @@
+{
+  "english": "opera",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc kịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dramatic work in one or more acts, set to music for singers and instrumentalists.",
+      "definitions_ex_en": "it was the best performance of the opera he had ever heard",
+      "definitions_ex_vn": "Đó là hiệu suất tốt nhất của vở opera mà ông từng nghe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plural form of opus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

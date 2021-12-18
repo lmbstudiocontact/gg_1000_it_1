@@ -1,0 +1,21 @@
+{
+  "english": "passport",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy thông hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hộ chiếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

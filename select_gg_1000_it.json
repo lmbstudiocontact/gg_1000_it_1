@@ -1,0 +1,35 @@
+{
+  "english": "select",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lựa chọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyển trạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carefully choose as being the best or most suitable.",
+      "definitions_ex_en": "he has been selected to take part",
+      "definitions_ex_vn": "anh ấy đã được chọn để tham gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a group of people or things) carefully chosen from a larger number as being the best or most valuable.",
+      "definitions_ex_en": "he joined his select team of young Intelligence operatives",
+      "definitions_ex_vn": "Ông đã tham gia Đội ngũ Chuyên gia Chuyên gia Thông minh Trẻ",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

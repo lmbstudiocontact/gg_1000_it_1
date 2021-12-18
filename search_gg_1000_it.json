@@ -1,0 +1,43 @@
+{
+  "english": "search",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khám xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm kiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm tòi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "try to find something by looking or otherwise seeking carefully and thoroughly.",
+      "definitions_ex_en": "I searched among the rocks, but there was nothing",
+      "definitions_ex_vn": "Tôi tìm kiếm giữa những tảng đá, nhưng không có gì",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of searching for someone or something.",
+      "definitions_ex_en": "the police carried out a thorough search of the premises",
+      "definitions_ex_vn": "Cảnh sát đã thực hiện tìm kiếm kỹ lưỡng các cơ sở",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

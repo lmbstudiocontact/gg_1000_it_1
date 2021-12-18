@@ -1,0 +1,37 @@
+{
+  "english": "weekly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo ra hàng tuần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hàng tuần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỗi tuần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done, produced, or occurring once a week.",
+      "definitions_ex_en": "there was a weekly dance on Wednesdays",
+      "definitions_ex_vn": "Có một điệu nhảy hàng tuần vào thứ Tư",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "once a week.",
+      "definitions_ex_en": "interviews were given weekly",
+      "definitions_ex_vn": "Các cuộc phỏng vấn đã được đưa ra hàng tuần",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a newspaper or periodical issued every week.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

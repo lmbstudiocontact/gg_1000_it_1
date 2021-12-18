@@ -1,0 +1,39 @@
+{
+  "english": "urge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thúc giục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xô đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cố nài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thúc giục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "try earnestly or persistently to persuade (someone) to do something.",
+      "definitions_ex_en": "he urged her to come and stay with us",
+      "definitions_ex_vn": "Anh giục cô đến và ở lại với chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a strong desire or impulse.",
+      "definitions_ex_en": "the urge for revenge",
+      "definitions_ex_vn": "sự thôi thúc trả thù",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

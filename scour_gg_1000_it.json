@@ -1,0 +1,43 @@
+{
+  "english": "scour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giặt quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent.",
+      "definitions_ex_en": "he scoured the bathtub",
+      "definitions_ex_vn": "Anh lau bồn tắm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (a place, text, etc.) to a thorough search in order to locate something.",
+      "definitions_ex_en": "David scoured each newspaper for an article on the murder",
+      "definitions_ex_vn": "David quét từng tờ báo cho một bài báo về vụ giết người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of scouring or the state of being scoured, especially by swift-flowing water.",
+      "definitions_ex_en": "the scour of the tide may cause lateral erosion",
+      "definitions_ex_vn": "SCOUR của thủy triều có thể gây xói mòn bên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "diarrhea in livestock, especially cattle and pigs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

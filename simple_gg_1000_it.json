@@ -1,0 +1,59 @@
+{
+  "english": "simple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đơn giản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giản dị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thể phân tích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật thà",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "easily understood or done; presenting no difficulty.",
+      "definitions_ex_en": "a simple solution",
+      "definitions_ex_vn": "một giải pháp đơn giản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "plain, basic, or uncomplicated in form, nature, or design; without much decoration or ornamentation.",
+      "definitions_ex_en": "a simple white blouse",
+      "definitions_ex_vn": "một chiếc áo trắng đơn giản",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "composed of a single element; not compound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of low or abnormally low intelligence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a medicinal herb, or a medicine made from one.",
+      "definitions_ex_en": "the gatherers of simples",
+      "definitions_ex_vn": "những người sưu tập của simples",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to convey that something is very straightforward.",
+      "definitions_ex_en": "I don't overanalyze. I listen, I like, I buy. Simple!",
+      "definitions_ex_vn": "Tôi không overanalyze . Tôi lắng nghe, tôi thích, tôi mua . Đơn giản!",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

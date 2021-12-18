@@ -1,0 +1,27 @@
+{
+  "english": "ox",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khờ dại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a castrated bull used as a draft animal.",
+      "definitions_ex_en": "laden wagons pulled by lowing oxen travel down to the coast",
+      "definitions_ex_vn": "Wagon Laden kéo bằng cách hạ bò đi xuống bờ biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of oxy-2 reduced before a vowel (as in oxazole ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ]
+}

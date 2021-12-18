@@ -1,0 +1,31 @@
+{
+  "english": "tutorial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dạy riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về giám hộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự thủ hộ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a tutor or a tutor's instruction.",
+      "definitions_ex_en": "tutorial sessions",
+      "definitions_ex_vn": "Các buổi hướng dẫn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a period of instruction given by a university or college tutor to an individual or very small group.",
+      "definitions_ex_en": "a tutorial on English poetry",
+      "definitions_ex_vn": "một hướng dẫn về thơ tiếng Anh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

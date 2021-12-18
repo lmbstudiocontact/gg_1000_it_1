@@ -1,0 +1,25 @@
+{
+  "english": "require",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cần dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cần thiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "yêu cầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "need for a particular purpose.",
+      "definitions_ex_en": "three patients required operations",
+      "definitions_ex_vn": "Ba bệnh nhân cần thiết hoạt động",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "plaster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồ để dán tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thạch cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc dán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đắp thạch cao lên vết thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp thuốc dán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô hồ lên tường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trét lên tường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried.",
+      "definitions_ex_en": "strip away the plaster to expose the bare brick",
+      "definitions_ex_vn": "tước bỏ thạch cao để lộ gạch trần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (a wall, ceiling, or other structure) with plaster.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

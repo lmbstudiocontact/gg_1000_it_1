@@ -1,0 +1,47 @@
+{
+  "english": "sell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lừa gạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lừa phỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa gạt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give or hand over (something) in exchange for money.",
+      "definitions_ex_en": "they had sold the car",
+      "definitions_ex_vn": "họ đã bán xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "persuade someone of the merits of.",
+      "definitions_ex_en": "he sold the idea of making a film about Tchaikovsky",
+      "definitions_ex_vn": "Ông đã bán ý tưởng làm một bộ phim về Tchaikovsky",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "trick or deceive (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of selling or attempting to sell something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

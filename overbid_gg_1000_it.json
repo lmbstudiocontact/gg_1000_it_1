@@ -1,0 +1,29 @@
+{
+  "english": "overbid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trả giá cao hơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in an auction) make a higher bid than a previous bid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in competitive bidding, the auction in bridge, etc.) bid more than is warranted or manageable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a bid that is higher than is justified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "recognize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biết trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "công nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừa nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "identify (someone or something) from having encountered them before; know again.",
+      "definitions_ex_en": "I recognized her when her wig fell off",
+      "definitions_ex_vn": "Tôi nhận ra cô ấy khi tóc giả của cô ấy rơi ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "acknowledge the existence, validity, or legality of.",
+      "definitions_ex_en": "the defense is recognized in Mexican law",
+      "definitions_ex_vn": "Quốc phòng được công nhận trong luật Mexico",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

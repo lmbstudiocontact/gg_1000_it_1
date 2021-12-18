@@ -1,0 +1,21 @@
+{
+  "english": "subtract",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take away (a number or amount) from another to calculate the difference.",
+      "definitions_ex_en": "subtract 43 from 60",
+      "definitions_ex_vn": "trừ 43 từ 60",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

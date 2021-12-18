@@ -1,0 +1,49 @@
+{
+  "english": "respond",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cột trụ nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáp lại lòng tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đọc bài thánh ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chịu trách nhiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phản lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quật lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say something in reply.",
+      "definitions_ex_en": "she could not get Robert to respond to her words",
+      "definitions_ex_vn": "Cô ấy không thể có được Robert phản ứng với lời nói của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a half-pillar or half-pier attached to a wall to support an arch, especially at the end of an arcade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in church use) a responsory; a response to a versicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

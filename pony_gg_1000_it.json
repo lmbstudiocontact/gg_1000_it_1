@@ -1,0 +1,27 @@
+{
+  "english": "pony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngựa con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa tơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a horse of a small breed, especially one whose height at the withers is below 14 hands 2 inches (58 inches).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small drinking glass or the drink contained in it.",
+      "definitions_ex_en": "a pony of vodka",
+      "definitions_ex_vn": "một con ngựa của vodka",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

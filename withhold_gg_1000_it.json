@@ -1,0 +1,29 @@
+{
+  "english": "withhold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấu sự thật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn cản người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ khước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "refuse to give (something that is due to or is desired by another).",
+      "definitions_ex_en": "the name of the dead man is being withheld",
+      "definitions_ex_vn": "Tên của người chết đang bị giữ lại",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

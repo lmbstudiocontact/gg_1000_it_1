@@ -1,0 +1,31 @@
+{
+  "english": "steel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống quẹt máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho cứng như thép",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard, strong, gray or bluish-gray alloy of iron with carbon and usually other elements, used extensively as a structural and fabricating material.",
+      "definitions_ex_en": "steel girders",
+      "definitions_ex_vn": "dầm thép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mentally prepare (oneself) to do or face something difficult.",
+      "definitions_ex_en": "I speak quickly, steeling myself for a mean reply",
+      "definitions_ex_vn": "Tôi nói nhanh, thép để trả lời trung bình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

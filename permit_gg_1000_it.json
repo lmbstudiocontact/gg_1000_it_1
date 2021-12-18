@@ -1,0 +1,49 @@
+{
+  "english": "permit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy cho phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho phép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừa nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give authorization or consent to (someone) to do something.",
+      "definitions_ex_en": "the law permits councils to monitor any factory emitting smoke",
+      "definitions_ex_vn": "Luật pháp cho phép Hội đồng giám sát bất kỳ nhà máy nào phát ra khói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an official document giving someone authorization to do something.",
+      "definitions_ex_en": "he is only in Britain on a work permit",
+      "definitions_ex_vn": "Anh ta chỉ ở Anh trong một giấy phép làm việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deep-bodied fish of the jack family, found in warm waters of the western Atlantic and Caribbean and caught for food and sport.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

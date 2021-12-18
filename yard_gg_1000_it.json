@@ -1,0 +1,31 @@
+{
+  "english": "yard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sân có rào chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước anh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục buồm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a unit of linear measure equal to 3 feet (0.9144 meter).",
+      "definitions_ex_en": "a full skirt that took twenty yards of cloth",
+      "definitions_ex_vn": "một chiếc váy đầy đủ gấp hai mươi mét vải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cylindrical spar, tapering to each end, slung across a ship's mast for a sail to hang from.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

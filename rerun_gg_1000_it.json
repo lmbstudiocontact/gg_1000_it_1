@@ -1,0 +1,27 @@
+{
+  "english": "rerun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chạy lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy trở lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "show or perform (something, especially a television program) again.",
+      "definitions_ex_en": "she can stop the video and rerun a short sequence",
+      "definitions_ex_vn": "Cô ấy có thể dừng video và chạy lại một chuỗi ngắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a program, event, or competition that occurs or is run again.",
+      "definitions_ex_en": "a rerun of the Mideast crisis",
+      "definitions_ex_vn": "Một lần chạy lại của cuộc khủng hoảng Midealth",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

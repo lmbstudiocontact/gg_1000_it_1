@@ -1,0 +1,31 @@
+{
+  "english": "strongly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cường tráng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kiên cố",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mạnh mẽ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with great power or strength.",
+      "definitions_ex_en": "she started out swimming strongly",
+      "definitions_ex_vn": "Cô ấy bắt đầu bơi mạnh",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a way that is able to withstand force or wear.",
+      "definitions_ex_en": "the wheels are strongly made",
+      "definitions_ex_vn": "Các bánh xe được thực hiện mạnh mẽ",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

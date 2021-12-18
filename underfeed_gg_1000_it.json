@@ -1,0 +1,21 @@
+{
+  "english": "underfeed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho ăn rất ít",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không đầy đủ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not give enough food to.",
+      "definitions_ex_en": "some breeders intentionally underfeed their pups to keep them small",
+      "definitions_ex_vn": "Một số nhà lai tạo cố tình gây bất ngờ cho trẻ em của họ để giữ cho họ nhỏ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

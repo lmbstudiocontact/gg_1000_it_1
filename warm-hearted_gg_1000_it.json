@@ -1,0 +1,25 @@
+{
+  "english": "warm-hearted",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hăng hái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiệt thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sốt sắng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or their actions) sympathetic and kind.",
+      "definitions_ex_en": "a warmhearted, affectionate girl",
+      "definitions_ex_vn": "một cô gái chán nản, trìu mến",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

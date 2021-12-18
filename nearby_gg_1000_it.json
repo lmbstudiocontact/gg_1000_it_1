@@ -1,0 +1,43 @@
+{
+  "english": "nearby",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gần bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần bởi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần kề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần như",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kế bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bên cạnh",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "close at hand; not far away.",
+      "definitions_ex_en": "he slung his jacket over a nearby chair",
+      "definitions_ex_vn": "Anh ta trượt áo khoác trên một chiếc ghế gần đó",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "close by; very near.",
+      "definitions_ex_en": "his four sisters live nearby",
+      "definitions_ex_vn": "Bốn chị em của anh ấy sống gần đó",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "phrase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngữ pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từ ngữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia tiết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small group of words standing together as a conceptual unit, typically forming a component of a clause.",
+      "definitions_ex_en": "“to improve standards” is the key phrase here",
+      "definitions_ex_vn": "\"Để cải thiện tiêu chuẩn\" là cụm từ chính ở đây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put into a particular form of words.",
+      "definitions_ex_en": "it's important to phrase the question correctly",
+      "definitions_ex_vn": "Điều quan trọng là phải gọi là câu hỏi chính xác",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "sting",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lông ngứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nốt đốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "răng độc của rắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chua chát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau nhức nhối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sâu sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi của ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị ong đốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhức nhối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small sharp-pointed organ at the end of the abdomen of bees, wasps, ants, and scorpions, capable of inflicting a painful or dangerous wound by injecting poison.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a carefully planned operation, typically one involving deception.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wound or pierce with a sting.",
+      "definitions_ex_en": "he was stung by a jellyfish",
+      "definitions_ex_vn": "Anh ta bị đâm bởi một con sứa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "swindle or exorbitantly overcharge (someone).",
+      "definitions_ex_en": "an elaborate fraud that stung a bank for thousands",
+      "definitions_ex_vn": "một gian lận phức tạp đã tạo ra một ngân hàng cho hàng ngàn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

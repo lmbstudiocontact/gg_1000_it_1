@@ -1,0 +1,69 @@
+{
+  "english": "poach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cào đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "câu cá nơi cấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giẫm lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luộc trứng trong nước sôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn bắn nơi cấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vi phạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xâm lấn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xâm phạm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cook (an egg) without its shell in or over boiling water.",
+      "definitions_ex_en": "a breakfast of poached egg and grilled bacon",
+      "definitions_ex_vn": "một bữa ăn sáng của trứng luộc và thịt xông khói nướng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection.",
+      "definitions_ex_en": "20 tigers are thought to have been poached from national parks",
+      "definitions_ex_vn": "20 con hổ được cho là đã bị săn trộm từ các công viên quốc gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) trample or cut up (turf) with its hoofs.",
+      "definitions_ex_en": "zero-grazing saves the fields from poaching",
+      "definitions_ex_vn": "Zero-Graving lưu các lĩnh vực từ Poaching",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

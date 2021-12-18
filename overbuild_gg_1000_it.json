@@ -1,0 +1,23 @@
+{
+  "english": "overbuild",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cất nhà nhiều quá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put up too many buildings in (an area).",
+      "definitions_ex_en": "investors overbuilt the Atlantic and Mediterranean coasts",
+      "definitions_ex_vn": "Các nhà đầu tư đã vượt qua các bờ biển Đại Tây Dương và Địa Trung Hải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "build on top of.",
+      "definitions_ex_en": "the Romans overbuilt the existing Greek city",
+      "definitions_ex_vn": "Người La Mã đã vượt qua thành phố Hy Lạp hiện tại",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

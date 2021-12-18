@@ -1,0 +1,21 @@
+{
+  "english": "quietly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm yên lòng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "một cách êm đềm",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a quiet manner.",
+      "definitions_ex_en": "he worked quietly and diligently",
+      "definitions_ex_vn": "Anh ta làm việc lặng lẽ và siêng năng",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

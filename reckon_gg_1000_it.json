@@ -1,0 +1,61 @@
+{
+  "english": "reckon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "coi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tin vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ước lượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "establish by counting or calculation; calculate.",
+      "definitions_ex_en": "his debts were reckoned at $300,000",
+      "definitions_ex_vn": "Các khoản nợ của ông đã được tính ở mức 300.000 đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "consider or regard in a specified way.",
+      "definitions_ex_en": "the event was reckoned a failure",
+      "definitions_ex_vn": "Sự kiện đã được tính toán một thất bại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be of the opinion.",
+      "definitions_ex_en": "he reckons that the army should pull out entirely",
+      "definitions_ex_vn": "Ông cho rằng quân đội nên rút hoàn toàn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

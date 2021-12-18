@@ -1,0 +1,27 @@
+{
+  "english": "they",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chúng nó",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "họ",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to refer to two or more people or things previously mentioned or easily identified.",
+      "definitions_ex_en": "the two men could get life sentences if they are convicted",
+      "definitions_ex_vn": "Hai người đàn ông có thể có được những câu cuộc sống nếu họ bị kết án",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to refer to a person of unspecified gender.",
+      "definitions_ex_en": "ask someone if they could help",
+      "definitions_ex_vn": "Hỏi ai đó nếu họ có thể giúp đỡ",
+      "definitions_type_word": "pronoun"
+    }
+  ]
+}

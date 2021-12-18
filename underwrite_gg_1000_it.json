@@ -1,0 +1,41 @@
+{
+  "english": "underwrite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo hiểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bảo kê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết tên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sign and accept liability under (an insurance policy), thus guaranteeing payment in case loss or damage occurs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bank or other financial institution) pledge to buy all the unsold shares in (an issue of new securities).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write (something) below something else, especially other written matter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

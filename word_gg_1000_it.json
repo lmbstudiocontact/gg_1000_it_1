@@ -1,0 +1,71 @@
+{
+  "english": "word",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diển tả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.",
+      "definitions_ex_en": "I don't like the word “unofficial”",
+      "definitions_ex_vn": "Tôi không thích từ \"không chính thức\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a command, password, or signal.",
+      "definitions_ex_en": "someone gave me the word to start playing",
+      "definitions_ex_vn": "ai đó đã cho tôi từ để bắt đầu chơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's account of the truth, especially when it differs from that of another person.",
+      "definitions_ex_en": "in court it would have been his word against mine",
+      "definitions_ex_vn": "Tại tòa đó sẽ là Lời của anh ta chống lại tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the text or spoken part of a play, opera, or other performed piece; a script.",
+      "definitions_ex_en": "he had to learn his words",
+      "definitions_ex_vn": "anh ấy đã phải học lời của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a basic unit of data in a computer, typically 16 or 32 bits long.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "choose and use particular words in order to say or write (something).",
+      "definitions_ex_en": "he words his request in a particularly ironic way",
+      "definitions_ex_vn": "anh ấy nói rằng yêu cầu của anh ấy một cách đặc biệt mỉa mai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to express agreement.",
+      "definitions_ex_en": "“That Jay is one dangerous character.” “Word.”",
+      "definitions_ex_vn": "\"Jay đó là một nhân vật nguy hiểm.\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "denoting a word that may be offensive or have a negative connotation, specified by the word's first letter.",
+      "definitions_ex_en": "the F-word",
+      "definitions_ex_vn": "từ f",
+      "definitions_type_word": "combining form"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "win",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc chiến thắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thành công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành tựu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắng lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắng trận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được thắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be successful or victorious in (a contest or conflict).",
+      "definitions_ex_en": "the Mets have won four games in a row",
+      "definitions_ex_vn": "Mets đã giành được bốn trận liên tiếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "acquire or secure as a result of a contest, conflict, bet, or other endeavor.",
+      "definitions_ex_en": "there are hundreds of prizes to be won",
+      "definitions_ex_vn": "Có hàng trăm giải thưởng được chiến thắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a successful result in a contest, conflict, bet, or other endeavor; a victory.",
+      "definitions_ex_en": "a win against Norway",
+      "definitions_ex_vn": "một chiến thắng trước Na Uy",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

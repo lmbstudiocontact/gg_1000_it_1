@@ -1,0 +1,21 @@
+{
+  "english": "sailing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạy bằng buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm lại tàu buồm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of sailing in a ship or boat.",
+      "definitions_ex_en": "a sailing club",
+      "definitions_ex_vn": "một câu lạc bộ chèo thuyền",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

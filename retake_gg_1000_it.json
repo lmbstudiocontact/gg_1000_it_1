@@ -1,0 +1,23 @@
+{
+  "english": "retake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lấy lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take (something) again.",
+      "definitions_ex_en": "he retook the oath of office",
+      "definitions_ex_vn": "Anh ấy đã kể lại lời thề của văn phòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing that is retaken, especially a test or examination.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "street",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường phố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a public road in a city or town, typically with houses and buildings on one or both sides.",
+      "definitions_ex_en": "the narrow, winding streets of Greenwich Village",
+      "definitions_ex_vn": "đường hẹp, quanh co của làng Greenwich",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

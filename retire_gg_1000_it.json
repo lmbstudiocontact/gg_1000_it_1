@@ -1,0 +1,73 @@
+{
+  "english": "retire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lui binh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ẩn dật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh tháo lui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hưu trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lui về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút lui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi kèn lui quân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "về hưu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "leave one's job and cease to work, typically upon reaching the normal age for leaving employment.",
+      "definitions_ex_en": "he retired from the navy in 1966",
+      "definitions_ex_vn": "Ông đã nghỉ hưu từ Hải quân vào năm 1966",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "withdraw to or from a particular place.",
+      "definitions_ex_en": "she retired into the bathroom with her toothbrush",
+      "definitions_ex_vn": "Cô đã nghỉ hưu vào phòng tắm bằng bàn chải đánh răng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "withdraw (a bill or note) from circulation or currency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pay off or cancel (a debt).",
+      "definitions_ex_en": "the debt is to be retired from state gaming-tax receipts",
+      "definitions_ex_vn": "Nợ sẽ được nghỉ hưu từ biên lai thuế game của nhà nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a movement in which one leg is bent and raised at right angles to the body until the toe is in line with the knee of the supporting leg.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "pupil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lỗ con ngươi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vị thành niên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a student in school.",
+      "definitions_ex_en": "they are former pupils of the school",
+      "definitions_ex_vn": "họ là cựu học sinh của trường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the dark circular opening in the center of the iris of the eye, varying in size to regulate the amount of light reaching the retina.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

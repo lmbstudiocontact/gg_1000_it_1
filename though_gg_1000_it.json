@@ -1,0 +1,51 @@
+{
+  "english": "though",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuy nhiên",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "song le",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tuy vậy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chạy suốt qua",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "dầu sao",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "dường như là",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "tưởng như là",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "mặc dầu",
+      "type_word": "conjunction"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "despite the fact that; although.",
+      "definitions_ex_en": "though they were speaking in undertones, Philip could hear them",
+      "definitions_ex_vn": "Mặc dù họ đang nói về Instesttones, Philip có thể nghe thấy họ",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "however (indicating that a factor qualifies or imposes restrictions on what was said previously).",
+      "definitions_ex_en": "I was hunting for work. Jobs were scarce though",
+      "definitions_ex_vn": "Tôi đang săn lùng công việc.",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

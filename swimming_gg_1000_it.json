@@ -1,0 +1,21 @@
+{
+  "english": "swimming",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bơi lội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sport or activity of propelling oneself through water using the limbs.",
+      "definitions_ex_en": "Rachel had always loved swimming",
+      "definitions_ex_vn": "Rachel luôn yêu thích bơi lội",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

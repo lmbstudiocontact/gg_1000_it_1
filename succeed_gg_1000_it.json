@@ -1,0 +1,39 @@
+{
+  "english": "succeed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kế tiếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kế vị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối nghiệp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành công",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành tựu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "achieve the desired aim or result.",
+      "definitions_ex_en": "keep trying and you will eventually succeed",
+      "definitions_ex_vn": "tiếp tục cố gắng và cuối cùng bạn sẽ thành công",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take over a throne, inheritance, office, or other position from.",
+      "definitions_ex_en": "he would succeed Hawke as Prime Minister",
+      "definitions_ex_vn": "Ông sẽ thành công Hawke là thủ tướng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

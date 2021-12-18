@@ -1,0 +1,29 @@
+{
+  "english": "probable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lẻ đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lẻ thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dỉ nhiên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "likely to be the case or to happen.",
+      "definitions_ex_en": "it is probable that the economic situation will deteriorate further",
+      "definitions_ex_vn": "Có khả năng tình hình kinh tế sẽ xấu đi hơn nữa",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

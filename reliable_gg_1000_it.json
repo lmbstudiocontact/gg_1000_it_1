@@ -1,0 +1,35 @@
+{
+  "english": "reliable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng tin cậy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng đắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xác thực",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consistently good in quality or performance; able to be trusted.",
+      "definitions_ex_en": "a reliable source of information",
+      "definitions_ex_vn": "Một nguồn thông tin đáng tin cậy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing with trustworthy qualities.",
+      "definitions_ex_en": "the supporting cast includes old reliables like Mitchell",
+      "definitions_ex_vn": "Các diễn viên hỗ trợ bao gồm các tài trợ cũ như Mitchell",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

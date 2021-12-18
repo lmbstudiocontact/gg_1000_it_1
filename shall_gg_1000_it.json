@@ -1,0 +1,39 @@
+{
+  "english": "shall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sẻ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in the first person) expressing the future tense.",
+      "definitions_ex_en": "this time next week I shall be in Scotland",
+      "definitions_ex_vn": "Lần này vào tuần tới tôi sẽ ở Scotland",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a strong assertion or intention.",
+      "definitions_ex_en": "they shall succeed",
+      "definitions_ex_vn": "họ sẽ thành công",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing an instruction or command.",
+      "definitions_ex_en": "you shall not steal",
+      "definitions_ex_vn": "Bạn sẽ không ăn cắp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used in questions indicating offers or suggestions.",
+      "definitions_ex_en": "shall I send you the book?",
+      "definitions_ex_vn": "Tôi sẽ gửi cho bạn cuốn sách?",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

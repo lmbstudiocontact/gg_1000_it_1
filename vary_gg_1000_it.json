@@ -1,0 +1,33 @@
+{
+  "english": "vary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay thay đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không đồng ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho biến đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho khác nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho thay đổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "differ in size, amount, degree, or nature from something else of the same general class.",
+      "definitions_ex_en": "the properties vary in price",
+      "definitions_ex_vn": "Các thuộc tính khác nhau về giá",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

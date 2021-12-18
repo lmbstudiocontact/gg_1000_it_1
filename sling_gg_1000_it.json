@@ -1,0 +1,59 @@
+{
+  "english": "sling",
+  "list_translation_mean": [
+    {
+      "translate_mean": "treo lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quàng dây vào vật nặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "băng vải đeo trước ngực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây đeo của đàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ná bắn đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ná cao su",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flexible strap or belt used in the form of a loop to support or raise a weight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a simple weapon in the form of a strap or loop, used to hurl stones or other small missiles.",
+      "definitions_ex_en": "700 men armed only with slings",
+      "definitions_ex_vn": "700 người đàn ông chỉ vũ trang với những chiếc xe trượt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sweetened drink of liquor, especially gin, and water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "suspend or arrange (something), especially with a strap or straps, so that it hangs loosely in a particular position.",
+      "definitions_ex_en": "a hammock was slung between two trees",
+      "definitions_ex_vn": "Một cái võng đã bị rạch giữa hai cây",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

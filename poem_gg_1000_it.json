@@ -1,0 +1,21 @@
+{
+  "english": "poem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài thơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of writing that partakes of the nature of both speech and song that is nearly always rhythmical, usually metaphorical, and often exhibits such formal elements as meter, rhyme, and stanzaic structure.",
+      "definitions_ex_en": "the sun is an important symbol in this poem",
+      "definitions_ex_vn": "Mặt trời là một biểu tượng quan trọng trong bài thơ này",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

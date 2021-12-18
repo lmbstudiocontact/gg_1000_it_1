@@ -1,0 +1,21 @@
+{
+  "english": "whether",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôm nay hoặc ngày mai",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "không biết có đúng chăng",
+      "type_word": "conjunction"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expressing a doubt or choice between alternatives.",
+      "definitions_ex_en": "he seemed undecided whether to go or stay",
+      "definitions_ex_vn": "Anh ta dường như không quyết định có đi hay ở lại",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

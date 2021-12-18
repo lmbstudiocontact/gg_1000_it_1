@@ -1,0 +1,41 @@
+{
+  "english": "sentence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lới phán quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lới tuyên cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết án",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the punishment assigned to a defendant found guilty by a court, or fixed by law for a particular offense.",
+      "definitions_ex_en": "her husband is serving a three-year sentence for fraud",
+      "definitions_ex_vn": "Chồng cô đang phục vụ một bản án ba năm để lừa đảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "declare the punishment decided for (an offender).",
+      "definitions_ex_en": "ten army officers were sentenced to death",
+      "definitions_ex_vn": "Mười sĩ quan quân đội đã bị kết án tử hình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

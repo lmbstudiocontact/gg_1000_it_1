@@ -1,0 +1,49 @@
+{
+  "english": "only",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhưng",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "chỉ có một",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "duy nhứt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "and no one or nothing more besides; solely or exclusively.",
+      "definitions_ex_en": "there are only a limited number of tickets available",
+      "definitions_ex_vn": "Chỉ có một số vé hạn chế có sẵn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "no longer ago than.",
+      "definitions_ex_en": "genes that were discovered only last year",
+      "definitions_ex_vn": "gen chỉ được phát hiện vào năm ngoái",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "with the negative or unfortunate result that.",
+      "definitions_ex_en": "she turned into the parking car, only to find her way blocked",
+      "definitions_ex_vn": "Cô biến thành xe đỗ xe, chỉ để tìm đường bị chặn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "alone of its or their kind; single or solitary.",
+      "definitions_ex_en": "the only medal we had ever won",
+      "definitions_ex_vn": "Huy chương duy nhất chúng tôi từng thắng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "except that; but for the fact that.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

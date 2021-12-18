@@ -1,0 +1,57 @@
+{
+  "english": "survey",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đưa mắt qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiểm điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập địa đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan sát kỷ lưỡng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or their eyes) look carefully and thoroughly at (someone or something), especially so as to appraise them.",
+      "definitions_ex_en": "her green eyes surveyed him coolly",
+      "definitions_ex_vn": "Đôi mắt xanh của cô ấy khảo sát anh ấy lạnh lùng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "examine and record the area and features of (an area of land) so as to construct a map, plan, or description.",
+      "definitions_ex_en": "he surveyed the coasts of New Zealand",
+      "definitions_ex_vn": "Ông đã khảo sát bờ biển New Zealand",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "investigate the opinions or experience of (a group of people) by asking them questions.",
+      "definitions_ex_en": "95% of patients surveyed were satisfied with the health service",
+      "definitions_ex_vn": "95 %% 20OF% 20 HPATIBS% 20SURVEED% 20WERE% 20SATISFIED% 20VITH% 20HE% 20Health% 20Service",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a general view, examination, or description of someone or something.",
+      "definitions_ex_en": "the author provides a survey of the relevant literature",
+      "definitions_ex_vn": "Tác giả cung cấp một cuộc khảo sát các tài liệu có liên quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of surveying an area of land.",
+      "definitions_ex_en": "the flight involved a detailed aerial survey of military bases",
+      "definitions_ex_vn": "Chuyến bay liên quan đến một cuộc khảo sát trên không chi tiết về các căn cứ quân sự",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

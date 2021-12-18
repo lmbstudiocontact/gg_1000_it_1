@@ -1,0 +1,29 @@
+{
+  "english": "specify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác định",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "identify clearly and definitely.",
+      "definitions_ex_en": "the coup leader promised an election but did not specify a date",
+      "definitions_ex_vn": "Nhà lãnh đạo đảo chính đã hứa rằng một cuộc bầu cử nhưng không chỉ định một ngày",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

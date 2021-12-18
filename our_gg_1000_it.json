@@ -1,0 +1,39 @@
+{
+  "english": "our",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của chúng ta",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của chúng tôi",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or associated with the speaker and one or more other people previously mentioned or easily identified.",
+      "definitions_ex_en": "Jo and I had our hair cut",
+      "definitions_ex_vn": "Jo và tôi đã cắt tóc",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used by a writer, editor, or monarch to refer to something belonging to or associated with himself or herself.",
+      "definitions_ex_en": "we want to know what you, our readers, think",
+      "definitions_ex_vn": "Chúng tôi muốn biết những gì bạn, độc giả của chúng tôi, nghĩ",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "variant spelling of -or1 (as in saviour ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "variant spelling of -or2 surviving in some nouns such as ardour, colour.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

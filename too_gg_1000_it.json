@@ -1,0 +1,39 @@
+{
+  "english": "too",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoài ra",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhiều quá",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "quá",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tỉnh lại",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vả lại",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "to a higher degree than is desirable, permissible, or possible; excessively.",
+      "definitions_ex_en": "he was driving too fast",
+      "definitions_ex_vn": "anh ấy đã lái xe quá nhanh",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in addition; also.",
+      "definitions_ex_en": "is he coming too?",
+      "definitions_ex_vn": "Anh ấy có đến quá không?",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

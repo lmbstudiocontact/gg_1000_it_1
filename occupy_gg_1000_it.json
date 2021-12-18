@@ -1,0 +1,41 @@
+{
+  "english": "occupy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếm đóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reside or have one's place of business in (a building).",
+      "definitions_ex_en": "the apartment she occupies in Manhattan",
+      "definitions_ex_vn": "Căn hộ mà cô chiếm giữ ở Manhattan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fill or preoccupy (the mind or thoughts).",
+      "definitions_ex_en": "her mind was occupied with alarming questions",
+      "definitions_ex_vn": "Tâm trí cô đã bị chiếm giữ với những câu hỏi đáng báo động",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take control of (a place, especially a country) by military conquest or settlement.",
+      "definitions_ex_en": "the region was occupied by Britain during World War I",
+      "definitions_ex_vn": "Khu vực này đã bị chiếm bởi Anh trong Thế chiến I",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

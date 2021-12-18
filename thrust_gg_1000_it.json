@@ -1,0 +1,67 @@
+{
+  "english": "thrust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xô",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm dao găm vào lưng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sức đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xâm nhập vào quân địch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xô mạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "push (something or someone) suddenly or violently in the specified direction.",
+      "definitions_ex_en": "she thrust her hands into her pockets",
+      "definitions_ex_vn": "Cô đẩy tay vào túi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden or violent lunge with a pointed weapon or a bodily part.",
+      "definitions_ex_en": "he drove the blade upward with one powerful thrust",
+      "definitions_ex_vn": "Anh ta lái lưỡi kiếm lên trên với một lực đẩy mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the propulsive force of a jet or rocket engine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a reverse fault of low angle, with older strata displaced horizontally over younger.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

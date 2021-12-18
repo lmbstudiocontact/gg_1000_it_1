@@ -1,0 +1,25 @@
+{
+  "english": "uphold",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nâng đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "duy trì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "confirm or support (something which has been questioned).",
+      "definitions_ex_en": "the court upheld his claim for damages",
+      "definitions_ex_vn": "Tòa án giữ nguyên yêu sách bồi thường thiệt hại của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

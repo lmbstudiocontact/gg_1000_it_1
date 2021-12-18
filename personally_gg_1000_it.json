@@ -1,0 +1,23 @@
+{
+  "english": "personally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chính mình",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with the personal presence or action of the individual specified; in person.",
+      "definitions_ex_en": "she stayed to thank O'Brien personally",
+      "definitions_ex_vn": "Cô ấy ở lại để cảm ơn cá nhân O'Brien",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "from someone's personal standpoint or according to their particular nature; in a subjective rather than an objective way.",
+      "definitions_ex_en": "he had spoken personally and emotionally",
+      "definitions_ex_vn": "anh ấy đã nói cá nhân và cảm xúc",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

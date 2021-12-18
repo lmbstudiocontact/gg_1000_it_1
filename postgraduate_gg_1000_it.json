@@ -1,0 +1,27 @@
+{
+  "english": "postgraduate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc thơ bảo đảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thơ bảo đãm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a course of study undertaken after completing an undergraduate degree.",
+      "definitions_ex_en": "a postgraduate degree",
+      "definitions_ex_vn": "một bằng sau đại học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a student engaged in a postgraduate course of study.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

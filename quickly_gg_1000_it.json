@@ -1,0 +1,21 @@
+{
+  "english": "quickly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lẹ làng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at a fast speed; rapidly.",
+      "definitions_ex_en": "Reg's illness progressed frighteningly quickly",
+      "definitions_ex_vn": "Bệnh của Reg tiến triển đáng sợ nhanh chóng",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

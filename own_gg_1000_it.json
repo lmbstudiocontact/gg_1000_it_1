@@ -1,0 +1,63 @@
+{
+  "english": "own",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm chủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm việc gì một mình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thú nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thú thật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used with a possessive to emphasize that someone or something belongs or relates to the person or thing mentioned.",
+      "definitions_ex_en": "they can't handle their own children",
+      "definitions_ex_vn": "Họ không thể xử lý con cái của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "something that belongs to the person or thing mentioned.",
+      "definitions_ex_en": "your life is your own",
+      "definitions_ex_vn": "cuộc sống của bạn là của riêng bạn",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "have (something) as one's own; possess.",
+      "definitions_ex_en": "his father owns a restaurant",
+      "definitions_ex_vn": "Cha anh sở hữu một nhà hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "admit or acknowledge that something is the case or that one feels a certain way.",
+      "definitions_ex_en": "she owned to a feeling of profound jealousy",
+      "definitions_ex_vn": "Cô sở hữu một cảm giác ghen tuông sâu sắc",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "spring",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căn nguyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ cong của tấm ván",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa xuân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước suối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhíp xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính co dản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bung lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rỉ ra nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nổ mìn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or jump suddenly or rapidly upward or forward.",
+      "definitions_ex_en": "I sprang out of bed",
+      "definitions_ex_vn": "Tôi phát ra khỏi giường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "originate or arise from.",
+      "definitions_ex_en": "madness and creativity could spring from the same source",
+      "definitions_ex_vn": "sự điên rồ và sáng tạo có thể mùa xuân từ cùng một nguồn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially of wood) become warped or split.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the season after winter and before summer, in which vegetation begins to appear, in the northern hemisphere from March to May and in the southern hemisphere from September to November.",
+      "definitions_ex_en": "in spring the garden is a feast of blossom",
+      "definitions_ex_vn": "Vào mùa xuân, khu vườn là một bữa tiệc của Blossom",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a resilient device, typically a helical metal coil, that can be pressed or pulled but returns to its former shape when released, used chiefly to exert constant tension or absorb movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden jump upward or forward.",
+      "definitions_ex_en": "with a sudden spring, he leapt onto the table",
+      "definitions_ex_vn": "với một mùa xuân bất ngờ, anh ấy nhảy lên bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where water or oil wells up from an underground source, or the basin or flow formed in such a way.",
+      "definitions_ex_en": "spring water",
+      "definitions_ex_vn": "nước suối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upward curvature of a ship's deck planking from the horizontal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

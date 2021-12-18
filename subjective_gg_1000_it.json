@@ -1,0 +1,33 @@
+{
+  "english": "subjective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ quan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chủ đề",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "based on or influenced by personal feelings, tastes, or opinions.",
+      "definitions_ex_en": "his views are highly subjective",
+      "definitions_ex_vn": "quan điểm của anh ấy rất chủ quan",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting a case of nouns and pronouns used for the subject of a sentence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the subjective case.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

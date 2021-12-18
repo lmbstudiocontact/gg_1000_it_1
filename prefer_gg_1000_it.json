@@ -1,0 +1,45 @@
+{
+  "english": "prefer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ưa hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bổ nhiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thăng chức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích hơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "like (one thing or person) better than another or others; tend to choose.",
+      "definitions_ex_en": "I prefer Venice to Rome",
+      "definitions_ex_vn": "Tôi thích Venice hơn Rome",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "submit (a charge or a piece of information) for consideration.",
+      "definitions_ex_en": "the police will prefer charges",
+      "definitions_ex_vn": "Cảnh sát sẽ thích phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "promote or advance (someone) to a prestigious position.",
+      "definitions_ex_en": "he was preferred to the post",
+      "definitions_ex_vn": "anh ấy được ưu tiên đến bài viết",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

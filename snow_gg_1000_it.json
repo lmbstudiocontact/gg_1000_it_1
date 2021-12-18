@@ -1,0 +1,45 @@
+{
+  "english": "snow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyết rơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.",
+      "definitions_ex_en": "we were trudging through deep snow",
+      "definitions_ex_vn": "Chúng tôi đã trỗi dậy qua tuyết sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal.",
+      "definitions_ex_en": "all that they could pick up on their screens was snow",
+      "definitions_ex_vn": "tất cả những gì họ có thể nhận trên màn hình của họ là tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dessert or other dish resembling snow.",
+      "definitions_ex_en": "vanilla snow",
+      "definitions_ex_vn": "vani tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cocaine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "snow falls.",
+      "definitions_ex_en": "it's not snowing so heavily now",
+      "definitions_ex_vn": "Bây giờ không có tuyết quá nhiều",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "rather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hơi hơi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chút ít",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khá",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to indicate one's preference in a particular matter.",
+      "definitions_ex_en": "would you like some wine or would you rather stick to sherry?",
+      "definitions_ex_vn": "Bạn có muốn một ít rượu hoặc bạn muốn dính vào sherry?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to a certain or significant extent or degree.",
+      "definitions_ex_en": "she's been behaving rather strangely",
+      "definitions_ex_vn": "cô ấy đã cư xử khá lạ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to precede an idea that is different or opposite to a previous statement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

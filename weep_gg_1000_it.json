@@ -1,0 +1,33 @@
+{
+  "english": "weep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chảy nước mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khóc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shed tears.",
+      "definitions_ex_en": "a grieving mother wept over the body of her daughter",
+      "definitions_ex_vn": "Một bà mẹ đau buồn khóc vì cơ thể của con gái mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exude liquid.",
+      "definitions_ex_en": "she rubbed the sore, making it weep",
+      "definitions_ex_vn": "Cô xoa đau, làm cho nó khóc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a fit or period of weeping.",
+      "definitions_ex_en": "sit down and have a weep",
+      "definitions_ex_vn": "Ngồi xuống và khóc",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

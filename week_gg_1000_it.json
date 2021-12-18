@@ -1,0 +1,21 @@
+{
+  "english": "week",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuần lể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of seven days.",
+      "definitions_ex_en": "the course lasts sixteen weeks",
+      "definitions_ex_vn": "Khóa học kéo dài mười sáu tuần",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

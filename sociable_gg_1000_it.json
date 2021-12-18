@@ -1,0 +1,35 @@
+{
+  "english": "sociable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tính hợp quần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tính xả giao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ghế trường kỷ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe ngựa bốn bánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "willing to talk and engage in activities with other people; friendly.",
+      "definitions_ex_en": "being a sociable person, Eva loved entertaining",
+      "definitions_ex_vn": "Là một người hòa đồng, Eva yêu thích giải trí",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an open carriage with facing side seats.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

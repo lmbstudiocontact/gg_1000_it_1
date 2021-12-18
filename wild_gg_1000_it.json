@@ -1,0 +1,55 @@
+{
+  "english": "wild",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điên cuồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoang dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phóng đảng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an animal or plant) living or growing in the natural environment; not domesticated or cultivated.",
+      "definitions_ex_en": "a herd of wild goats",
+      "definitions_ex_vn": "một đàn dê hoang dã",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a place or region) uninhabited, uncultivated, or inhospitable.",
+      "definitions_ex_en": "an expanse of wild moorland",
+      "definitions_ex_vn": "một vùng đất hoang dã rộng rãi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking discipline or restraint.",
+      "definitions_ex_en": "wild parties were never her scene",
+      "definitions_ex_vn": "Các bên hoang dã chưa bao giờ là cảnh của cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not based on sound reasoning or probability.",
+      "definitions_ex_en": "a wild guess",
+      "definitions_ex_vn": "một phỏng đoán hoang dã",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a playing card) deemed to have any value, suit, color, or other property in a game at the discretion of the player holding it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a natural state or uncultivated or uninhabited region.",
+      "definitions_ex_en": "kiwis are virtually extinct in the wild",
+      "definitions_ex_vn": "Kiwis hầu như tuyệt chủng trong tự nhiên",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

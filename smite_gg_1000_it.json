@@ -1,0 +1,45 @@
+{
+  "english": "smite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phải lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike with a firm blow.",
+      "definitions_ex_en": "he smites the water with his sword",
+      "definitions_ex_vn": "Anh đánh nước bằng thanh kiếm của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be strongly attracted to someone or something.",
+      "definitions_ex_en": "she was so smitten with the boy",
+      "definitions_ex_vn": "Cô ấy đã rất say mê chàng trai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a heavy blow or stroke with a weapon or the hand.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

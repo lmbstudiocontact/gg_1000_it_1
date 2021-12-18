@@ -1,0 +1,33 @@
+{
+  "english": "slay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ám sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "kill (a person or animal) in a violent way.",
+      "definitions_ex_en": "St. George slew the dragon",
+      "definitions_ex_vn": "St. George Slew rồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "greatly impress or amuse (someone).",
+      "definitions_ex_en": "you slay me, you really do",
+      "definitions_ex_vn": "bạn giết tôi, bạn thực sự làm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of sley.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

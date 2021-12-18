@@ -1,0 +1,43 @@
+{
+  "english": "noise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng huyên náo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng la",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng om sòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công bố",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sound, especially one that is loud or unpleasant or that causes disturbance.",
+      "definitions_ex_en": "making a noise like a pig in a trough",
+      "definitions_ex_vn": "Tạo tiếng ồn như một con lợn trong máng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "irregular fluctuations that accompany a transmitted electrical signal but are not part of it and tend to obscure it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "painting",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bức tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tả ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tô điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vẽ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or art of using paint, in a picture, as a protective coating, or as decoration.",
+      "definitions_ex_en": "pastels require a different approach to painting",
+      "definitions_ex_vn": "phấn màu đòi hỏi một cách tiếp cận khác để vẽ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

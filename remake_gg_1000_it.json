@@ -1,0 +1,39 @@
+{
+  "english": "remake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xây dựng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem xét lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sản xuất lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) again or differently.",
+      "definitions_ex_en": "the bed would be more comfortable if it were remade",
+      "definitions_ex_vn": "giường sẽ thoải mái hơn nếu nó được làm lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a movie or piece of music that has been filmed or recorded again and rereleased.",
+      "definitions_ex_en": "a remake of the classic horror tale, “Frankenstein”",
+      "definitions_ex_vn": "Một phiên bản làm lại của câu chuyện kinh dị cổ điển, \"Frankenstein\"",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

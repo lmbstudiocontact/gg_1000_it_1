@@ -1,0 +1,35 @@
+{
+  "english": "result",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đưa đến kết quả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a consequence, effect, or outcome of something.",
+      "definitions_ex_en": "the tower collapsed as a result of safety violations",
+      "definitions_ex_vn": "tòa tháp sụp đổ do vi phạm an toàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "occur or follow as the consequence of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

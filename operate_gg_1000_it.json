@@ -1,0 +1,55 @@
+{
+  "english": "operate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có công hiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có hiệu qủa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có tác dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mổ xẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thi hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vận chuyển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) control the functioning of (a machine, process, or system).",
+      "definitions_ex_en": "a shortage of workers to operate new machines",
+      "definitions_ex_vn": "thiếu công nhân để vận hành máy móc mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform a surgical operation.",
+      "definitions_ex_en": "surgeons operated on on his jaw yesterday morning",
+      "definitions_ex_vn": "Bác sĩ phẫu thuật vận hành trên hàm của mình vào sáng hôm qua",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

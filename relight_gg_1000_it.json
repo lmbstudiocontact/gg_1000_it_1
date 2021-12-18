@@ -1,0 +1,21 @@
+{
+  "english": "relight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bật đèn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở đèn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "light (something) again.",
+      "definitions_ex_en": "he reached for the matches to relight his pipe",
+      "definitions_ex_vn": "Anh ấy với tới các trận đấu để right ống của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

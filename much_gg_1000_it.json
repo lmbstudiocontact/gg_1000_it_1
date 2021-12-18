@@ -1,0 +1,37 @@
+{
+  "english": "much",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều lắm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "rất nhiều",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a great amount or quantity of.",
+      "definitions_ex_en": "I didn't get much sleep",
+      "definitions_ex_vn": "Tôi đã không ngủ nhiều",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a great amount or quantity.",
+      "definitions_ex_en": "he doesn't eat much",
+      "definitions_ex_vn": "anh ấy không ăn nhiều",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "to a great extent; a great deal.",
+      "definitions_ex_en": "did it hurt much?",
+      "definitions_ex_vn": "Nó đã làm tổn thương nhiều?",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

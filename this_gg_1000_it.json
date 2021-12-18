@@ -1,0 +1,61 @@
+{
+  "english": "this",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nầy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "điều này",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "vật nầy",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to identify a specific person or thing close at hand or being indicated or experienced.",
+      "definitions_ex_en": "is this your bag?",
+      "definitions_ex_vn": "có phải đây là túi của bạn?",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "referring to a specific thing or situation just mentioned.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to identify a specific person or thing close at hand or being indicated or experienced.",
+      "definitions_ex_en": "don't listen to this guy",
+      "definitions_ex_vn": "Đừng nghe anh chàng này",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "referring to a specific thing or situation just mentioned.",
+      "definitions_ex_en": "there was a court case resulting from this incident",
+      "definitions_ex_vn": "Có một trường hợp tòa án kết quả từ sự cố này",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used with periods of time related to the present.",
+      "definitions_ex_en": "I thought you were busy all this week",
+      "definitions_ex_vn": "Tôi nghĩ bạn đang bận rộn tất cả trong tuần này",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used (chiefly in narrative) to refer to a person or thing previously unspecified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "to the degree or extent indicated.",
+      "definitions_ex_en": "they can't handle a job this big",
+      "definitions_ex_vn": "họ không thể xử lý một công việc lớn này",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

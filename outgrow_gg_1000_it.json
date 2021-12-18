@@ -1,0 +1,29 @@
+{
+  "english": "outgrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mau lớn hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trội hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên lớn hơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grow too big for (something).",
+      "definitions_ex_en": "babies outgrow their first car seat at six to nine months",
+      "definitions_ex_vn": "Em bé vượt xa ghế xe đầu tiên của họ lúc sáu đến chín tháng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

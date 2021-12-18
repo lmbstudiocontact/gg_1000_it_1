@@ -1,0 +1,55 @@
+{
+  "english": "when",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chừng nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khi nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lúc nào",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at what time.",
+      "definitions_ex_en": "when did you last see him?",
+      "definitions_ex_vn": "Lần cuối bạn thấy anh ta là khi nào?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at or on which (referring to a time or circumstance).",
+      "definitions_ex_en": "Saturday is the day when I get my hair done",
+      "definitions_ex_vn": "Thứ bảy là ngày tôi làm tóc xong",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at or during the time that.",
+      "definitions_ex_en": "I loved math when I was in school",
+      "definitions_ex_vn": "Tôi yêu toán học khi tôi ở trường",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "after which; and just then (implying suddenness).",
+      "definitions_ex_en": "he had just drifted off to sleep when the phone rang",
+      "definitions_ex_vn": "anh ta vừa trôi đi để ngủ khi điện thoại reo",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "in view of the fact that; considering that.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "although; whereas.",
+      "definitions_ex_en": "I'm saying it now when I should have told you long ago",
+      "definitions_ex_vn": "Tôi đang nói bây giờ khi tôi nên nói với bạn từ lâu",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

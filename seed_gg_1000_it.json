@@ -1,0 +1,77 @@
+{
+  "english": "seed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn gốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flowering plant's unit of reproduction, capable of developing into another such plant.",
+      "definitions_ex_en": "cut open the peppers and remove the seeds",
+      "definitions_ex_vn": "Cắt mở ớt và loại bỏ hạt giống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a man's semen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of stronger competitors in a sports tournament who have been assigned a specified position in an ordered list with the aim of ensuring that they do not play each other in the early rounds.",
+      "definitions_ex_en": "he knocked the top seed out of the championships",
+      "definitions_ex_vn": "Anh ta gõ hạt giống hàng đầu ra khỏi chức vô địch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small crystal introduced into a liquid to act as a nucleus for crystallization.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small container for radioactive material placed in body tissue during radiotherapy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sow (land) with seeds.",
+      "definitions_ex_en": "the shoreline is seeded with a special grass",
+      "definitions_ex_vn": "bờ biển được gieo hạt với một loại cỏ đặc biệt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plant) produce or drop seeds.",
+      "definitions_ex_en": "mulches encourage many plants to seed freely",
+      "definitions_ex_vn": "Mulches khuyến khích nhiều cây để gieo hạt tự do",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove the seeds from (vegetables or fruit).",
+      "definitions_ex_en": "stem and seed the chilies",
+      "definitions_ex_vn": "Thân cây và hạt giống ớt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (a competitor) the status of seed in a tournament.",
+      "definitions_ex_en": "Jeff Tarango, seeded five, was defeated by fellow American Todd Witsken",
+      "definitions_ex_vn": "Jeff Tarango, gieo hạt năm, đã bị đánh bại bởi đồng nghiệp của Mỹ Todd Witsken",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

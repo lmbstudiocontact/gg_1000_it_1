@@ -1,0 +1,21 @@
+{
+  "english": "obviously",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "xác thật",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that is easily perceived or understood; clearly.",
+      "definitions_ex_en": "she was obviously sick",
+      "definitions_ex_vn": "cô ấy rõ ràng là bệnh",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

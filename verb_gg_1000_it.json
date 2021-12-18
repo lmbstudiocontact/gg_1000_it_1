@@ -1,0 +1,23 @@
+{
+  "english": "verb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "động từ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use (a word that is not conventionally used as a verb, typically a noun) as a verb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

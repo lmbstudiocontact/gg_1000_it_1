@@ -1,0 +1,47 @@
+{
+  "english": "until",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị bắt quả tang",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "cho đến khi",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "trồng trọt",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "cho đến lúc",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "đến",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "đến bây giờ",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "đến lúc đó",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "up to (the point in time or the event mentioned).",
+      "definitions_ex_en": "the kidnappers have given us until October 11th to deliver the documents",
+      "definitions_ex_vn": "Những kẻ bắt cóc đã cho chúng tôi cho đến ngày 11 tháng 10 để cung cấp các tài liệu",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "up to the point in time or the event mentioned.",
+      "definitions_ex_en": "you don't know what you can achieve until you try",
+      "definitions_ex_vn": "Bạn không biết những gì bạn có thể đạt được cho đến khi bạn thử",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

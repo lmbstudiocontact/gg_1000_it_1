@@ -1,0 +1,49 @@
+{
+  "english": "pour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắn như mưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mưa nặng hột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rót vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trút nước xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trút vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "flow rapidly in a steady stream.",
+      "definitions_ex_en": "water poured off the roof",
+      "definitions_ex_vn": "nước đổ ra khỏi mái nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come or go in a steady stream and in large numbers.",
+      "definitions_ex_en": "people poured out of the train",
+      "definitions_ex_vn": "Mọi người đổ ra khỏi tàu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of rain) fall heavily.",
+      "definitions_ex_en": "the storm clouds gathered and the rain poured down",
+      "definitions_ex_vn": "Những đám mây bão tụ tập và mưa đổ xuống",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

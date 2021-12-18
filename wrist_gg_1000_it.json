@@ -1,0 +1,31 @@
+{
+  "english": "wrist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cổ tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cổ tay áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cườm tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the joint connecting the hand with the forearm.",
+      "definitions_ex_en": "I fell over and sprained my wrist",
+      "definitions_ex_vn": "Tôi ngã gục xuống và bị bong gân cổ tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a machine) a stud projecting from a crank as an attachment for a connecting rod.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

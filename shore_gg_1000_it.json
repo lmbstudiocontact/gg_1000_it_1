@@ -1,0 +1,43 @@
+{
+  "english": "shore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mé biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đem hàng lên bờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the land along the edge of a sea, lake, or other large body of water.",
+      "definitions_ex_en": "I took the tiller and made for the shore",
+      "definitions_ex_vn": "Tôi lấy máy xới và làm cho bờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a prop or beam set obliquely against something weak or unstable as a support.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "support or hold up something with props or beams.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "archaic past of shear.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

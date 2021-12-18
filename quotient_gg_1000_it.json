@@ -1,0 +1,27 @@
+{
+  "english": "quotient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số chia được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia được",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a result obtained by dividing one quantity by another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a degree or amount of a specified quality or characteristic.",
+      "definitions_ex_en": "the increase in Washington's cynicism quotient",
+      "definitions_ex_vn": "Sự gia tăng của sự hoài nghi của Washington",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

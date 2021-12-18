@@ -1,0 +1,91 @@
+{
+  "english": "pair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cặp vợ chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt cặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đôi vợ chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt cặp từng đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cặp đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao cấu của thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt thành cặp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu xếp thành đôi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of two things used together or regarded as a unit.",
+      "definitions_ex_en": "a pair of gloves",
+      "definitions_ex_vn": "một đôi găng tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an article consisting of two joined or corresponding parts not used separately.",
+      "definitions_ex_en": "a pair of jeans",
+      "definitions_ex_vn": "một chiếc quần jean",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either or both of two members of a legislative assembly on opposite sides who absent themselves from voting by mutual arrangement, leaving the relative position of the parties unaffected.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "join or connect to form a pair.",
+      "definitions_ex_en": "she wore a cardigan paired with a matching skirt",
+      "definitions_ex_vn": "Cô mặc một chiếc áo len ghép với một chiếc váy phù hợp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (a member of a legislative assembly) another member as a pair, to allow both to absent themselves from a vote without affecting the result.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wirelessly connect (an electronic device) to another via Bluetooth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

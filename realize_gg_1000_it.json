@@ -1,0 +1,55 @@
+{
+  "english": "realize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiểu rỏ việc gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tả như thật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thực hiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẽ hình như thật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ý thức rỏ ràng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "become fully aware of (something) as a fact; understand clearly.",
+      "definitions_ex_en": "he realized his mistake at once",
+      "definitions_ex_vn": "Anh nhận ra sai lầm của mình ngay lập tức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (something desired or anticipated) to happen.",
+      "definitions_ex_en": "his worst fears have been realized",
+      "definitions_ex_vn": "nỗi sợ hãi tồi tệ nhất của anh đã được nhận ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give actual or physical form to.",
+      "definitions_ex_en": "the stage designs have been beautifully realized",
+      "definitions_ex_vn": "Các thiết kế sân khấu đã được thực hiện đẹp mắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (money or a profit) from a transaction.",
+      "definitions_ex_en": "she realized a profit of $100,000",
+      "definitions_ex_vn": "Cô nhận ra lợi nhuận 100.000 đô la",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

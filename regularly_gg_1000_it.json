@@ -1,0 +1,39 @@
+{
+  "english": "regularly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có định kỳ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đều đều",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with a constant or definite pattern, especially with the same space between individual items.",
+      "definitions_ex_en": "regularly spaced buildings",
+      "definitions_ex_vn": "Tòa nhà cách đều nhau thường xuyên",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at uniform intervals of time.",
+      "definitions_ex_en": "the reunion has taken place regularly every two years",
+      "definitions_ex_vn": "Cuộc hội ngộ đã diễn ra thường xuyên hai năm một lần",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "on a habitual basis; usually.",
+      "definitions_ex_en": "the person who regularly cuts your hair",
+      "definitions_ex_vn": "Người thường xuyên cắt tóc của bạn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a way that follows the normal pattern of inflection.",
+      "definitions_ex_en": "a regularly inflected plural noun",
+      "definitions_ex_vn": "một danh từ số nhiều thường xuyên bị thổi phồng",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

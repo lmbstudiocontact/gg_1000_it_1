@@ -1,0 +1,27 @@
+{
+  "english": "somewhere",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở nơi nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vài nơi khác",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in or to some place.",
+      "definitions_ex_en": "I've seen you somewhere before",
+      "definitions_ex_vn": "Tôi đã nhìn thấy bạn ở đâu đó trước đây",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "some unspecified place.",
+      "definitions_ex_en": "in search of somewhere to live",
+      "definitions_ex_vn": "tìm kiếm một nơi nào đó để sống",
+      "definitions_type_word": "pronoun"
+    }
+  ]
+}

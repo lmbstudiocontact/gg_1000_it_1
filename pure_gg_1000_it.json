@@ -1,0 +1,41 @@
+{
+  "english": "pure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không pha lộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguyên chất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tinh khiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuần lý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuần túy",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not mixed or adulterated with any other substance or material.",
+      "definitions_ex_en": "cars can run on pure alcohol",
+      "definitions_ex_vn": "Ô tô có thể chạy trên rượu nguyên chất",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

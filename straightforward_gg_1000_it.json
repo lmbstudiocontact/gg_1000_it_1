@@ -1,0 +1,33 @@
+{
+  "english": "straightforward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thẳng về phía trước",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "uncomplicated and easy to do or understand.",
+      "definitions_ex_en": "in a straightforward case no fees will be charged",
+      "definitions_ex_vn": "Trong một trường hợp đơn giản, không có phí sẽ được tính phí",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

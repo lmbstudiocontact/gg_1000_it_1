@@ -1,0 +1,31 @@
+{
+  "english": "suppose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giả sử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giả thiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận là có thật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "assume that something is the case on the basis of evidence or probability but without proof or certain knowledge.",
+      "definitions_ex_en": "I suppose I got there about half past eleven",
+      "definitions_ex_vn": "Tôi cho rằng tôi đã đến đó khoảng mười một giờ rưỡi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be required to do something because of the position one is in or an agreement one has made.",
+      "definitions_ex_en": "I'm supposed to be meeting someone at the airport",
+      "definitions_ex_vn": "Tôi phải gặp một người tại sân bay",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

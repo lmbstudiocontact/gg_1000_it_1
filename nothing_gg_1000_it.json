@@ -1,0 +1,45 @@
+{
+  "english": "nothing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không có gì mới cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không đáng kể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không quan hệ lắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số không",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not anything; no single thing.",
+      "definitions_ex_en": "I said nothing",
+      "definitions_ex_vn": "Tôi không nói gì",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "having no prospect of progress; of no value.",
+      "definitions_ex_en": "he had a series of nothing jobs",
+      "definitions_ex_vn": "anh ấy đã có một loạt các công việc không có công việc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not at all.",
+      "definitions_ex_en": "he looks nothing like the others",
+      "definitions_ex_vn": "anh ấy trông không giống những người khác",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

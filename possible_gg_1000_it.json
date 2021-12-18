@@ -1,0 +1,31 @@
+{
+  "english": "possible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lẻ được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể làm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to be done; within the power or capacity of someone or something.",
+      "definitions_ex_en": "surely it's not possible for a man to live so long?",
+      "definitions_ex_vn": "Chắc chắn là một người đàn ông sống lâu như vậy?",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing that has the potential to become or do something, especially a potential candidate for a job or membership on a team.",
+      "definitions_ex_en": "I have marked five possibles with an asterisk",
+      "definitions_ex_vn": "Tôi đã đánh dấu năm persible với dấu hoa thị",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

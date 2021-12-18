@@ -1,0 +1,41 @@
+{
+  "english": "product",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phẫm vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phẫm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an article or substance that is manufactured or refined for sale.",
+      "definitions_ex_en": "food products",
+      "definitions_ex_vn": "Sản phẩm thực phẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing or person that is the result of an action or process.",
+      "definitions_ex_en": "his daughter, the product of his first marriage",
+      "definitions_ex_vn": "Con gái ông, sản phẩm của cuộc hôn nhân đầu tiên của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity obtained by multiplying quantities together, or from an analogous algebraic operation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

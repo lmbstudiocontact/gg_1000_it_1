@@ -1,0 +1,29 @@
+{
+  "english": "pollute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẩn thỉu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ô uế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dơ dáy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dơ bẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "contaminate (water, air, or a place) with harmful or poisonous substances.",
+      "definitions_ex_en": "the explosion polluted the town with dioxin",
+      "definitions_ex_vn": "vụ nổ gây ô nhiễm thị trấn với điôxin",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

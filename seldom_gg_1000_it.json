@@ -1,0 +1,23 @@
+{
+  "english": "seldom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ít có",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not often; rarely.",
+      "definitions_ex_en": "Islay is seldom visited by tourists",
+      "definitions_ex_vn": "Islay hiếm khi được khách du lịch ghé thăm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "not common; infrequent.",
+      "definitions_ex_en": "a great but seldom pleasure",
+      "definitions_ex_vn": "một niềm vui tuyệt vời nhưng hiếm khi",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

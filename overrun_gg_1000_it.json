@@ -1,0 +1,73 @@
+{
+  "english": "overrun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chạy mau hơn máy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho máy chạy quá nhiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem xuống hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nước tràn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn phá một xứ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tràn ngập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tràn vào một xứ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "spread over or occupy (a place) in large numbers.",
+      "definitions_ex_en": "the Mediterranean has been overrun by tourists",
+      "definitions_ex_vn": "Địa Trung Hải đã bị khách du lịch tràn ngập",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "continue beyond or above an expected or allowed time or cost.",
+      "definitions_ex_en": "he mustn't overrun his budget",
+      "definitions_ex_vn": "Anh ta không được vượt qua ngân sách của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of something exceeding an expected or allowed time or cost.",
+      "definitions_ex_en": "an unexpectedly large cost overrun in the program",
+      "definitions_ex_vn": "một chi phí lớn bất ngờ tràn ngập trong chương trình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the movement or extension of something beyond an allotted or particular position or space.",
+      "definitions_ex_en": "the system acts as a brake to prevent cable overrun",
+      "definitions_ex_vn": "Hệ thống hoạt động như một phanh để ngăn chặn tràn cáp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the movement of a vehicle at a speed greater than is imparted by the engine.",
+      "definitions_ex_en": "the engines have overrun fuel cutoff",
+      "definitions_ex_vn": "Các động cơ đã vượt qua nhiên liệu bị cắt",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

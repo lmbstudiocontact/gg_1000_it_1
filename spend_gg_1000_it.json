@@ -1,0 +1,43 @@
+{
+  "english": "spend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiêu pha",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kiệt sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng hết tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xài phí",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pay out (money) in buying or hiring goods or services.",
+      "definitions_ex_en": "the firm has spent $100,000 on hardware and software",
+      "definitions_ex_vn": "Công ty đã chi 100.000 đô la cho phần cứng và phần mềm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an amount of money paid for a particular purpose or over a particular period of time.",
+      "definitions_ex_en": "the average spend at the cafe is about $10 a head",
+      "definitions_ex_vn": "Chi tiêu trung bình tại quán cà phê là khoảng 10 đô la một đầu",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

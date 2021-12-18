@@ -1,0 +1,29 @@
+{
+  "english": "vacancy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trạng thái trống không",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unoccupied position or job.",
+      "definitions_ex_en": "a vacancy for a shorthand typist",
+      "definitions_ex_vn": "một vị trí tuyển dụng cho một người đánh máy tốc ký",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "empty space.",
+      "definitions_ex_en": "Cathy stared into vacancy, seeing nothing",
+      "definitions_ex_vn": "Cathy nhìn chằm chằm vào vị trí tuyển dụng, không thấy gì cả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lack of intelligence or understanding.",
+      "definitions_ex_en": "vacancy, vanity, and inane deception",
+      "definitions_ex_vn": "Vị trí tuyển dụng, Vanity và Decondtion",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "unfriendly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có lòng tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thân thiết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not friendly.",
+      "definitions_ex_en": "she shot him an unfriendly glance",
+      "definitions_ex_vn": "Cô ấy bắn cho anh ta một cái nhìn không thân thiện",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

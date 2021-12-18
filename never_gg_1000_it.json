@@ -1,0 +1,31 @@
+{
+  "english": "never",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không bao giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không khi nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không thay đổi",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at no time in the past or future; on no occasion; not ever.",
+      "definitions_ex_en": "they had never been camping in their lives",
+      "definitions_ex_vn": "họ chưa bao giờ cắm trại trong cuộc sống của họ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "not at all.",
+      "definitions_ex_en": "he never turned up",
+      "definitions_ex_vn": "anh ấy không bao giờ bật lên",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

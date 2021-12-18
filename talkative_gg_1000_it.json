@@ -1,0 +1,21 @@
+{
+  "english": "talkative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay nói chuyện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lắm lời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fond of or given to talking.",
+      "definitions_ex_en": "the talkative driver hadn't stopped chatting",
+      "definitions_ex_vn": "Người lái xe nói chuyện đã không ngừng trò chuyện",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

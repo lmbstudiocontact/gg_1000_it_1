@@ -1,0 +1,51 @@
+{
+  "english": "season",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho quen khí hậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nêm gia vị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours, resulting from the earth's changing position with regard to the sun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a period when a female mammal is ready to mate.",
+      "definitions_ex_en": "the bitch can come into season at irregular intervals",
+      "definitions_ex_vn": "Chó cái có thể vào mùa trong khoảng thời gian không đều",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "add salt, herbs, pepper, or other spices to (food).",
+      "definitions_ex_en": "season the soup to taste with salt and pepper",
+      "definitions_ex_vn": "Nêm súp để nếm muối và hạt tiêu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (wood) suitable for use as timber by adjusting its moisture content to that of the environment in which it will be used.",
+      "definitions_ex_en": "I collect and season most of my wood",
+      "definitions_ex_vn": "Tôi thu thập và mùa hầu hết gỗ của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

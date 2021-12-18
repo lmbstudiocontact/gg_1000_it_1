@@ -1,0 +1,25 @@
+{
+  "english": "recording",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạt kỷ luật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự ghi vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thâu vào dĩa hát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of recording sound or a performance for subsequent reproduction or broadcast.",
+      "definitions_ex_en": "a recording studio",
+      "definitions_ex_vn": "một studio ghi âm.",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

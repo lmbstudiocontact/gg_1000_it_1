@@ -1,0 +1,31 @@
+{
+  "english": "organize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấu tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấu thành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tổ chức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "arrange into a structured whole; order.",
+      "definitions_ex_en": "organize lessons in a planned way",
+      "definitions_ex_vn": "Sắp xếp các bài học một cách theo kế hoạch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make arrangements or preparations for (an event or activity); coordinate.",
+      "definitions_ex_en": "the union organized a 24-hour general strike",
+      "definitions_ex_vn": "Liên minh đã tổ chức một cuộc đình công chung 24 giờ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

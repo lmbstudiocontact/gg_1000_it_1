@@ -1,0 +1,53 @@
+{
+  "english": "slacks",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không hoàn toàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of a rope or line which is not held taut; the loose or unused part.",
+      "definitions_ex_en": "I picked up the rod and wound in the slack",
+      "definitions_ex_vn": "Tôi nhặt thanh và vết thương trong chùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a spell of inactivity or laziness.",
+      "definitions_ex_en": "he slept deeply, refreshed by a little slack in the daily routine",
+      "definitions_ex_vn": "anh ta ngủ sâu, được làm mới bằng một chút chùng trong thói quen hàng ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "casual trousers.",
+      "definitions_ex_en": "he put on a gray shirt and loose cotton slacks",
+      "definitions_ex_vn": "Anh mặc áo sơ mi màu xám và quần cotton lỏng lẻo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coal dust or small pieces of coal.",
+      "definitions_ex_en": "the fire was stoked with a mixture of slack and cement",
+      "definitions_ex_vn": "ngọn lửa đã bị đánh cắp với một hỗn hợp của chùng và xi măng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "loosen (something, especially a rope).",
+      "definitions_ex_en": "slacking the outhaul allows you to adjust the sail",
+      "definitions_ex_vn": "Slacking Outhaul cho phép bạn điều chỉnh cánh buồm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decrease or reduce in intensity, quantity, or speed.",
+      "definitions_ex_en": "the flow of blood slacked off",
+      "definitions_ex_vn": "dòng chảy của máu chậm lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "slake (lime).",
+      "definitions_ex_en": "150 sacks of lime were slacked by the inrushing water",
+      "definitions_ex_vn": "150 bao tải vôi đã bị chùng xuống bởi nước in",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

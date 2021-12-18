@@ -1,0 +1,49 @@
+{
+  "english": "once",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cùng một lần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lập tức",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "một lần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngày trước",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngày xưa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tức thì",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "on one occasion or for one time only.",
+      "definitions_ex_en": "they deliver once a week",
+      "definitions_ex_vn": "họ giao hàng một lần một tuần",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at some time in the past; formerly.",
+      "definitions_ex_en": "He had once been an Army officer",
+      "definitions_ex_vn": "Ông đã từng là một sĩ quan quân đội",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "as soon as; when.",
+      "definitions_ex_en": "once the grapes were pressed, the juice was put into barrels",
+      "definitions_ex_vn": "Một khi nho được ép, nước trái cây được đưa vào thùng",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

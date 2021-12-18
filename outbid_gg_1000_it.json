@@ -1,0 +1,21 @@
+{
+  "english": "outbid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả giá cao hơn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offer to pay a higher price for something than (another person).",
+      "definitions_ex_en": "residential builders could always outbid any farmer for the land",
+      "definitions_ex_vn": "Các nhà xây dựng dân cư luôn có thể vượt xa bất kỳ nông dân nào cho đất",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

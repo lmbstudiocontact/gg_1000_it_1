@@ -1,0 +1,51 @@
+{
+  "english": "toot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng còi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng súp lê của tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổi còi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi kèn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short, sharp sound made by a horn, trumpet, or similar instrument.",
+      "definitions_ex_en": "an accidental toot from the saxophonist",
+      "definitions_ex_vn": "một toot vô tình từ nghệ sĩ saxophone",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a snort of a drug, especially cocaine.",
+      "definitions_ex_en": "he still likes a toot",
+      "definitions_ex_vn": "anh ấy vẫn thích một toot",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sound (a horn or similar instrument) with a short, sharp sound.",
+      "definitions_ex_en": "behind us an impatient driver tooted a horn",
+      "definitions_ex_vn": "Đằng sau chúng tôi một người lái xe thiếu kiên nhẫn đã cho một chiếc sừng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "snort (cocaine).",
+      "definitions_ex_en": "the drawbacks of tooting cocaine",
+      "definitions_ex_vn": "những nhược điểm của cocaine",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

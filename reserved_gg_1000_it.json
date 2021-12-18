@@ -1,0 +1,35 @@
+{
+  "english": "reserved",
+  "list_translation_mean": [
+    {
+      "translate_mean": "để dành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giử gìn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kín đáo",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "slow to reveal emotion or opinions.",
+      "definitions_ex_en": "he is a reserved, almost taciturn man",
+      "definitions_ex_vn": "anh ấy là một người đàn ông dành riêng, gần như taciturn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "kept specially for a particular purpose or person.",
+      "definitions_ex_en": "a reserved seat",
+      "definitions_ex_vn": "một chỗ ngồi dành riêng",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "sneak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học sinh hay mách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ cắp vặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vô giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mách lẻo người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or go in a furtive or stealthy manner.",
+      "definitions_ex_en": "I sneaked out by the back exit",
+      "definitions_ex_vn": "Tôi lẻn ra khỏi lối ra phía sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a furtive and contemptible person.",
+      "definitions_ex_en": "he was branded a prying sneak for eavesdropping on intimate conversation",
+      "definitions_ex_vn": "anh ta đã có thương hiệu một tiếng lén lút để nghe lén cuộc trò chuyện thân mật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "acting or done surreptitiously, unofficially, or without warning.",
+      "definitions_ex_en": "a sneak thief",
+      "definitions_ex_vn": "một kẻ trộm lẻn",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

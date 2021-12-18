@@ -1,0 +1,25 @@
+{
+  "english": "visa",
+  "list_translation_mean": [
+    {
+      "translate_mean": "visa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy chiếu khán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm nhận giấy thông hành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.",
+      "definitions_ex_en": "a tourist visa",
+      "definitions_ex_vn": "Visa du lịch",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

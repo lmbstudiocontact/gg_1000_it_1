@@ -1,0 +1,59 @@
+{
+  "english": "override",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt làm việc quá độ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầu xương gãy chồng lên nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "use one's authority to reject or cancel (a decision, view, etc.).",
+      "definitions_ex_en": "the legislature's insistence on overriding his budget vetoes",
+      "definitions_ex_vn": "sự khăng khăng của cơ quan lập pháp về việc ghi đè vetoes ngân sách của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "interrupt the action of (an automatic device), typically in order to take manual control.",
+      "definitions_ex_en": "you can override the cutout by releasing the switch",
+      "definitions_ex_vn": "Bạn có thể ghi đè cutout bằng cách phát hành công tắc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend over; overlap.",
+      "definitions_ex_en": "the external rendering should not override the vapor barrier",
+      "definitions_ex_vn": "Kết xuất bên ngoài không nên ghi đè rào cản hơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "travel or move over.",
+      "definitions_ex_en": "part of the deposit was overridden and covered by the advancing ice",
+      "definitions_ex_vn": "một phần của tiền gửi đã bị ghi đè lên và được bao phủ bởi băng tiến bộ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a device for suspending an automatic function on a machine.",
+      "definitions_ex_en": "the flash has to have a manual override to be useful",
+      "definitions_ex_vn": "Đèn flash phải có ghi đè thủ công để hữu ích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an excess or increase on a budget, salary, or cost.",
+      "definitions_ex_en": "commission overrides give established carriers an unfair advantage",
+      "definitions_ex_vn": "Ủy ban ghi đè cung cấp cho các hãng vận tải thành lập một lợi thế không công bằng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

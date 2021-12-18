@@ -1,0 +1,21 @@
+{
+  "english": "perhaps",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lẻ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không chừng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to express uncertainty or possibility.",
+      "definitions_ex_en": "perhaps I should have been frank with him",
+      "definitions_ex_vn": "Có lẽ tôi nên đã thẳng thắn với anh ấy",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

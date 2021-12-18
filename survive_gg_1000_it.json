@@ -1,0 +1,29 @@
+{
+  "english": "survive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "còn sống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sống lâu hơn hết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sống sót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẩn tồn tại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "continue to live or exist, especially in spite of danger or hardship.",
+      "definitions_ex_en": "against all odds the child survived",
+      "definitions_ex_vn": "chống lại tất cả các tỷ lệ cược mà đứa trẻ sống sót",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

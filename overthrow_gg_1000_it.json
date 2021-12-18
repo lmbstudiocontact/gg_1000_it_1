@@ -1,0 +1,65 @@
+{
+  "english": "overthrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm hỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá đổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá hoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tàn phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thất bại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lật đổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove forcibly from power.",
+      "definitions_ex_en": "military coups which had attempted to overthrow the King",
+      "definitions_ex_vn": "Các cuộc đảo chính quân sự đã cố gắng lật đổ nhà vua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "throw (a ball) further or harder than intended.",
+      "definitions_ex_en": "he grips the ball too tight and overthrows it",
+      "definitions_ex_vn": "anh ta nắm chặt bóng quá chặt và lật đổ nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a removal from power; a defeat or downfall.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in baseball and other games) a throw that sends a ball past its intended recipient or target.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a panel of decorated wrought-iron work above an arch or gateway.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

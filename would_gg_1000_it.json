@@ -1,0 +1,61 @@
+{
+  "english": "would",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều quyết định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý muốn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past of will1, in various senses.",
+      "definitions_ex_en": "he said he would be away for a couple of days",
+      "definitions_ex_vn": "Anh ấy nói anh ấy sẽ đi trong một vài ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(expressing the conditional mood) indicating the consequence of an imagined event or situation.",
+      "definitions_ex_en": "he would lose his job if he were identified",
+      "definitions_ex_vn": "anh ta sẽ mất việc nếu anh ta được xác định",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a desire or inclination.",
+      "definitions_ex_en": "I would love to work in Prague",
+      "definitions_ex_vn": "Tôi rất thích làm việc ở Prague",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a polite request.",
+      "definitions_ex_en": "would you pour the wine, please?",
+      "definitions_ex_vn": "Bạn sẽ đổ rượu, xin vui lòng?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a conjecture, opinion, or hope.",
+      "definitions_ex_en": "I guess some people would consider it brutal",
+      "definitions_ex_vn": "Tôi đoán một số người sẽ xem xét nó tàn bạo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to make a comment about behavior that is typical.",
+      "definitions_ex_en": "they would say that, wouldn't they?",
+      "definitions_ex_vn": "Họ sẽ nói rằng, phải không?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a wish or regret.",
+      "definitions_ex_en": "would that he had lived to finish it",
+      "definitions_ex_vn": "rằng anh ấy đã sống để hoàn thành nó",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

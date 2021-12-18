@@ -1,0 +1,21 @@
+{
+  "english": "perfectly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không khuyết điểm",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a manner or way that could not be better.",
+      "definitions_ex_en": "the ring fitted perfectly",
+      "definitions_ex_vn": "chiếc nhẫn được trang bị một cách hoàn hảo",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

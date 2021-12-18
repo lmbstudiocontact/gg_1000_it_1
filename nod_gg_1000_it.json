@@ -1,0 +1,57 @@
+{
+  "english": "nod",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cúi đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cúi đầu để chào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gật đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gục đầu ra trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tán thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuối đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gật đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lower and raise one's head slightly and briefly, especially in greeting, assent, or understanding, or to give someone a signal.",
+      "definitions_ex_en": "she nodded her head in agreement",
+      "definitions_ex_vn": "Cô gật đầu đồng ý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have one's head fall forward when drowsy or asleep.",
+      "definitions_ex_en": "Anna nodded over her book",
+      "definitions_ex_vn": "Anna gật đầu trên cuốn sách của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of nodding the head.",
+      "definitions_ex_en": "at a nod from his father he left the room",
+      "definitions_ex_vn": "Khi gật đầu từ cha anh rời khỏi phòng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

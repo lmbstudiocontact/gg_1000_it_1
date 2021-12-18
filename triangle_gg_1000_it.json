@@ -1,0 +1,17 @@
+{
+  "english": "triangle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình ba góc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plane figure with three straight sides and three angles.",
+      "definitions_ex_en": "an equilateral triangle",
+      "definitions_ex_vn": "một tam giác đều",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

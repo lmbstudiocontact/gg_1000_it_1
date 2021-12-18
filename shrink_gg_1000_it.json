@@ -1,0 +1,37 @@
+{
+  "english": "shrink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "co lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lui lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "become or make smaller in size or amount.",
+      "definitions_ex_en": "the workforce has shrunk to less than a thousand",
+      "definitions_ex_vn": "Lực lượng lao động đã giảm xuống ít hơn một ngàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move back or away, especially because of fear or disgust.",
+      "definitions_ex_en": "she shrank away from him, covering her face",
+      "definitions_ex_vn": "Cô ấy rây tránh xa anh ta, che mặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a clinical psychologist, psychiatrist, or psychotherapist.",
+      "definitions_ex_en": "you should see a shrink",
+      "definitions_ex_vn": "bạn sẽ thấy một cơn co",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

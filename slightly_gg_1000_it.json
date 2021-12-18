@@ -1,0 +1,27 @@
+{
+  "english": "slightly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khinh thị",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không kính trọng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "to a small degree; not considerably.",
+      "definitions_ex_en": "he lowered his voice slightly",
+      "definitions_ex_vn": "Anh khẽ hạ giọng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(with reference to a person's build) in a slender way.",
+      "definitions_ex_en": "a slightly built girl",
+      "definitions_ex_vn": "một cô gái được xây dựng một chút",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

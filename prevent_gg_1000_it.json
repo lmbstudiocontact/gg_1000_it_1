@@ -1,0 +1,35 @@
+{
+  "english": "prevent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể tránh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn cản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng ngừa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "keep (something) from happening or arising.",
+      "definitions_ex_en": "action must be taken to prevent further accidents",
+      "definitions_ex_vn": "hành động phải được thực hiện để ngăn ngừa tai nạn thêm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of God) go before (someone) with spiritual guidance and help.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

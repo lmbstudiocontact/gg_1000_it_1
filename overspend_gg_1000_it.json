@@ -1,0 +1,17 @@
+{
+  "english": "overspend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xài nhiều quá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "spend more than the expected or allotted amount.",
+      "definitions_ex_en": "they overspent on the project",
+      "definitions_ex_vn": "họ vượt quá dự án",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

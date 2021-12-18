@@ -1,0 +1,69 @@
+{
+  "english": "rude",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thô sơ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cái đụng dữ dội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dã man",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chưa được giáo hóa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chưa được khai hóa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lỗ mảng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mất dạy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tầm thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thô lổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tráng kiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô lể",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offensively impolite or ill-mannered.",
+      "definitions_ex_en": "she had been rude to her boss",
+      "definitions_ex_vn": "Cô đã thô lỗ với ông chủ của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a startling abruptness.",
+      "definitions_ex_en": "the war came as a very rude awakening",
+      "definitions_ex_vn": "Cuộc chiến đến như một sự thức tỉnh rất thô lỗ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "roughly made or done; lacking subtlety or sophistication.",
+      "definitions_ex_en": "a rude coffin",
+      "definitions_ex_vn": "một quan tài thô lỗ.",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

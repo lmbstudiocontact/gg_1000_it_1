@@ -1,0 +1,61 @@
+{
+  "english": "sponge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọt biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu thua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn chực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chùi bằng bọt biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rửa vết thương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a primitive sedentary aquatic invertebrate with a soft porous body that is typically supported by a framework of fibers or calcareous or glassy spicules. Sponges draw in a current of water to extract nutrients and oxygen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of a soft, light, porous substance originally consisting of the fibrous skeleton of an invertebrate but now usually made of synthetic material. Sponges absorb liquid and are used for washing and cleaning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy drinker.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wipe, rub, or clean with a wet sponge or cloth.",
+      "definitions_ex_en": "she sponged him down in an attempt to cool his fever",
+      "definitions_ex_vn": "Cô ấy giẫm lên anh ta trong một nỗ lực để làm mát cơn sốt của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "obtain or accept money or food from other people without doing or intending to do anything in return.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

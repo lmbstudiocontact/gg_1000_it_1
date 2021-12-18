@@ -1,0 +1,35 @@
+{
+  "english": "whose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nầy của ai",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của ai",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của người nào",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "mà của ai",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or associated with which person.",
+      "definitions_ex_en": "whose round is it?",
+      "definitions_ex_vn": "Đó là vòng của ai?",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "of whom or which (used to indicate that the following noun belongs to or is associated with the person or thing mentioned in the previous clause).",
+      "definitions_ex_en": "he's a man whose opinion I respect",
+      "definitions_ex_vn": "Anh ấy là một người đàn ông có ý kiến tôi tôn trọng",
+      "definitions_type_word": "article"
+    }
+  ]
+}

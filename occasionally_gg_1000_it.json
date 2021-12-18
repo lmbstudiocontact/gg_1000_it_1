@@ -1,0 +1,21 @@
+{
+  "english": "occasionally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thỉnh thoảng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trừ bị",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at infrequent or irregular intervals; now and then.",
+      "definitions_ex_en": "very occasionally the condition can result in death",
+      "definitions_ex_vn": "Rất đôi khi điều kiện có thể dẫn đến tử vong",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

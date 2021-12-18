@@ -1,0 +1,49 @@
+{
+  "english": "visit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đi thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi viếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ở lại chơi vài ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăm hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăm viếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự viếng thăm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go to see and spend time with (someone) socially.",
+      "definitions_ex_en": "I came to visit my grandmother",
+      "definitions_ex_vn": "Tôi đến thăm bà của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "inflict (something harmful or unpleasant) on someone.",
+      "definitions_ex_en": "the mockery visited upon him by his schoolmates",
+      "definitions_ex_vn": "sự nhạo báng đến thăm anh ta bởi những người bạn học của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of going or coming to see a person or place socially, as a tourist, or for some other purpose.",
+      "definitions_ex_en": "a visit to the doctor",
+      "definitions_ex_vn": "Chuyến thăm bác sĩ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

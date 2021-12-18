@@ -1,0 +1,25 @@
+{
+  "english": "totally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "toàn bộ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "toàn thể",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "completely; absolutely.",
+      "definitions_ex_en": "the building was totally destroyed by the fire",
+      "definitions_ex_vn": "Tòa nhà đã hoàn toàn bị hỏa hoạn",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

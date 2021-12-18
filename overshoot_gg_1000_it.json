@@ -1,0 +1,27 @@
+{
+  "english": "overshoot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "săn bắn quá nhiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go past (a point) unintentionally, especially through traveling too fast or being unable to stop.",
+      "definitions_ex_en": "they overshot their intended destination",
+      "definitions_ex_vn": "họ giám sát điểm đến dự định của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of going past or beyond a point, target, or limit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

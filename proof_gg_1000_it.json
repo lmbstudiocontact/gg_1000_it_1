@@ -1,0 +1,103 @@
+{
+  "english": "proof",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chịu đựng vật gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thấm nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bản in thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bằng chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng cớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thử thách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không bị ăn mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chịu được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm không thấm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "evidence or argument establishing or helping to establish a fact or the truth of a statement.",
+      "definitions_ex_en": "you will be asked to give proof of your identity",
+      "definitions_ex_vn": "Bạn sẽ được yêu cầu đưa ra bằng chứng về danh tính của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trial impression of a page, taken from type or film and used for making corrections before final printing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the strength of distilled alcoholic liquor, relative to proof spirit taken as a standard of 100.",
+      "definitions_ex_en": "powerful 132-proof rum",
+      "definitions_ex_vn": "Rum 132 chống bảo hộ mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a test or trial of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "able to withstand something damaging; resistant.",
+      "definitions_ex_en": "the marine battle armor was proof against most weapons",
+      "definitions_ex_vn": "Giáp Battle Marine đã bằng chứng chống lại hầu hết các vũ khí",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a trial impression of a page or printed work.",
+      "definitions_ex_en": "a proof copy is sent up for checking",
+      "definitions_ex_vn": "một bản sao được gửi để kiểm tra",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make (fabric) waterproof.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a proof of (a printed work, engraving, etc.).",
+      "definitions_ex_en": "proof each plate and print it on acetate first",
+      "definitions_ex_vn": "Bằng chứng mỗi đĩa và in nó trên acetate trước",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

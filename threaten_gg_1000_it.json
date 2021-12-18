@@ -1,0 +1,21 @@
+{
+  "english": "threaten",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dọa nạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hăm dọa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "state one's intention to take hostile action against someone in retribution for something done or not done.",
+      "definitions_ex_en": "the unions threatened a general strike",
+      "definitions_ex_vn": "Các đoàn thể đã đe dọa một cuộc đình công chung",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

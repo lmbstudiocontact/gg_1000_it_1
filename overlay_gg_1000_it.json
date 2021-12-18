@@ -1,0 +1,53 @@
+{
+  "english": "overlay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "che",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khăn trải giường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phủ lên vật khác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cover the surface of (something) with a coating.",
+      "definitions_ex_en": "their fingernails were overlaid with silver or gold",
+      "definitions_ex_vn": "Móng tay của họ được phủ lên bằng bạc hoặc vàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a quality or feeling) become more prominent than (a previous quality or feeling).",
+      "definitions_ex_en": "his openness had been overlaid by his new self-confidence",
+      "definitions_ex_vn": "Sự cởi mở của anh ta đã được Overlaid bởi sự tự tin mới của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past of overlie.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "something laid as a covering over something else.",
+      "definitions_ex_en": "a durable, cost-effective floor overlay",
+      "definitions_ex_vn": "một lớp phủ sàn bền, hiệu quả chi phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of transferring a block of program code or other data into internal memory, replacing what is already stored.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

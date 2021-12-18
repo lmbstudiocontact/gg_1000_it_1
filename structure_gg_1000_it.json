@@ -1,0 +1,27 @@
+{
+  "english": "structure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách kết cấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật kiến trúc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the arrangement of and relations between the parts or elements of something complex.",
+      "definitions_ex_en": "flint is extremely hard, like diamond, which has a similar structure",
+      "definitions_ex_vn": "Flint cực kỳ cứng, như kim cương, có cấu trúc tương tự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "construct or arrange according to a plan; give a pattern or organization to.",
+      "definitions_ex_en": "the game is structured so that there are five ways to win",
+      "definitions_ex_vn": "Trò chơi được cấu trúc để có năm cách để giành chiến thắng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

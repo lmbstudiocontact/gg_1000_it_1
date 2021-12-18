@@ -1,0 +1,75 @@
+{
+  "english": "proper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tên riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đặc biệt riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghĩa đen",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "riêng biệt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the required type; suitable or appropriate.",
+      "definitions_ex_en": "an artist needs the proper tools",
+      "definitions_ex_vn": "Một nghệ sĩ cần các công cụ thích hợp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "belonging or relating exclusively or distinctively to; particular to.",
+      "definitions_ex_en": "the two elephant types proper to Africa and to southern Asia",
+      "definitions_ex_vn": "Hai loại voi thích hợp đến Châu Phi và miền Nam Á",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in the natural colors.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) good-looking.",
+      "definitions_ex_en": "he is a proper youth!",
+      "definitions_ex_vn": "Anh ấy là một thanh niên thích hợp!",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a subset or subgroup that does not constitute the entire set or group, especially one that has more than one element.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the part of a church service that varies with the season or festival.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

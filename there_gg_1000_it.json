@@ -1,0 +1,53 @@
+{
+  "english": "there",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ ấy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đằng kia",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đấy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đó",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in, at, or to that place or position.",
+      "definitions_ex_en": "we went on to Paris and stayed there eleven days",
+      "definitions_ex_vn": "Chúng tôi đã tiếp tục đến Paris và ở đó mười một ngày",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used in attracting someone's attention or calling attention to someone or something.",
+      "definitions_ex_en": "hello there!",
+      "definitions_ex_vn": "xin chào!",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to indicate the fact or existence of something.",
+      "definitions_ex_en": "there's a restaurant around the corner",
+      "definitions_ex_vn": "Có một nhà hàng quanh góc",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to focus attention on something and express satisfaction or annoyance at it.",
+      "definitions_ex_en": "there, I told you she wouldn't mind!",
+      "definitions_ex_vn": "Ở đó, tôi nói với bạn cô ấy sẽ không phiền!",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "used to comfort someone.",
+      "definitions_ex_en": "there, there, you must take all of this philosophically",
+      "definitions_ex_vn": "Ở đó, ở đó, bạn phải lấy tất cả về mặt triết học này",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

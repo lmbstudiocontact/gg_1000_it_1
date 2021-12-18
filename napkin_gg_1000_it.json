@@ -1,0 +1,29 @@
+{
+  "english": "napkin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khăn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn bàn nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tả lót con nít",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a square piece of cloth or paper used at a meal to wipe the fingers or lips and to protect garments, or to serve food on.",
+      "definitions_ex_en": "she unfolded her napkin and put it on her lap",
+      "definitions_ex_vn": "Cô mở khăn ăn và đặt nó lên đùi cô",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

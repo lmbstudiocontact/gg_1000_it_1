@@ -1,0 +1,27 @@
+{
+  "english": "slink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dáng bộ lén lút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi lén",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move smoothly and quietly with gliding steps, in a stealthy or sensuous manner.",
+      "definitions_ex_en": "the fox came slinking through the woods",
+      "definitions_ex_vn": "Con cáo đến lướt qua rừng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a slinking movement or walk.",
+      "definitions_ex_en": "she moved with a sensuous slink",
+      "definitions_ex_vn": "Cô ấy di chuyển với một cái lướt gió gợi cảm",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

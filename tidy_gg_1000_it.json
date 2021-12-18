@@ -1,0 +1,47 @@
+{
+  "english": "tidy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chu đáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có ngăn nắp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dọn dẹp ngăn nắp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "arranged neatly and in order.",
+      "definitions_ex_en": "his scrupulously tidy apartment",
+      "definitions_ex_vn": "căn hộ gọn gàng của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an amount, especially of money) considerable.",
+      "definitions_ex_en": "the book will bring in a tidy sum",
+      "definitions_ex_vn": "Cuốn sách sẽ mang lại một khoản gọn gàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a receptacle for holding small objects or waste scraps.",
+      "definitions_ex_en": "a cable tidy",
+      "definitions_ex_vn": "một cáp gọn gàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bring order to (something); arrange neatly.",
+      "definitions_ex_en": "the boys have finally tidied their bedroom",
+      "definitions_ex_vn": "Các chàng trai cuối cùng đã dọn dẹp phòng ngủ của họ",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

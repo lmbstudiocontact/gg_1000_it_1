@@ -1,0 +1,31 @@
+{
+  "english": "socially",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cộng đồng xã hội",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở thành đoàn thể",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "xã hội",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that relates to society or its organization.",
+      "definitions_ex_en": "a socially engaged writer",
+      "definitions_ex_vn": "một nhà văn xã hội tham gia",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in the company of others, especially for pleasure; in a social manner.",
+      "definitions_ex_en": "a coffee shop where people could meet socially",
+      "definitions_ex_vn": "một quán cà phê nơi mọi người có thể gặp xã hội",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

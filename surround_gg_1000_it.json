@@ -1,0 +1,27 @@
+{
+  "english": "surround",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường viền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rào chung quanh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be all around (someone or something).",
+      "definitions_ex_en": "the hotel is surrounded by its own gardens",
+      "definitions_ex_vn": "Khách sạn được bao quanh bởi những khu vườn riêng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing that forms a border or edging around an object.",
+      "definitions_ex_en": "an oak fireplace surround",
+      "definitions_ex_vn": "một lò sưởi sồi bao quanh",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

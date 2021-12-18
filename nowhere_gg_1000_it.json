@@ -1,0 +1,39 @@
+{
+  "english": "nowhere",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hư không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không nơi nào",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not in or to any place; not anywhere.",
+      "definitions_ex_en": "plants and animals found nowhere else in the world",
+      "definitions_ex_vn": "thực vật và động vật tìm thấy nơi nào khác trên thế giới",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "no place.",
+      "definitions_ex_en": "there was nowhere for her to sit",
+      "definitions_ex_vn": "Không có nơi nào để cô ấy ngồi",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "a place that is remote, uninteresting, or nondescript.",
+      "definitions_ex_en": "a stretch of road between nowhere and nowhere",
+      "definitions_ex_vn": "một đoạn đường giữa hư không và không nơi nào",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "having no prospect of progress or success.",
+      "definitions_ex_en": "she's involved in a nowhere affair with a married executive",
+      "definitions_ex_vn": "Cô ấy tham gia vào một vấn đề không nơi nào với một giám đốc đã kết hôn",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

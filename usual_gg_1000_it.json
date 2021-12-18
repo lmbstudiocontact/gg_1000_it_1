@@ -1,0 +1,27 @@
+{
+  "english": "usual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quen dùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thường dùng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "habitually or typically occurring or done; customary.",
+      "definitions_ex_en": "he carried out his usual evening routine",
+      "definitions_ex_vn": "Ông đã thực hiện thói quen buổi tối thông thường của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the drink someone habitually orders or prefers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "raven",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con quạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắn xé",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cưỡng đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp đoạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi kiếm mồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giựt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large heavily built crow with mainly black plumage, feeding chiefly on carrion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the constellation Corvus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of hair) of a glossy black color.",
+      "definitions_ex_en": "thick raven hair",
+      "definitions_ex_vn": "Tóc quạ dày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a ferocious wild animal) hunt for prey.",
+      "definitions_ex_en": "fierce lions went ravening to and fro",
+      "definitions_ex_vn": "sư tử hung dữ đã đi qua và fro",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

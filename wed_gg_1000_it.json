@@ -1,0 +1,45 @@
+{
+  "english": "wed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đám cưới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hòa hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hôn với người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "get married to.",
+      "definitions_ex_en": "he was to wed the king's daughter",
+      "definitions_ex_vn": "anh ấy đã cưới con gái của nhà vua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "combine (two factors or qualities, especially desirable ones).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Wednesday.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

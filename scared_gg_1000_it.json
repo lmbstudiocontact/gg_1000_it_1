@@ -1,0 +1,21 @@
+{
+  "english": "scared",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khiếp hải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sợ hải",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fearful; frightened.",
+      "definitions_ex_en": "I wasn't scared at all",
+      "definitions_ex_vn": "Tôi đã không sợ hãi chút nào",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

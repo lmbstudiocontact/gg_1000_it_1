@@ -1,0 +1,35 @@
+{
+  "english": "pillow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái gối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm gối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ trên gối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngủ trên gối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rectangular cloth bag stuffed with feathers, foam rubber, or other soft materials, used to support the head when lying down.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rest (one's head) as if on a pillow.",
+      "definitions_ex_en": "his head was pillowed on his arm",
+      "definitions_ex_vn": "Đầu anh ta được gối trên cánh tay của mình",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

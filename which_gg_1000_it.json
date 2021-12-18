@@ -1,0 +1,35 @@
+{
+  "english": "which",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nào",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "thích cái nào",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "thích loại nào",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "vật nào",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "asking for information specifying one or more people or things from a definite set.",
+      "definitions_ex_en": "which are the best varieties of grapes for long keeping?",
+      "definitions_ex_vn": "Đó là những loại nho tốt nhất để giữ lâu?",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used referring to something previously mentioned when introducing a clause giving further information.",
+      "definitions_ex_en": "a conference in Vienna which ended on Friday",
+      "definitions_ex_vn": "một hội nghị ở Vienna kết thúc vào thứ Sáu",
+      "definitions_type_word": "pronoun"
+    }
+  ]
+}

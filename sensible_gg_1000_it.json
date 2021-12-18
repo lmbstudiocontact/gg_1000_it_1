@@ -1,0 +1,37 @@
+{
+  "english": "sensible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cãm giác được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tri giác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có ý thức",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a statement or course of action) chosen in accordance with wisdom or prudence; likely to be of benefit.",
+      "definitions_ex_en": "I cannot believe that it is sensible to spend so much",
+      "definitions_ex_vn": "Tôi không thể tin rằng nó hợp lý để chi tiêu rất nhiều",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an object) practical and functional rather than decorative.",
+      "definitions_ex_en": "Mom always made me have sensible shoes",
+      "definitions_ex_vn": "Mẹ luôn làm tôi có đôi giày hợp lý",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "readily perceived; appreciable.",
+      "definitions_ex_en": "it will effect a sensible reduction in these figures",
+      "definitions_ex_vn": "nó sẽ ảnh hưởng đến việc giảm nhạy cảm trong các số liệu này",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

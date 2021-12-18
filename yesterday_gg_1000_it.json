@@ -1,0 +1,27 @@
+{
+  "english": "yesterday",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôm qua",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngày hôm qua",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "on the day before today.",
+      "definitions_ex_en": "he returned to a hero's welcome yesterday",
+      "definitions_ex_vn": "Anh trở lại với một anh hùng chào đón ngày hôm qua",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the day before today.",
+      "definitions_ex_en": "yesterday was Tuesday",
+      "definitions_ex_vn": "ngày hôm qua là thứ ba",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

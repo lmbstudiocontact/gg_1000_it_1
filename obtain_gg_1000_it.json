@@ -1,0 +1,39 @@
+{
+  "english": "obtain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiện hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông dụng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "get, acquire, or secure (something).",
+      "definitions_ex_en": "an opportunity to obtain advanced degrees",
+      "definitions_ex_vn": "một cơ hội để có được bằng cấp cao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be prevalent, customary, or established.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

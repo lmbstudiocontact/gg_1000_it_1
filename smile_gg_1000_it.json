@@ -1,0 +1,27 @@
+{
+  "english": "smile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nụ cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười mỉm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form one's features into a pleased, kind, or amused expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+      "definitions_ex_en": "she was smiling",
+      "definitions_ex_vn": "cô ấy đã cười",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a pleased, kind, or amused facial expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+      "definitions_ex_en": "he flashed his most winning smile",
+      "definitions_ex_vn": "Anh ấy cười nhiều nhất",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

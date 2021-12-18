@@ -1,0 +1,25 @@
+{
+  "english": "throat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuống họng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống hình cuống họng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the passage which leads from the back of the mouth of a person or animal.",
+      "definitions_ex_en": "her throat was parched with thirst",
+      "definitions_ex_vn": "Cổ họng cô bị khô khập khi khát",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

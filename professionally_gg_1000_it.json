@@ -1,0 +1,23 @@
+{
+  "english": "professionally",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyên nghiệp",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that relates to a profession or career.",
+      "definitions_ex_en": "professionally trained musicians",
+      "definitions_ex_vn": "nhạc sĩ được đào tạo chuyên nghiệp",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "as a person's paid occupation rather than on an amateur basis.",
+      "definitions_ex_en": "she has sung professionally with opera companies around the world",
+      "definitions_ex_vn": "Cô đã hát một cách chuyên nghiệp với các công ty Opera trên toàn thế giới",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

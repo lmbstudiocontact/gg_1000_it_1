@@ -1,0 +1,47 @@
+{
+  "english": "nervous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay sợ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay tức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người dể bị kích thích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhát gan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhút nhát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thần kinh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "easily agitated or alarmed; tending to be anxious; highly strung.",
+      "definitions_ex_en": "a sensitive, nervous person",
+      "definitions_ex_vn": "một người nhạy cảm, lo lắng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or affecting the nerves.",
+      "definitions_ex_en": "a nervous disorder",
+      "definitions_ex_vn": "một rối loạn thần kinh",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

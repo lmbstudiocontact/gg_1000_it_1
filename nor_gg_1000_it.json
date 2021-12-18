@@ -1,0 +1,61 @@
+{
+  "english": "nor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cả hai đều không biết",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "nó không có ai hết",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "người ta không thấy",
+      "type_word": "conjunction"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used before the second or further of two or more alternatives (the first being introduced by a negative such as “neither” or “not”) to indicate that they are each untrue or each do not happen.",
+      "definitions_ex_en": "they were neither cheap nor convenient",
+      "definitions_ex_vn": "họ không rẻ cũng không thuận tiện",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used to introduce a further negative statement.",
+      "definitions_ex_en": "the struggle did not end, nor was it any less diminished",
+      "definitions_ex_vn": "Cuộc đấu tranh không kết thúc, cũng không phải là ít giảm",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "than.",
+      "definitions_ex_en": "she thinks she knows better nor me",
+      "definitions_ex_vn": "cô ấy nghĩ rằng cô ấy biết tốt hơn cũng không phải tôi",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "literary term for neither.",
+      "definitions_ex_en": "nor God nor demon can undo the done",
+      "definitions_ex_vn": "cũng không phải chúa cũng không phải quỷ có thể hoàn tác việc thực hiện",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a Boolean operator which gives the value one if and only if all operands have a value of zero and otherwise has a value of zero.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in compounds) north.",
+      "definitions_ex_en": "seek shelter from a raging nor'easter",
+      "definitions_ex_vn": "tìm kiếm nơi trú ẩn từ một hoành hành",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "denoting an organic compound derived from another, in particular by the shortening of a chain or ring by the removal of one methylene group or by the replacement of one or more methyl side chains by hydrogen atoms.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ]
+}

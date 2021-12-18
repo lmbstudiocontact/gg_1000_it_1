@@ -1,0 +1,27 @@
+{
+  "english": "penalty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình phạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phạt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a punishment imposed for breaking a law, rule, or contract.",
+      "definitions_ex_en": "the charge carries a maximum penalty of ten years' imprisonment",
+      "definitions_ex_vn": "phí mang theo một hình phạt tối đa mười năm tù giam",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports and games) a disadvantage or handicap imposed on a player or team, typically for infringement of rules.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

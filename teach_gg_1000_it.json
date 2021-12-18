@@ -1,0 +1,39 @@
+{
+  "english": "teach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy học",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy dổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "huấn luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hướng dẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "show or explain to (someone) how to do something.",
+      "definitions_ex_en": "she taught him to read",
+      "definitions_ex_vn": "Cô dạy anh đọc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a teacher.",
+      "definitions_ex_en": "she came to say “Hi!” to her old teach",
+      "definitions_ex_vn": "Cô ấy đến để nói \"Xin chào!\"",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "tackle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dụng cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc ngựa vào xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm chặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the equipment required for a task or sport.",
+      "definitions_ex_en": "fishing tackle",
+      "definitions_ex_vn": "đồ đánh cá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mechanism consisting of ropes, pulley blocks, hooks, or other things for lifting heavy objects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in soccer and other games) an act of taking the ball, or attempting to take the ball, from an opponent.",
+      "definitions_ex_en": "he was only prevented from scoring by a fine tackle",
+      "definitions_ex_vn": "anh ta chỉ được ngăn chặn ghi bàn bằng một giải quyết tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a player who lines up inside the end along the line of scrimmage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make determined efforts to deal with (a problem or difficult task).",
+      "definitions_ex_en": "police have launched an initiative to tackle rising crime",
+      "definitions_ex_vn": "Cảnh sát đã phát động một sáng kiến để giải quyết tội phạm đang lên",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

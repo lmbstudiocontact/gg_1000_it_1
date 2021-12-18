@@ -1,0 +1,81 @@
+{
+  "english": "resolve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự quyết định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyết tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyết ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dung giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tan ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tiêu độc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quả quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyết định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyết tâm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "settle or find a solution to (a problem, dispute, or contentious matter).",
+      "definitions_ex_en": "the firm aims to resolve problems within 30 days",
+      "definitions_ex_vn": "Công ty nhằm mục đích giải quyết các vấn đề trong vòng 30 ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decide firmly on a course of action.",
+      "definitions_ex_en": "she resolved to call Dana as soon as she got home",
+      "definitions_ex_vn": "Cô quyết tâm gọi Dana ngay khi về đến nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "separate or cause to be separated into components.",
+      "definitions_ex_en": "alpha-zein is often resolved into two major size components",
+      "definitions_ex_vn": "alpha-zein thường được giải quyết thành hai thành phần kích thước chính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of something seen at a distance) turn into a different form when seen more clearly.",
+      "definitions_ex_en": "the orange glow resolved itself into four lanterns",
+      "definitions_ex_vn": "Glow Orange tự giải quyết thành bốn đèn lồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "firm determination to do something.",
+      "definitions_ex_en": "she received information that strengthened her resolve",
+      "definitions_ex_vn": "Cô nhận được thông tin đã củng cố quyết tâm của mình",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

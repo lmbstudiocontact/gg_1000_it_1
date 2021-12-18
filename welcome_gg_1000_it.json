@@ -1,0 +1,55 @@
+{
+  "english": "welcome",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được hậu đải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được hoan nghinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng đải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được tiếp đải tử tế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự hoan nghinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếp rước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance or manner of greeting someone.",
+      "definitions_ex_en": "you will receive a warm welcome",
+      "definitions_ex_vn": "bạn sẽ nhận được một sự chào đón nồng nhiệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to greet someone in a glad or friendly way.",
+      "definitions_ex_en": "welcome to the Wildlife Park",
+      "definitions_ex_vn": "Chào mừng đến với Công viên Động vật hoang dã",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "greet (someone arriving) in a glad, polite, or friendly way.",
+      "definitions_ex_en": "hotels should welcome guests in their own language",
+      "definitions_ex_vn": "Khách sạn nên chào đón khách bằng ngôn ngữ của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a guest or new arrival) gladly received.",
+      "definitions_ex_en": "visitors with disabilities are always welcome",
+      "definitions_ex_vn": "Khách truy cập bị khuyết tật luôn được chào đón",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "purple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đỏ tía",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đỏ thẳm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịnh dịch đơn của heo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng ban máu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu đỏ tía",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu đỏ thẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết đỏ nổi trên da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thành đỏ tía",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên đỏ tía",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a color intermediate between red and blue.",
+      "definitions_ex_en": "the painting was mostly in shades of blue and purple",
+      "definitions_ex_vn": "Bức tranh chủ yếu là trong các sắc thái của màu xanh và màu tím",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of a color intermediate between red and blue.",
+      "definitions_ex_en": "a faded purple T-shirt",
+      "definitions_ex_vn": "Một chiếc áo phông màu tím nhạt nhòa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "become or make purple in color.",
+      "definitions_ex_en": "Ed's cheeks purpled",
+      "definitions_ex_vn": "Má ed nhầm lẫn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

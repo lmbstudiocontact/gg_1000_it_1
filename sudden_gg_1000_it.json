@@ -1,0 +1,27 @@
+{
+  "english": "sudden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm thình lình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xảy ra",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "occurring or done quickly and unexpectedly or without warning.",
+      "definitions_ex_en": "a sudden bright flash",
+      "definitions_ex_vn": "một tia sáng sáng đột ngột",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "suddenly.",
+      "definitions_ex_en": "sudden there swooped an eagle downward",
+      "definitions_ex_vn": "Đột nhiên có một con đại bàng xuống dưới",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

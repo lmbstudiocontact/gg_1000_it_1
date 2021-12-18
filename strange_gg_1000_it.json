@@ -1,0 +1,37 @@
+{
+  "english": "strange",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không quen",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xa lạ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unusual or surprising in a way that is unsettling or hard to understand.",
+      "definitions_ex_en": "children have some strange ideas",
+      "definitions_ex_vn": "Trẻ em có một số ý tưởng kỳ lạ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not previously visited, seen, or encountered; unfamiliar or alien.",
+      "definitions_ex_en": "a harsh accent that was strange to his ears",
+      "definitions_ex_vn": "một giọng khắc nghiệt là lạ đối với tai anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or involving a flavor (variety) of unstable quark having an electric charge of - 1/3. Strange quarks have similar properties to down quarks and bottom quarks, but are distinguished from them by having an intermediate mass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

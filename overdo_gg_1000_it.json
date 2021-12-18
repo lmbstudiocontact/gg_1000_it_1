@@ -1,0 +1,25 @@
+{
+  "english": "overdo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt làm thái quá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mệt đừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu quá chín",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "do, use, or carry to excess; exaggerate.",
+      "definitions_ex_en": "I'd overdone the garlic in the curry",
+      "definitions_ex_vn": "Tôi đã quá liều tỏi trong cà ri",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

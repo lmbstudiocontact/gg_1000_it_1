@@ -1,0 +1,49 @@
+{
+  "english": "together",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung với nhau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cùng một lần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cùng nhau",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with or in proximity to another person or people.",
+      "definitions_ex_en": "together they climbed the dark stairs",
+      "definitions_ex_vn": "Họ cùng nhau leo cầu thang tối",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "into companionship or close association.",
+      "definitions_ex_en": "the experience has brought us together",
+      "definitions_ex_vn": "Kinh nghiệm đã mang chúng ta lại với nhau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at the same time.",
+      "definitions_ex_en": "they both spoke together",
+      "definitions_ex_vn": "Cả hai đã nói chuyện với nhau",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "without interruption; continuously.",
+      "definitions_ex_en": "she sits for hours together in the lotus position",
+      "definitions_ex_vn": "Cô ngồi trong nhiều giờ với nhau ở vị trí LOTUS",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "self-confident, level-headed, or well organized.",
+      "definitions_ex_en": "she seems a very together young woman",
+      "definitions_ex_vn": "Cô ấy có vẻ là một phụ nữ trẻ rất bên nhau",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

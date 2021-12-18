@@ -1,0 +1,55 @@
+{
+  "english": "new",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chưa dùng đến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới lạ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới làm ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới mẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not existing before; made, introduced, or discovered recently or now for the first time.",
+      "definitions_ex_en": "new crop varieties",
+      "definitions_ex_vn": "Giống cây trồng mới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "already existing but seen, experienced, or acquired recently or now for the first time.",
+      "definitions_ex_en": "her new bike",
+      "definitions_ex_vn": "xe đạp mới của cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "just beginning or beginning anew and regarded as better than what went before.",
+      "definitions_ex_en": "starting a new life",
+      "definitions_ex_vn": "Bắt đầu một cuộc sống mới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "newly; recently.",
+      "definitions_ex_en": "new-mown hay",
+      "definitions_ex_vn": "MỚI-Mown Hay",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

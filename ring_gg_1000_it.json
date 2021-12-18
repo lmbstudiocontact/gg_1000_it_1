@@ -1,0 +1,155 @@
+{
+  "english": "ring",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cà rá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên đoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "võ đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khâu sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đất rào xung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quầng thâm của mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chuông nhà thờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng reo của điện thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuông reo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bay vòng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy vòng tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho kêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vang lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xỏ khâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đeo cà rá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đeo nhẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small circular band, typically of precious metal and often set with one or more gemstones, worn on a finger as an ornament or a token of marriage, engagement, or authority.",
+      "definitions_ex_en": "a diamond ring",
+      "definitions_ex_vn": "một chiếc nhẫn kim cương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ring-shaped or circular object.",
+      "definitions_ex_en": "fried onion rings",
+      "definitions_ex_vn": "Nhẫn hành tây chiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosed space, surrounded by seating for spectators, in which a sport, performance, or show takes place.",
+      "definitions_ex_en": "a circus ring",
+      "definitions_ex_vn": "một vòng xiếc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people drawn together due to a shared interest or goal, especially one involving illegal or unscrupulous activity.",
+      "definitions_ex_en": "the police had been investigating the drug ring",
+      "definitions_ex_vn": "Cảnh sát đã điều tra vòng thuốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for closed chain.",
+      "definitions_ex_en": "a benzene ring",
+      "definitions_ex_vn": "một chiếc nhẫn benzen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of elements with two binary operations, addition and multiplication, the second being distributive over the first and associative.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of causing a bell to sound, or the resonant sound caused by this.",
+      "definitions_ex_en": "there was a ring at the door",
+      "definitions_ex_vn": "Có một chiếc nhẫn ở cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "surround (someone or something), especially for protection or containment.",
+      "definitions_ex_en": "the courthouse was ringed with police",
+      "definitions_ex_vn": "Tòa án đã bị cảnh sát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a clear resonant or vibrating sound.",
+      "definitions_ex_en": "a bell rang loudly",
+      "definitions_ex_vn": "Một tiếng chuông vang lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person's ears) be filled with a continuous buzzing or humming sound, especially as the aftereffect of a blow or loud noise.",
+      "definitions_ex_en": "he yelled so loudly that my eardrums rang",
+      "definitions_ex_vn": "Anh hét to lên đến nỗi màng nhĩ của tôi reo",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

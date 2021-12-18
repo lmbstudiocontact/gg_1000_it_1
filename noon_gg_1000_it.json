@@ -1,0 +1,25 @@
+{
+  "english": "noon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi trưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đúng trưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc trưa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "twelve o'clock in the day; midday.",
+      "definitions_ex_en": "the service starts at twelve noon",
+      "definitions_ex_vn": "Dịch vụ bắt đầu lúc mười hai buổi trưa",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "english": "remarkably",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that is worthy of attention.",
+      "definitions_ex_en": "you have performed remarkably",
+      "definitions_ex_vn": "Bạn đã thực hiện đáng kể",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to express surprise at an event or situation.",
+      "definitions_ex_en": "remarkably, she hung on to her job",
+      "definitions_ex_vn": "Đáng chú ý, cô ấy đã tổ chức công việc của mình",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

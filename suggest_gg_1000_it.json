@@ -1,0 +1,25 @@
+{
+  "english": "suggest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dẩn khởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề nghị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gợi ý",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put forward for consideration.",
+      "definitions_ex_en": "I suggest that we wait a day or two",
+      "definitions_ex_vn": "Tôi đề nghị chúng tôi đợi một hoặc hai ngày",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

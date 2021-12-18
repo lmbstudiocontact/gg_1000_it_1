@@ -1,0 +1,67 @@
+{
+  "english": "storm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa giông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bão",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo tố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tấn công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đột kích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi mạnh dử dội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tumultuous reaction; an uproar or controversy.",
+      "definitions_ex_en": "the book caused a storm in South America",
+      "definitions_ex_vn": "Cuốn sách gây ra một cơn bão ở Nam Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a direct assault by troops on a fortified place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move angrily or forcefully in a specified direction.",
+      "definitions_ex_en": "she burst into tears and stormed off",
+      "definitions_ex_vn": "Cô bật khóc và xông vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of troops) suddenly attack and capture (a building or other place) by means of force.",
+      "definitions_ex_en": "commandos stormed a hijacked plane early today",
+      "definitions_ex_vn": "Commandos đã xông vào một chiếc máy bay bị tấn công vào đầu ngày hôm nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the weather) be violent, with strong winds and usually rain, thunder, lightning, or snow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

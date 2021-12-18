@@ -1,0 +1,51 @@
+{
+  "english": "tread",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dáng đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chân đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng bước đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bước đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt chân lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "walk in a specified way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a manner or the sound of someone walking.",
+      "definitions_ex_en": "I heard the heavy tread of Dad's boots",
+      "definitions_ex_vn": "Tôi nghe thấy những đôi giày của cha nặng nề",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the top surface of a step or stair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the thick molded part of a vehicle tire that grips the road.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

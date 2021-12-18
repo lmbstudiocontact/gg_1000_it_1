@@ -1,0 +1,23 @@
+{
+  "english": "waterfall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thác nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or denoting a method of project management that is characterized by sequential stages and a fixed plan of work.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

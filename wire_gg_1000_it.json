@@ -1,0 +1,75 @@
+{
+  "english": "wire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bức điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây kẻm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điện tí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điện tín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao bọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xỏ vào dây kẻm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "metal drawn out into the form of a thin flexible thread or rod.",
+      "definitions_ex_en": "a coil of copper wire",
+      "definitions_ex_vn": "một cuộn dây đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electronic listening device that can be concealed on a person.",
+      "definitions_ex_en": "an undercover police informer who was wearing a wire",
+      "definitions_ex_vn": "một thông tin cảnh sát bí mật đang mặc một sợi dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "install electric circuits or wires in.",
+      "definitions_ex_en": "wiring a plug",
+      "definitions_ex_vn": "Đấu dây cắm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide, fasten, or reinforce with wires.",
+      "definitions_ex_en": "they wired his jaw",
+      "definitions_ex_vn": "họ có dây hàm của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "snare (an animal) with wire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "obstruct (a ball, shot, or player) by a wicket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

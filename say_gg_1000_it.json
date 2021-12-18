@@ -1,0 +1,57 @@
+{
+  "english": "say",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời phát biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đọc bài học",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đọc kinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói rằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra lịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "utter words so as to convey information, an opinion, a feeling or intention, or an instruction.",
+      "definitions_ex_en": "“Thank you,” he said",
+      "definitions_ex_vn": "\"Cảm ơn,\" anh nói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assume something in order to work out what its consequences would be; make a hypothesis.",
+      "definitions_ex_en": "let's say we pay five thousand dollars in the first year",
+      "definitions_ex_vn": "Giả sử chúng ta phải trả năm ngàn đô la trong năm đầu tiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an opportunity for stating one's opinion or feelings.",
+      "definitions_ex_en": "the voters are entitled to have their say on the treaty",
+      "definitions_ex_vn": "Các cử tri có quyền nói về Hiệp ước",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

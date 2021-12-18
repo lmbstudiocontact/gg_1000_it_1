@@ -1,0 +1,67 @@
+{
+  "english": "yet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhưng",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "tuy nhiên",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "song",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "tùy thế",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "dầu đến thế nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dầu sao nữa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "còn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "còn nữa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đến nay",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "up until the present or a specified or implied time; by now or then.",
+      "definitions_ex_en": "I haven't told anyone else yet",
+      "definitions_ex_vn": "Tôi chưa nói với ai khác",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "still; even (used to emphasize increase or repetition).",
+      "definitions_ex_en": "snow, snow, and yet more snow",
+      "definitions_ex_vn": "tuyết, tuyết và nhiều tuyết",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "nevertheless; in spite of that.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "but at the same time; but nevertheless.",
+      "definitions_ex_en": "the path was dark, yet I slowly found my way",
+      "definitions_ex_vn": "Con đường tối, nhưng tôi dần dần tìm thấy con đường của mình",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

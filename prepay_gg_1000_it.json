@@ -1,0 +1,25 @@
+{
+  "english": "prepay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trả tiền cước trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả tiền tem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trả trước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pay or pay for in advance.",
+      "definitions_ex_en": "many tax professionals have been advising their clients to prepay the bills",
+      "definitions_ex_vn": "Nhiều chuyên gia thuế đã được tư vấn cho khách hàng của họ để trả trước các hóa đơn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

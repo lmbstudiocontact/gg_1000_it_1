@@ -1,0 +1,79 @@
+{
+  "english": "tone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi màu sắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a musical or vocal sound with reference to its pitch, quality, and strength.",
+      "definitions_ex_en": "the piano tone appears monochrome or lacking in warmth",
+      "definitions_ex_vn": "giai điệu piano xuất hiện đơn sắc hoặc thiếu ấm áp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the general character or attitude of a place, piece of writing, situation, etc.",
+      "definitions_ex_en": "my friend and I lowered the tone with our oafish ways",
+      "definitions_ex_vn": "bạn của tôi và tôi đã hạ gục giai điệu với những cách xa lạ của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a basic interval in classical Western music, equal to two semitones and separating, for example, the first and second notes of an ordinary scale (such as C and D, or E and F sharp); a major second or whole step.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the particular quality of brightness, deepness, or hue of a tint or shade of a color.",
+      "definitions_ex_en": "stained glass in vivid tones of red and blue",
+      "definitions_ex_vn": "kính màu trong tông màu sống động của màu đỏ và màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in some languages, such as Chinese) a particular pitch pattern on a syllable used to make semantic distinctions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the normal level of firmness or slight contraction in a resting muscle.",
+      "definitions_ex_en": "a reduction of muscle tone",
+      "definitions_ex_vn": "Giảm trương lực cơ bắp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give greater strength or firmness to (the body or a muscle).",
+      "definitions_ex_en": "push-ups help tone your abs",
+      "definitions_ex_vn": "Đẩy mạnh trợ giúp Tone của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (a monochrome picture) an altered color in finishing by means of a chemical solution.",
+      "definitions_ex_en": "it's a good idea to sepia tone the whole print first",
+      "definitions_ex_vn": "Đó là một ý tưởng tốt cho Sepia Tone toàn bộ bản in đầu tiên",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

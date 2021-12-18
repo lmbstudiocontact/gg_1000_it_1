@@ -1,0 +1,93 @@
+{
+  "english": "wing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chái nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạn tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cánh chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tra cánh vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in a bird) a modified forelimb that bears large feathers and is used for flying.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rigid horizontal structure that projects from both sides of an aircraft and supports it in the air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a large building, especially one that projects from the main part.",
+      "definitions_ex_en": "the maternity wing at South Cleveland Hospital",
+      "definitions_ex_vn": "Cánh thai sản tại Bệnh viện Nam Cleveland",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group within a political party or other organization that holds particular views or has a particular function.",
+      "definitions_ex_en": "Sinn Fein, the political wing of the IRA",
+      "definitions_ex_vn": "Sinn Fein, cánh chính trị của IRA",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sides of a theater stage out of view of the audience.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in soccer, rugby, and other games) the part of the field close to the sidelines.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lateral part or projection of an organ or structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an air force unit of several squadrons or groups.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel on wings or by aircraft; fly.",
+      "definitions_ex_en": "a bird came winging around the corner",
+      "definitions_ex_vn": "Một con chim có cánh quanh góc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shoot (a bird) in the wing, so as to prevent flight without causing death.",
+      "definitions_ex_en": "one bird was winged for every bird killed",
+      "definitions_ex_vn": "Một con chim có cánh cho mỗi loài chim bị giết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "speak or act without preparation; improvise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

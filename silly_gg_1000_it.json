@@ -1,0 +1,31 @@
+{
+  "english": "silly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khùng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing a lack of common sense or judgment; absurd and foolish.",
+      "definitions_ex_en": "another of his silly jokes",
+      "definitions_ex_vn": "một câu chuyện cười ngớ ngẩn của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a foolish person (often used as a form of address).",
+      "definitions_ex_en": "come on, silly",
+      "definitions_ex_vn": "Thôi nào, ngớ ngẩn",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

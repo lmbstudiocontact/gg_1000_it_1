@@ -1,0 +1,27 @@
+{
+  "english": "war",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận giặc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state of armed conflict between different nations or states or different groups within a nation or state.",
+      "definitions_ex_en": "Japan declared war on Germany",
+      "definitions_ex_vn": "Nhật Bản tuyên chiến với Đức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "engage in a war.",
+      "definitions_ex_en": "small states warred against each other",
+      "definitions_ex_vn": "tiểu bang nhỏ chiến đấu với nhau",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

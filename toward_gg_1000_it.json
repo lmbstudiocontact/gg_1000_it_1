@@ -1,0 +1,63 @@
+{
+  "english": "toward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể bảo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngoan ngoãn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "đối với",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "vào khoảng",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "về hướng",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "về phía",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in the direction of.",
+      "definitions_ex_en": "I walked toward the front door",
+      "definitions_ex_vn": "Tôi đi về phía cửa trước",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "as regards; in relation to.",
+      "definitions_ex_en": "he was warm and tender toward her",
+      "definitions_ex_vn": "anh ấy ấm áp và dịu dàng về phía cô ấy",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "contributing to the cost of (something).",
+      "definitions_ex_en": "the council provided a grant toward the cost of new buses",
+      "definitions_ex_vn": "Hội đồng cung cấp một khoản tài trợ cho chi phí xe buýt mới",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "going on; in progress.",
+      "definitions_ex_en": "is something new toward?",
+      "definitions_ex_vn": "Là một cái gì đó mới đối với?",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "self",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chính tôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chính mình",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "tự mình",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person's essential being that distinguishes them from others, especially considered as the object of introspection or reflexive action.",
+      "definitions_ex_en": "our alienation from our true selves",
+      "definitions_ex_vn": "Sự xa lánh của chúng tôi từ bản thân thực sự của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a trimming or cover) of the same material and color as the rest of the item.",
+      "definitions_ex_en": "a dress with self belt",
+      "definitions_ex_vn": "Một chiếc váy có đai tự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "self-pollinate; self-fertilize.",
+      "definitions_ex_en": "a variety that selfs itself loses lots of vigor in the progeny",
+      "definitions_ex_vn": "một sự đa dạng mà bản thân tự mất nhiều sức sống trong con cháu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "of or directed toward oneself or itself.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ]
+}

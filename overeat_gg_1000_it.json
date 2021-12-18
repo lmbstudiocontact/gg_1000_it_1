@@ -1,0 +1,21 @@
+{
+  "english": "overeat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn nhiều quá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn quá độ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "eat too much.",
+      "definitions_ex_en": "if your friends overeat, you're more likely to overeat too",
+      "definitions_ex_vn": "Nếu bạn bè của bạn ăn quá nhiều, bạn cũng có nhiều khả năng ăn quá nhiều",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

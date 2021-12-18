@@ -1,0 +1,41 @@
+{
+  "english": "remain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn dư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn thừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số còn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "di cảo của tác giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừa lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "continue to exist, especially after other similar or related people or things have ceased to exist.",
+      "definitions_ex_en": "a cloister is all that remains of the monastery",
+      "definitions_ex_vn": "một cloister là tất cả những gì còn lại của tu viện",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

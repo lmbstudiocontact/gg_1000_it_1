@@ -1,0 +1,93 @@
+{
+  "english": "regard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự có quan hệ đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tôn kính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tôn trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dính dáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dính dấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên can đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngó đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn đến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consider or think of (someone or something) in a specified way.",
+      "definitions_ex_en": "she regarded Omaha as her base",
+      "definitions_ex_vn": "Cô coi Omaha là căn cứ của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attention to or concern for something.",
+      "definitions_ex_en": "the court must have regard to the principle of welfare",
+      "definitions_ex_vn": "Tòa án phải liên quan đến nguyên tắc Phúc lợi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "best wishes (used to express friendliness in greetings, especially at the end of letters).",
+      "definitions_ex_en": "give her my regards",
+      "definitions_ex_vn": "cho cô ấy trân trọng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

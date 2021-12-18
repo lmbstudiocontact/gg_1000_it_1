@@ -1,0 +1,73 @@
+{
+  "english": "north",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phương bắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về phương bắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xoay về hướng bắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi về hướng bắc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía bắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the direction in which a compass needle normally points, toward the horizon on the left-hand side of a person facing east, or the part of the horizon lying in this direction.",
+      "definitions_ex_en": "a bitter wind blew from the north",
+      "definitions_ex_vn": "một cơn gió cay đắng thổi từ phía bắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the northern part of the world or of a specified country, region, or town.",
+      "definitions_ex_en": "cuisine from the north of Spain",
+      "definitions_ex_vn": "Ẩm thực từ phía bắc Tây Ban Nha",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the player occupying a designated position at the table, sitting opposite and partnering South.",
+      "definitions_ex_en": "North deals and opens one club",
+      "definitions_ex_vn": "Giao dịch phía bắc và mở một câu lạc bộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lying toward, near, or facing the north.",
+      "definitions_ex_en": "the north bank of the river",
+      "definitions_ex_vn": "bờ phía bắc của dòng sông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or denoting the northern part of a specified area, city, or country or its inhabitants.",
+      "definitions_ex_en": "North African",
+      "definitions_ex_vn": "Bắc Phi.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to or toward the north.",
+      "definitions_ex_en": "the landscape became more dramatic as we drove north",
+      "definitions_ex_vn": "Cảnh quan trở nên kịch tính hơn khi chúng tôi lái xe về phía bắc",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "above (a particular amount, cost, etc.).",
+      "definitions_ex_en": "they expect to spend north of $6 million for this latest campaign",
+      "definitions_ex_vn": "Họ dự kiến sẽ dành phía bắc 6 triệu đô la cho chiến dịch mới nhất này",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

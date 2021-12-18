@@ -1,0 +1,41 @@
+{
+  "english": "persistent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khăng khăng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiên gan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cố chấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lá không rụng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "continuing firmly or obstinately in a course of action in spite of difficulty or opposition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "continuing to exist or endure over a prolonged period.",
+      "definitions_ex_en": "persistent rain will affect many areas",
+      "definitions_ex_vn": "Mưa dai dẳng sẽ ảnh hưởng đến nhiều khu vực",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a part of an animal or plant, such as a horn, leaf, etc.) remaining attached instead of falling off in the normal manner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

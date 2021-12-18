@@ -1,0 +1,25 @@
+{
+  "english": "unbind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mở ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mở trói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "release from bonds or restraints.",
+      "definitions_ex_en": "the guards unbound the prisoners",
+      "definitions_ex_vn": "Các vệ sĩ không ràng buộc các tù nhân",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

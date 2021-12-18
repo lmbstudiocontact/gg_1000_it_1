@@ -1,0 +1,59 @@
+{
+  "english": "thing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ đạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object that one need not, cannot, or does not wish to give a specific name to.",
+      "definitions_ex_en": "look at that metal rail thing over there",
+      "definitions_ex_vn": "nhìn vào thứ đường sắt kim loại đằng kia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inanimate material object as distinct from a living sentient being.",
+      "definitions_ex_en": "I'm not a thing, not a work of art to be cherished",
+      "definitions_ex_vn": "Tôi không phải là một điều, không phải là một tác phẩm nghệ thuật được trân trọng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an action, activity, event, thought, or utterance.",
+      "definitions_ex_en": "she said the first thing that came into her head",
+      "definitions_ex_vn": "Cô ấy nói điều đầu tiên xuất hiện vào đầu cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "what is needed or required.",
+      "definitions_ex_en": "you need a tonic—and here's just the thing",
+      "definitions_ex_vn": "Bạn cần một loại thuốc bổ - và đây chỉ là điều",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's special interest or concern.",
+      "definitions_ex_en": "reading isn't my thing",
+      "definitions_ex_vn": "đọc không phải là thứ của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to introduce or emphasize an important point.",
+      "definitions_ex_en": "the thing is, I am going to sell this house",
+      "definitions_ex_vn": "Điều đó là, tôi sẽ bán ngôi nhà này",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

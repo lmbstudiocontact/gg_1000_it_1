@@ -1,0 +1,17 @@
+{
+  "english": "times",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thời gian",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "multiplied by.",
+      "definitions_ex_en": "eleven times four is forty-four",
+      "definitions_ex_vn": "mười một lần bốn là bốn mươi bốn",
+      "definitions_type_word": "preposition"
+    }
+  ]
+}

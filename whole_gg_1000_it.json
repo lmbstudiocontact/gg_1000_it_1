@@ -1,0 +1,53 @@
+{
+  "english": "whole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình an vô sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khỏe mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tất cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toàn thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "all of; entire.",
+      "definitions_ex_en": "he spent the whole day walking",
+      "definitions_ex_vn": "anh ấy đã dành cả ngày đi bộ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in an unbroken or undamaged state; in one piece.",
+      "definitions_ex_en": "owls usually swallow their prey whole",
+      "definitions_ex_vn": "Owls thường nuốt cả con mồi của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a thing that is complete in itself.",
+      "definitions_ex_en": "the subjects of the curriculum form a coherent whole",
+      "definitions_ex_vn": "Các đối tượng của chương trình giảng dạy tạo thành một tổng thể mạch lạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "all of something.",
+      "definitions_ex_en": "the effects will last for the whole of his life",
+      "definitions_ex_vn": "Các hiệu ứng sẽ kéo dài cho toàn bộ cuộc sống của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to emphasize the novelty or distinctness of something.",
+      "definitions_ex_en": "the man who's given a whole new meaning to the term “cowboy.”",
+      "definitions_ex_vn": "Người đàn ông đã đưa ra một ý nghĩa hoàn toàn mới cho thuật ngữ Cow Cowboy.",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

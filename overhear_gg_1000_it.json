@@ -1,0 +1,21 @@
+{
+  "english": "overhear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chợt nghe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghe thình lình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hear (someone or something) without meaning to or without the knowledge of the speaker.",
+      "definitions_ex_en": "I couldn't help overhearing your conversation",
+      "definitions_ex_vn": "Tôi không thể giúp tình cờ nghe cuộc trò chuyện của bạn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

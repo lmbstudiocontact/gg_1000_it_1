@@ -1,0 +1,33 @@
+{
+  "english": "sure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiệu nghiệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thể sai lầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xác thật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "confident in what one thinks or knows; having no doubt that one is right.",
+      "definitions_ex_en": "I'm sure I've seen that dress before",
+      "definitions_ex_vn": "Tôi chắc chắn rằng tôi đã thấy chiếc váy đó trước đây",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

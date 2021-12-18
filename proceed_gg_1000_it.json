@@ -1,0 +1,49 @@
+{
+  "english": "proceed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cư xử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối đải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hành động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiện người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi sự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi tố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp diển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp theo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "begin or continue a course of action.",
+      "definitions_ex_en": "we can proceed with our investigation",
+      "definitions_ex_vn": "Chúng tôi có thể tiến hành điều tra của chúng tôi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

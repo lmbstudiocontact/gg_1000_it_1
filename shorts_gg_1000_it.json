@@ -1,0 +1,29 @@
+{
+  "english": "shorts",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần đùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần short",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần sọt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "short pants that reach only to the thighs or knees.",
+      "definitions_ex_en": "cycling shorts",
+      "definitions_ex_vn": "Quần short đi xe đạp",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

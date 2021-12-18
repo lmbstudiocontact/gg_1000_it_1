@@ -1,0 +1,23 @@
+{
+  "english": "rethink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "think again about (something such as a policy or course of action), especially in order to make changes to it.",
+      "definitions_ex_en": "I've had to rethink",
+      "definitions_ex_vn": "Tôi đã phải suy nghĩ lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a reassessment, especially one that results in changes being made.",
+      "definitions_ex_en": "a last-minute rethink of their tactics",
+      "definitions_ex_vn": "một suy nghĩ lại vào phút cuối của chiến thuật của họ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

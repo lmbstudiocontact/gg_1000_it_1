@@ -1,0 +1,23 @@
+{
+  "english": "rebuild",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xây dựng lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "build (something) again after it has been damaged or destroyed.",
+      "definitions_ex_en": "we try to help them rebuild their lives",
+      "definitions_ex_vn": "Chúng tôi cố gắng giúp họ xây dựng lại cuộc sống của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance or rebuilding something, especially a vehicle or other machine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

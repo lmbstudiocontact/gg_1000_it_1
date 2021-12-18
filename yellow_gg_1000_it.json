@@ -1,0 +1,55 @@
+{
+  "english": "yellow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu vàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhát gan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vàng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the color between green and orange in the spectrum, a primary subtractive color complementary to blue; colored like ripe lemons or egg yolks.",
+      "definitions_ex_en": "curly yellow hair",
+      "definitions_ex_vn": "Tóc xoăn màu vàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cowardly.",
+      "definitions_ex_en": "he'd better get back there quick and prove he's not yellow",
+      "definitions_ex_vn": "anh ấy tốt hơn nên lấy lại ở đó nhanh chóng và chứng minh anh ấy không có màu vàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a book or newspaper) unscrupulously sensational.",
+      "definitions_ex_en": "he based his judgment on headlines and yellow journalism",
+      "definitions_ex_vn": "Ông dựa trên phán đoán của mình về tiêu đề và báo chí vàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "yellow color or pigment.",
+      "definitions_ex_en": "the craft detonated in a blaze of red and yellow",
+      "definitions_ex_vn": "Thủ công nổ tung trong một ngọn lửa đỏ và vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of plant diseases in which the leaves turn yellow, typically caused by viruses and transmitted by insects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "become yellow, especially with age.",
+      "definitions_ex_en": "the cream paint was beginning to yellow",
+      "definitions_ex_vn": "Sơn kem đã bắt đầu màu vàng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

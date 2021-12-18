@@ -1,0 +1,39 @@
+{
+  "english": "thunder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu như sấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi sấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng sét đánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air.",
+      "definitions_ex_en": "there was a crash of thunder",
+      "definitions_ex_vn": "Có một vụ tai nạn của sấm sét",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "thunder sounds.",
+      "definitions_ex_en": "it began to thunder",
+      "definitions_ex_vn": "Nó bắt đầu sấm sét",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

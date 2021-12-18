@@ -1,0 +1,27 @@
+{
+  "english": "telecast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường dây điện truyền đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường dây viển thhông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a television broadcast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transmit by television.",
+      "definitions_ex_en": "the program will be telecast simultaneously to nearly 150 cities",
+      "definitions_ex_vn": "Chương trình sẽ là Telecast đồng thời đến gần 150 thành phố",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

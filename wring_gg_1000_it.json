@@ -1,0 +1,39 @@
+{
+  "english": "wring",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuốn xoắn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vặn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "squeeze and twist (something) to force liquid from it.",
+      "definitions_ex_en": "she wrung the cloth out in the sink",
+      "definitions_ex_vn": "Cô ấy quỳ xuống trong bồn rửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of squeezing or twisting something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

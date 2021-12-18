@@ -1,0 +1,37 @@
+{
+  "english": "vein",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoáng mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạch máu đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tĩnh mạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the tubes forming part of the blood circulation system of the body, carrying in most cases oxygen-depleted blood toward the heart.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fracture in rock containing a deposit of minerals or ore and typically having an extensive course underground.",
+      "definitions_ex_en": "gold-bearing quartz veins",
+      "definitions_ex_vn": "tĩnh mạch thạch anh mang vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinctive quality, style, or tendency.",
+      "definitions_ex_en": "he closes his article in a somewhat humorous vein",
+      "definitions_ex_vn": "anh ấy đóng bài viết của mình trong một khoảng cách hơi hài hước",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

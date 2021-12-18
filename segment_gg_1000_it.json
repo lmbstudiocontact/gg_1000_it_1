@@ -1,0 +1,45 @@
+{
+  "english": "segment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng khúc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the parts into which something is or may be divided.",
+      "definitions_ex_en": "a large segment of the local population",
+      "definitions_ex_vn": "một phân khúc lớn dân số địa phương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a figure cut off by a line or plane intersecting it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the series of similar anatomical units of which the body and appendages of some animals are composed, such as the visible rings of an earthworm's body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the smallest distinct part of a spoken utterance, in particular the vowels and consonants as opposed to stress and intonation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide (something) into separate parts or sections.",
+      "definitions_ex_en": "the unemployed are segmented into two groups",
+      "definitions_ex_vn": "những người thất nghiệp được phân đoạn thành hai nhóm",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

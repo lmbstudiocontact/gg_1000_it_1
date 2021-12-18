@@ -1,0 +1,21 @@
+{
+  "english": "subtraction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép toán trừ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khử đi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or skill of taking one number or amount away from another.",
+      "definitions_ex_en": "subtraction of this figure from the total",
+      "definitions_ex_vn": "trừ con số này từ tổng số",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

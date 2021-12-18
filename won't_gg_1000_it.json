@@ -1,0 +1,37 @@
+{
+  "english": "won't",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lệ thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói thường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one's customary behavior in a particular situation.",
+      "definitions_ex_en": "Constance, as was her wont, had paid her little attention",
+      "definitions_ex_vn": "Constance, như cô sẽ không chú ý đến chút cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person) in the habit of doing something; accustomed.",
+      "definitions_ex_en": "he was wont to arise at 5:30 every morning",
+      "definitions_ex_vn": "anh ấy sẽ không phát sinh lúc 5:30 mỗi sáng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or be or become accustomed.",
+      "definitions_ex_en": "wont thy heart to thoughts hereof",
+      "definitions_ex_vn": "Trái tim sẽ không nghĩ đến những suy nghĩ của bạn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

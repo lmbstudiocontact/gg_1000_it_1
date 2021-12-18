@@ -1,0 +1,53 @@
+{
+  "english": "romantic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoang đường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lãng mạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mơ mộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tiểu thuyết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conducive to or characterized by the expression of love.",
+      "definitions_ex_en": "a romantic candlelit dinner",
+      "definitions_ex_vn": "một bữa ăn tối lãng mạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of, characterized by, or suggestive of an idealized view of reality.",
+      "definitions_ex_en": "a romantic attitude toward the past",
+      "definitions_ex_vn": "một thái độ lãng mạn đối với quá khứ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the artistic and literary movement of romanticism.",
+      "definitions_ex_en": "the romantic tradition",
+      "definitions_ex_vn": "truyền thống lãng mạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person with romantic beliefs or attitudes.",
+      "definitions_ex_en": "I am an incurable romantic",
+      "definitions_ex_vn": "Tôi là một lãng mạn không thể chữa được",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a writer or artist of the romantic movement.",
+      "definitions_ex_en": "Wordsworth, Coleridge, and the later romantics",
+      "definitions_ex_vn": "Wordsworth, Coleridge và những người lãng mạn sau này",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

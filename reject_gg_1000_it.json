@@ -1,0 +1,59 @@
+{
+  "english": "reject",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bị đánh rớt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người không được chọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật không dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không được chọn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không tiếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "loại ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ chối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "dismiss as inadequate, inappropriate, or not to one's taste.",
+      "definitions_ex_en": "union negotiators rejected a 1.5 percent pay increase",
+      "definitions_ex_vn": "Các nhà đàm phán công đoàn đã từ chối mức tăng lương 1,5%",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person or thing dismissed as failing to meet standards or satisfy tastes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

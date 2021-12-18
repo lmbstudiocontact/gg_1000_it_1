@@ -1,0 +1,45 @@
+{
+  "english": "small",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bé",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vụn vặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chử nhỏ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từng miếng nhỏ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a size that is less than normal or usual.",
+      "definitions_ex_en": "the room was small and quiet",
+      "definitions_ex_vn": "Căn phòng nhỏ và yên tĩnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "insignificant; unimportant.",
+      "definitions_ex_en": "these are small points",
+      "definitions_ex_vn": "Đây là những điểm nhỏ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "into small pieces.",
+      "definitions_ex_en": "cut the okra up small",
+      "definitions_ex_vn": "Cắt đậm lên nhỏ",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

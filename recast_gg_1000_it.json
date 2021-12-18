@@ -1,0 +1,47 @@
+{
+  "english": "recast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đúc lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tính toán lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cải tác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt lại những vai tuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đúc lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lại tác phẫm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm toán lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give (a metal object) a different form by melting it down and reshaping it.",
+      "definitions_ex_en": "in 1919, the bells were recast",
+      "definitions_ex_vn": "Năm 1919, tiếng chuông đã reedast",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allocate the parts in (a play or film) to different actors.",
+      "definitions_ex_en": "there were moves to recast the play",
+      "definitions_ex_vn": "đã có những di chuyển để tái tạo vở kịch",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

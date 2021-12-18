@@ -1,0 +1,35 @@
+{
+  "english": "paragraph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoạn tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng đầu đoạn văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng đoạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết bài ngắn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.",
+      "definitions_ex_en": "the concluding paragraph",
+      "definitions_ex_vn": "Đoạn kết luận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange (a piece of writing) in paragraphs.",
+      "definitions_ex_en": "his style deploys a lack of conventional paragraphing",
+      "definitions_ex_vn": "Phong cách của anh ấy triển khai thiếu đoạn văn thông thường",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

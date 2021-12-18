@@ -1,0 +1,69 @@
+{
+  "english": "plan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họa đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt phẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kế hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy bản đồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phác định tương lai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trù hoạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẽ địa đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a detailed proposal for doing or achieving something.",
+      "definitions_ex_en": "the UN peace plan",
+      "definitions_ex_vn": "Kế hoạch hòa bình của Liên Hợp Quốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an intention or decision about what one is going to do.",
+      "definitions_ex_en": "I have no plans to retire",
+      "definitions_ex_vn": "Tôi không có kế hoạch nghỉ hưu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a detailed map or diagram.",
+      "definitions_ex_en": "a street plan",
+      "definitions_ex_vn": "một kế hoạch đường phố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decide on and arrange in advance.",
+      "definitions_ex_en": "they were planning a trip to Egypt",
+      "definitions_ex_vn": "Họ đang lên kế hoạch cho một chuyến đi đến Ai Cập",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "design or make a plan of (something to be made or built).",
+      "definitions_ex_en": "they were planning a garden",
+      "definitions_ex_vn": "Họ đang lên kế hoạch cho một khu vườn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "separate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biệt cư và biệt sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rời ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lìa ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rã ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không dính mhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không liền nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở riêng ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "riêng biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rời nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tách rời ra",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "forming or viewed as a unit apart or by itself.",
+      "definitions_ex_en": "this raises two separate issues",
+      "definitions_ex_vn": "Điều này đặt ra hai vấn đề riêng biệt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cause to move or be apart.",
+      "definitions_ex_en": "both owners were trying to separate the dogs",
+      "definitions_ex_vn": "Cả hai chủ sở hữu đã cố gắng tách những con chó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide or cause to divide into constituent or distinct elements.",
+      "definitions_ex_en": "the milk had separated into curds and whey",
+      "definitions_ex_vn": "Sữa đã tách thành sữa đông và váng sữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make something form, or view something as, a unit apart or by itself.",
+      "definitions_ex_en": "the organ loft separating off the choir",
+      "definitions_ex_vn": "Các cơ quan loft tách ra dàn hợp xướng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "individual items of clothing, such as skirts, jackets, or pants, suitable for wearing in different combinations.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the self-contained, freestanding components of a sound-reproduction system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "portions into which a soil, sediment, etc. can be sorted according to particle size, mineral composition, or other criteria.",
+      "definitions_ex_en": "analysis of mineral separates from six cordierite-bearing strata",
+      "definitions_ex_vn": "Phân tích khoáng chất tách biệt với sáu tầng mang Cordierite",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

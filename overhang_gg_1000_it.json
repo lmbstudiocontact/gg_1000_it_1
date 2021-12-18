@@ -1,0 +1,43 @@
+{
+  "english": "overhang",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phần lồi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần nhô ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng dựng xiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đang hâm dọa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đe dọa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựng xiên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hang or extend outward over.",
+      "definitions_ex_en": "a concrete path overhung by trees",
+      "definitions_ex_vn": "một con đường bê tông qua cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a part of something that sticks out or hangs over another thing.",
+      "definitions_ex_en": "he crouched beneath an overhang of bushes",
+      "definitions_ex_vn": "Anh cúi xuống dưới một phần nhô ra của những bụi cây",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

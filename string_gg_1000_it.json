@@ -1,0 +1,79 @@
+{
+  "english": "string",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây đàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thớ thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc bằng dây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xỏ hột bằng dây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "material consisting of threads of cotton, hemp, or other material twisted together to form a thin length.",
+      "definitions_ex_en": "unwieldy packs tied up with string",
+      "definitions_ex_vn": "Gói khó sử dụng gắn liền với chuỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of things tied or threaded together on a thin cord.",
+      "definitions_ex_en": "she wore a string of agates around her throat",
+      "definitions_ex_vn": "Cô mặc một chuỗi ký hiệu quanh cổ họng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tough piece of fiber in vegetables, meat, or other food, such as a tough elongated piece connecting the two halves of a bean pod.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for stringboard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hypothetical one-dimensional subatomic particle having the dynamical properties of a flexible loop.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hang (something) so that it stretches in a long line.",
+      "definitions_ex_en": "lights were strung across the promenade",
+      "definitions_ex_vn": "Đèn được xâu chuỗi qua lối đi dạo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fit a string or strings to (a musical instrument, a racket, or a bow).",
+      "definitions_ex_en": "the harp had been newly strung",
+      "definitions_ex_vn": "đàn hạc đã được xâu chuỗi mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove the strings from (a bean).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

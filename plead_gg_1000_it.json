@@ -1,0 +1,51 @@
+{
+  "english": "plead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biện hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẩn chứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói giùm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói giúp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tự thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viện chứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viện cớ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make an emotional appeal.",
+      "definitions_ex_en": "“Don't go,” she pleaded",
+      "definitions_ex_vn": "\"Đừng đi,\" cô cầu xin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present and argue for (a position), especially in court or in another public context.",
+      "definitions_ex_en": "using cheap melodrama to plead the case for three prisoners",
+      "definitions_ex_vn": "sử dụng melodrama giá rẻ để nhận ra trường hợp cho ba tù nhân",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

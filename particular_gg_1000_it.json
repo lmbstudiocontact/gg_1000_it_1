@@ -1,0 +1,73 @@
+{
+  "english": "particular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đủ tất cả chi tiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỉ mỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vụn vặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỷ càng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỹ lưỡng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự riêng biệt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to single out an individual member of a specified group or class.",
+      "definitions_ex_en": "the action seems to discriminate against a particular group of companies",
+      "definitions_ex_vn": "hành động dường như phân biệt đối xử với một nhóm các công ty cụ thể",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "especially great or intense.",
+      "definitions_ex_en": "when handling or checking cash the cashier should exercise particular care",
+      "definitions_ex_vn": "Khi xử lý hoặc kiểm tra tiền mặt, nhân viên thu ngân cần thực hiện chăm sóc đặc biệt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "insisting that something should be correct or suitable in every detail; fastidious.",
+      "definitions_ex_en": "she is very particular about cleanliness",
+      "definitions_ex_vn": "Cô ấy rất đặc biệt về sự sạch sẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an individual item, as contrasted with a universal quality.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a detail.",
+      "definitions_ex_en": "he is wrong in every particular",
+      "definitions_ex_vn": "anh ấy đã sai trong mọi cụ thể",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

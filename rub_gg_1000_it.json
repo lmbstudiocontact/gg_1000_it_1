@@ -1,0 +1,83 @@
+{
+  "english": "rub",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thoa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cạ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán nhỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chà vào nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cọ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự chà xát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự không bằng phẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phiền muộn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move one's hand or a cloth repeatedly back and forth on the surface of (something) with firm pressure.",
+      "definitions_ex_en": "she rubbed her arm, where she had a large bruise",
+      "definitions_ex_vn": "Cô xoa tay, nơi cô có một vết bầm lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of rubbing.",
+      "definitions_ex_en": "she pulled out a towel and gave her head a quick rub",
+      "definitions_ex_vn": "Cô rút một chiếc khăn và chà nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a difficulty, especially one of central importance in a situation.",
+      "definitions_ex_en": "that was the rub—she had not cared enough",
+      "definitions_ex_vn": "đó là chà, cô ấy đã không được chăm sóc đủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in lawn bowling) an uneven patch of ground that impedes or diverts a bowl.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

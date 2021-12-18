@@ -1,0 +1,29 @@
+{
+  "english": "rug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm thảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thãm trải nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải trải giường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a floor covering of thick woven material or animal skin, typically not extending over the entire floor.",
+      "definitions_ex_en": "an oriental rug",
+      "definitions_ex_vn": "một tấm thảm phương Đông",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

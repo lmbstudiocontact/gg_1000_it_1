@@ -1,0 +1,39 @@
+{
+  "english": "particularly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cặn kẻ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đầy đủ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kỷ càng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tỉ mỉ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "to a higher degree than is usual or average.",
+      "definitions_ex_en": "I don't particularly want to be reminded of that time",
+      "definitions_ex_vn": "Tôi không đặc biệt muốn được nhắc nhở về thời gian đó",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to give special emphasis to a point; specifically.",
+      "definitions_ex_en": "he particularly asked that I should help you",
+      "definitions_ex_vn": "Ông đặc biệt hỏi rằng tôi nên giúp bạn",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

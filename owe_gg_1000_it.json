@@ -1,0 +1,21 @@
+{
+  "english": "owe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiếu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have an obligation to pay or repay (something, especially money) in return for something received.",
+      "definitions_ex_en": "they have denied they owe money to the company",
+      "definitions_ex_vn": "Họ đã từ chối họ nợ công ty",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

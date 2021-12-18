@@ -1,0 +1,21 @@
+{
+  "english": "overfeed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn quá nhiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho ăn nhiều quá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give too much food to.",
+      "definitions_ex_en": "the general view was that you cannot overfeed a baby",
+      "definitions_ex_vn": "quan điểm chung là bạn không thể ăn quá nhiều một em bé",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

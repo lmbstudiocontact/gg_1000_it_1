@@ -1,0 +1,73 @@
+{
+  "english": "shine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ánh sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước láng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chiếu sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng ồn ào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng lộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếu sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "soi sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chói sáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of the sun or another source of light) give out a bright light.",
+      "definitions_ex_en": "the sun shone through the window",
+      "definitions_ex_vn": "Mặt trời chiếu qua cửa sổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "direct (a flashlight or other light) somewhere in order to see something in the dark.",
+      "definitions_ex_en": "an usher shines his flashlight into the boys' faces",
+      "definitions_ex_vn": "Một người sử dụng tỏa sáng đèn pin của mình vào khuôn mặt của các chàng trai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be very talented or perform very well.",
+      "definitions_ex_en": "she shines at comedy",
+      "definitions_ex_vn": "Cô tỏa sáng hài kịch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (an object made of leather, metal, or wood) bright by rubbing it; polish.",
+      "definitions_ex_en": "his shoes were shined to perfection",
+      "definitions_ex_vn": "đôi giày của anh ta được tỏa sáng đến sự hoàn hảo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quality of brightness, especially from reflected light.",
+      "definitions_ex_en": "use shoe polish to try and get a shine",
+      "definitions_ex_vn": "sử dụng đánh giày để thử và có được một sự tỏa sáng",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

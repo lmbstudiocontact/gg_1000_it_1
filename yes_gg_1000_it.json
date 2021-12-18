@@ -1,0 +1,51 @@
+{
+  "english": "yes",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vâng",
+      "type_word": "particle"
+    },
+    {
+      "translate_mean": "dạ",
+      "type_word": "particle"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to give an affirmative response.",
+      "definitions_ex_en": "“Do you understand?” “Yes.”",
+      "definitions_ex_vn": "\"Bạn hiểu không?\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "used as a response to someone addressing one or otherwise trying to attract one's attention.",
+      "definitions_ex_en": "“Oh, Mr. Lawrence.” “Yes?”",
+      "definitions_ex_vn": "\"Ồ, ông Lawrence.\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "used to question a remark or ask for more detail about it.",
+      "definitions_ex_en": "“It should be easy to check.” “Oh yes? How?”",
+      "definitions_ex_vn": "\"Nó nên dễ dàng để kiểm tra.\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "encouraging someone to continue speaking.",
+      "definitions_ex_en": "“When you bought those photographs …” “Yes?”",
+      "definitions_ex_vn": "\"Khi bạn mua những bức ảnh đó ...\" \"Có?\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "expressing delight.",
+      "definitions_ex_en": "plenty to eat, including hot roast beef sandwiches (yes!)",
+      "definitions_ex_vn": "Rất nhiều để ăn, bao gồm bánh sandwich thịt bò nướng nóng (có!)",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "an affirmative answer or decision, especially in voting.",
+      "definitions_ex_en": "answering with assured and ardent yeses",
+      "definitions_ex_vn": "Trả lời với yên tâm và có yeses",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "represent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chú ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đại diện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng tuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diển tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "miêu tả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tượng trưng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be entitled or appointed to act or speak for (someone), especially in an official capacity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "constitute; amount to.",
+      "definitions_ex_en": "this figure represents eleven percent of the company's total sales",
+      "definitions_ex_vn": "Con số này thể hiện mười một phần trăm tổng doanh số của công ty",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "depict (a particular subject) in a picture or other work of art.",
+      "definitions_ex_en": "santos are small wooden figures representing saints",
+      "definitions_ex_vn": "Santos là những con số bằng gỗ nhỏ đại diện cho các vị thánh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "state or point out (something) clearly.",
+      "definitions_ex_en": "it was represented to him that she would be an unsuitable wife",
+      "definitions_ex_vn": "nó được đại diện cho anh ta rằng cô sẽ là một người vợ không phù hợp",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

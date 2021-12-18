@@ -1,0 +1,45 @@
+{
+  "english": "then",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kế đó",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lúc bấy giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trong lúc ấy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thế thì",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "vậy thì",
+      "type_word": "conjunction"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at that time; at the time in question.",
+      "definitions_ex_en": "I was living in Cairo then",
+      "definitions_ex_vn": "Tôi đã sống ở Cairo sau đó",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "after that; next; afterward.",
+      "definitions_ex_en": "she won the first and then the second game",
+      "definitions_ex_vn": "Cô đã thắng trò chơi thứ nhất và sau đó là trò chơi thứ hai",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in that case; therefore.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

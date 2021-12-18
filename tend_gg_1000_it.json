@@ -1,0 +1,39 @@
+{
+  "english": "tend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trông nom",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "băng thuốc cho người bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử gìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn sóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay về hướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "regularly or frequently behave in a particular way or have a certain characteristic.",
+      "definitions_ex_en": "written language tends to be formal",
+      "definitions_ex_vn": "ngôn ngữ viết có xu hướng là chính thức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "care for or look after; give one's attention to.",
+      "definitions_ex_en": "Viola tended plants on the roof",
+      "definitions_ex_vn": "Viola có xu hướng cây trên mái nhà",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

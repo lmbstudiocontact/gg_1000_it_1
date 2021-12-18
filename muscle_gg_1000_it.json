@@ -1,0 +1,27 @@
+{
+  "english": "muscle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắp thịt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.",
+      "definitions_ex_en": "the calf muscle",
+      "definitions_ex_vn": "cơ bắp chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physical power; strength.",
+      "definitions_ex_en": "he had muscle but no brains",
+      "definitions_ex_vn": "Anh ta có cơ bắp nhưng không có bộ não",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "english": "undertake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt đầu làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đảm đương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gánh vác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "commit oneself to and begin (an enterprise or responsibility); take on.",
+      "definitions_ex_en": "a firm of builders undertook the construction work",
+      "definitions_ex_vn": "Một công ty của các nhà xây dựng đã thực hiện công việc xây dựng",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

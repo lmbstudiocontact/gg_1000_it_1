@@ -1,0 +1,57 @@
+{
+  "english": "tell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sanh ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "communicate information, facts, or news to someone in spoken or written words.",
+      "definitions_ex_en": "I told her you were coming",
+      "definitions_ex_vn": "Tôi nói với cô ấy rằng bạn đang đến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decide or determine correctly or with certainty.",
+      "definitions_ex_en": "you can tell they're in love",
+      "definitions_ex_vn": "Bạn có thể nói rằng họ đang yêu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "count (the members of a series or group).",
+      "definitions_ex_en": "the shepherd had told all his sheep",
+      "definitions_ex_vn": "Người chăn cừu đã nói với tất cả những con cừu của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially in poker) an unconscious action that is thought to betray an attempted deception.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Middle East) an artificial mound formed by the accumulated remains of ancient settlements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

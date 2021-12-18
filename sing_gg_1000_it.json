@@ -1,0 +1,55 @@
+{
+  "english": "sing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buổi họp để ca hát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make musical sounds with the voice, especially words with a set tune.",
+      "definitions_ex_en": "Bella sang to the baby",
+      "definitions_ex_vn": "Bella hát cho em bé",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a high-pitched whistling or buzzing sound.",
+      "definitions_ex_en": "the kettle was beginning to sing",
+      "definitions_ex_vn": "Ấm đã bắt đầu hát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act as an informer to the police.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "recount or celebrate in a work of literature, especially poetry.",
+      "definitions_ex_en": "poetry should sing the strangeness and variety of the human race",
+      "definitions_ex_vn": "Thơ nên hát sự kỳ lạ và sự đa dạng của loài người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or spell of singing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "singular.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "occur",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có ý nghỉ về",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gặp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "happen; take place.",
+      "definitions_ex_en": "the accident occurred at about 3:30 p.m.",
+      "definitions_ex_vn": "Vụ tai nạn xảy ra vào khoảng 3:30 chiều",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "rely",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tin cậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tín nhiệm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "depend on with full trust or confidence.",
+      "definitions_ex_en": "I know I can rely on your discretion",
+      "definitions_ex_vn": "Tôi biết tôi có thể dựa vào quyết định của bạn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

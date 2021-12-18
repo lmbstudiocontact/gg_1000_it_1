@@ -1,0 +1,29 @@
+{
+  "english": "undergo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu sự đau khổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trải qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "experience or be subjected to (something, typically something unpleasant, painful, or arduous).",
+      "definitions_ex_en": "the baby underwent a life-saving brain operation",
+      "definitions_ex_vn": "Em bé đã trải qua một hoạt động não cứu sống",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

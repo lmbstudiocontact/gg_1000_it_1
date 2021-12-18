@@ -1,0 +1,41 @@
+{
+  "english": "retread",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dày xéo lên lần nữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạp lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi qua lần nữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giẵm lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go back over (a path or one's steps).",
+      "definitions_ex_en": "they never retread the same ground",
+      "definitions_ex_vn": "họ không bao giờ đọc lại cùng một mặt bằng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put a new tread on (a worn tire).",
+      "definitions_ex_en": "1.3 million tires were retreaded",
+      "definitions_ex_vn": "1,3 triệu lốp đã được lần đọc lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a tire that has been given a new tread.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

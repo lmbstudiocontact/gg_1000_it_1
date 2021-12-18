@@ -1,0 +1,91 @@
+{
+  "english": "running",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chảy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chữ viết tháu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "liên tiếp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lưu loát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trôi chảy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuộc chạy đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điều khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kinh doanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quản lý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or movement of a runner.",
+      "definitions_ex_en": "he accounted for 31 touchdowns with his running and passing",
+      "definitions_ex_vn": "Ông chiếm 31 lần chạm bóng với việc chạy và đi qua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of managing or operating something.",
+      "definitions_ex_en": "the day-to-day running of the office",
+      "definitions_ex_vn": "ngày chạy hàng ngày của văn phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of water) flowing naturally or supplied to a building through pipes and taps.",
+      "definitions_ex_en": "hot and cold running water",
+      "definitions_ex_vn": "Nước nóng và lạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "done while running.",
+      "definitions_ex_en": "a running jump",
+      "definitions_ex_vn": "một bước nhảy đang chạy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "continuous or recurring over a long period.",
+      "definitions_ex_en": "a running joke",
+      "definitions_ex_vn": "một trò đùa đang chạy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a measurement) in a straight line.",
+      "definitions_ex_en": "today, those same lots are worth $6,000 a running foot",
+      "definitions_ex_vn": "Ngày nay, những lô tương tự có giá trị $ 6.000 một bàn chân đang chạy",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

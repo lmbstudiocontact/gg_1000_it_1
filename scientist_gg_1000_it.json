@@ -1,0 +1,25 @@
+{
+  "english": "scientist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người giỏi về khoa vạn vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà khoa học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà vật lý học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is studying or has expert knowledge of one or more of the natural or physical sciences.",
+      "definitions_ex_en": "a research scientist",
+      "definitions_ex_vn": "một nhà khoa học nghiên cứu",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "want",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không có",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyết điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cảnh nghèo nàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "muốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiếu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have a desire to possess or do (something); wish for.",
+      "definitions_ex_en": "I want an apple",
+      "definitions_ex_vn": "tôi muốn một quả táo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ought, should, or need to do something.",
+      "definitions_ex_en": "you don't want to believe everything you hear",
+      "definitions_ex_vn": "Bạn không muốn tin tất cả mọi thứ bạn nghe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lack or be short of something desirable or essential.",
+      "definitions_ex_en": "you shall want for nothing while you are with me",
+      "definitions_ex_vn": "bạn sẽ không muốn gì trong khi bạn ở bên tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a lack or deficiency of something.",
+      "definitions_ex_en": "Victorian houses which are in want of repair",
+      "definitions_ex_vn": "Nhà Victoria đang muốn sửa chữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a desire for something.",
+      "definitions_ex_en": "the expression of our wants and desires",
+      "definitions_ex_vn": "sự thể hiện của mong muốn và mong muốn của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

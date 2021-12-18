@@ -1,0 +1,51 @@
+{
+  "english": "one",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "duy nhứt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lá một điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một",
+      "type_word": ""
+    },
+    {
+      "translate_mean": "người ta",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "referring to a person or thing previously mentioned or easily identified.",
+      "definitions_ex_en": "her mood changed from one of moroseness to one of joy",
+      "definitions_ex_vn": "Tâm trạng của cô ấy đã thay đổi từ một trong những tình trạng về một niềm vui",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "a person of a specified kind.",
+      "definitions_ex_en": "you're the one who ruined her life",
+      "definitions_ex_vn": "Bạn là người hủy hoại cuộc sống của mình",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to refer to the speaker, or any person, as representing people in general.",
+      "definitions_ex_en": "one must admire him for his willingness",
+      "definitions_ex_vn": "Người ta phải ngưỡng mộ anh ấy vì sự sẵn lòng của anh ấy",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting various compounds, especially ketones.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

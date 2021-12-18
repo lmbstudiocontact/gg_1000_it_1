@@ -1,0 +1,119 @@
+{
+  "english": "swing",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xoay quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lung lay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa qua đưa lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lúc lắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quây quanh trục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cái xích đu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lung lay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ rộng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move back and forth or from side to side while suspended or on an axis.",
+      "definitions_ex_en": "her long black skirt swung about her legs",
+      "definitions_ex_vn": "Váy đen dài của cô vung lên đôi chân của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move by grasping a support from below and leaping.",
+      "definitions_ex_en": "we swung across like two trapeze artists",
+      "definitions_ex_vn": "Chúng tôi vung lên như hai nghệ sĩ hình thang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or cause to move in a smooth, curving line.",
+      "definitions_ex_en": "the cab swung into the parking lot",
+      "definitions_ex_vn": "chiếc taxi vung vào bãi đậu xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shift or cause to shift from one opinion, mood, or state of affairs to another.",
+      "definitions_ex_en": "opinion swung in the Chancellor's favor",
+      "definitions_ex_vn": "ý kiến vung trong sự ủng hộ của thủ tướng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "play music with an easy flowing but vigorous rhythm.",
+      "definitions_ex_en": "the band swung on",
+      "definitions_ex_vn": "ban nhạc vung lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an event, place, or way of life) be lively, exciting, or fashionable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engage in group sex or swap sexual partners within a group, especially on a habitual basis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a seat suspended by ropes or chains, on which someone may sit and swing back and forth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of swinging.",
+      "definitions_ex_en": "with the swing of her arm, the knife flashed through the air",
+      "definitions_ex_vn": "Với vung cánh tay của cô ấy, con dao lóe lên trên không trung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a discernible change in opinion.",
+      "definitions_ex_en": "the South's swing to the right",
+      "definitions_ex_vn": "phía nam đu của bên phải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of jazz or dance music with an easy flowing but vigorous rhythm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in musical theater) an understudy, typically one who covers multiple roles in the chorus of a particular production.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

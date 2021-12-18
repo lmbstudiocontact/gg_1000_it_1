@@ -1,0 +1,49 @@
+{
+  "english": "weather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khí hậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời tiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để ngoài mưa gió",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+      "definitions_ex_en": "if the weather's good we can go for a walk",
+      "definitions_ex_vn": "Nếu thời tiết tốt, chúng ta có thể đi dạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wear away or change the appearance or texture of (something) by long exposure to the air.",
+      "definitions_ex_en": "his skin was weathered almost black by his long outdoor life",
+      "definitions_ex_vn": "Da anh ta bị phong hóa gần như đen bởi cuộc sống ngoài trời dài của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come safely through (a storm).",
+      "definitions_ex_en": "the sturdy boat had weathered the storm well",
+      "definitions_ex_vn": "Chiếc thuyền chắc chắn đã vượt qua cơn bão tốt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (boards or tiles) overlap downward to keep out rain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (a hawk) to spend a period perched in the open air.",
+      "definitions_ex_en": "I would advise to weather her in her hood",
+      "definitions_ex_vn": "Tôi sẽ khuyên bạn nên tiết kiệm cho cô ấy trong mui xe của cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

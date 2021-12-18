@@ -1,0 +1,93 @@
+{
+  "english": "through",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xuyên qua",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "từ bên nầy qua bên kia",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "ngang qua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "băng qua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chạy thẳng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moving in one side and out of the other side of (an opening, channel, or location).",
+      "definitions_ex_en": "she walked through the doorway into the living room",
+      "definitions_ex_vn": "Cô đi qua ô cửa vào phòng khách",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "continuing in time toward completion of (a process or period).",
+      "definitions_ex_en": "he showed up halfway through the second act",
+      "definitions_ex_vn": "anh ta đã xuất hiện nửa chừng thông qua hành động thứ hai",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "so as to inspect all or part of (a collection, inventory, or publication).",
+      "definitions_ex_en": "I flipped though the pages",
+      "definitions_ex_vn": "Tôi đã lật mặc dù các trang",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "by means of (a process or intermediate stage).",
+      "definitions_ex_en": "dioxins get into mothers' milk through contaminated food",
+      "definitions_ex_vn": "Điôxin vào sữa mẹ thông qua thực phẩm bị ô nhiễm",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "expressing movement into one side and out of the other side of an opening, channel, or location.",
+      "definitions_ex_en": "as soon as we opened the gate they came streaming through",
+      "definitions_ex_vn": "Ngay khi chúng tôi mở cổng họ đi truyền qua",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to continue in time toward the completion of a process, period, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to inspect all or part of a publication or document.",
+      "definitions_ex_en": "she read the letter through carefully",
+      "definitions_ex_vn": "cô ấy đọc thư thông qua một cách cẩn thận",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to be connected by telephone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a means of public transportation or a ticket) continuing or valid to the final destination.",
+      "definitions_ex_en": "a through train from Boston",
+      "definitions_ex_vn": "A qua tàu từ Boston",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a room) running the whole length of a building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having no prospect of any future relationship, dealings, or success.",
+      "definitions_ex_en": "she told him she was through with him",
+      "definitions_ex_vn": "Cô ấy nói với anh ấy rằng cô ấy đã thông qua anh ấy",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

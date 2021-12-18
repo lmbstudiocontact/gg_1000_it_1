@@ -1,0 +1,47 @@
+{
+  "english": "retain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầm lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp tục dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuê mướn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "continue to have (something); keep possession of.",
+      "definitions_ex_en": "built in 1830, the house retains many of its original features",
+      "definitions_ex_vn": "Được xây dựng vào năm 1830, ngôi nhà vẫn giữ được nhiều tính năng ban đầu của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "absorb and continue to hold (a substance).",
+      "definitions_ex_en": "limestone is known to retain water",
+      "definitions_ex_vn": "Đá vôi được biết là giữ nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "keep (something) in place; hold fixed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "keep (someone) engaged in one's service.",
+      "definitions_ex_en": "he has been retained as a freelance",
+      "definitions_ex_vn": "anh ấy đã được giữ lại như một người tự do",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

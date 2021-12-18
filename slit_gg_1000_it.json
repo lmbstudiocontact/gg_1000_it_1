@@ -1,0 +1,39 @@
+{
+  "english": "slit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường mổ xẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khe hở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nứt ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mổ ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, narrow cut or opening.",
+      "definitions_ex_en": "make a slit in the stem under a bud",
+      "definitions_ex_vn": "tạo một khe trong thân cây dưới một nụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a long, narrow cut in (something).",
+      "definitions_ex_en": "give me the truth or I will slit your throat",
+      "definitions_ex_vn": "cho tôi sự thật hoặc tôi sẽ xèng cổ họng của bạn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

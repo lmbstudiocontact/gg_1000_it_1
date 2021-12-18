@@ -1,0 +1,71 @@
+{
+  "english": "provide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp dưỡng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề phòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng bị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qui định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ước định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự phòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make available for use; supply.",
+      "definitions_ex_en": "these clubs provide a much appreciated service for this area",
+      "definitions_ex_vn": "Những câu lạc bộ này cung cấp một dịch vụ được đánh giá cao cho khu vực này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make adequate preparation for (a possible event).",
+      "definitions_ex_en": "new qualifications must provide for changes in technology",
+      "definitions_ex_vn": "Trình độ mới phải cung cấp cho những thay đổi trong công nghệ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stipulate in a will or other legal document.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appoint an incumbent to (a benefice).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

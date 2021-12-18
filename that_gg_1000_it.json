@@ -1,0 +1,109 @@
+{
+  "english": "that",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuốn sách đó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cũng cao thế đó",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chuyện đó",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "cái ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "cái kia",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "điều đó",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "người mà tôi muốn nói",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "chỉ việc ấy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "việc đó",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to identify a specific person or thing observed by the speaker.",
+      "definitions_ex_en": "that's his wife over there",
+      "definitions_ex_vn": "Đó là vợ của anh ấy đằng kia",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "referring to a specific thing previously mentioned, known, or understood.",
+      "definitions_ex_en": "that's a good idea",
+      "definitions_ex_vn": "đó là một ý kiến hay",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used in singling out someone or something and ascribing a distinctive feature to them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used instead of “which,” “who,” “whom,” or “when” to introduce a defining or restrictive clause, especially one essential to identification.",
+      "definitions_ex_en": "the woman that owns the place",
+      "definitions_ex_vn": "Người phụ nữ sở hữu nơi này",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to identify a specific person or thing observed or heard by the speaker.",
+      "definitions_ex_en": "look at that man there",
+      "definitions_ex_vn": "nhìn người đàn ông đó ở đó",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "referring to a specific thing previously mentioned, known, or understood.",
+      "definitions_ex_en": "he lived in Mysore at that time",
+      "definitions_ex_vn": "Anh ấy sống ở Mysore vào thời điểm đó",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used in singling out someone or something and ascribing a distinctive feature to them.",
+      "definitions_ex_en": "I have always envied those people who make their own bread",
+      "definitions_ex_vn": "Tôi luôn ghen tị với những người tự tạo bánh mì",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "referring to a specific person or thing assumed as understood or familiar to the person being addressed.",
+      "definitions_ex_en": "where is that son of yours?",
+      "definitions_ex_vn": "Con trai của bạn ở đâu?",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "to such a degree; so.",
+      "definitions_ex_en": "I would not go that far",
+      "definitions_ex_vn": "Tôi sẽ không đi xa đến thế",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "introducing a subordinate clause expressing a statement or hypothesis.",
+      "definitions_ex_en": "she said that she was satisfied",
+      "definitions_ex_vn": "Cô ấy nói rằng cô ấy hài lòng",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "expressing a wish or regret.",
+      "definitions_ex_en": "oh that he could be restored to health",
+      "definitions_ex_vn": "Ồ rằng anh ta có thể được khôi phục sức khỏe",
+      "definitions_type_word": "conjunction"
+    }
+  ]
+}

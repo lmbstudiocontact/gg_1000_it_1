@@ -1,0 +1,29 @@
+{
+  "english": "overwrite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viết nhiều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "write on top of (other writing).",
+      "definitions_ex_en": "many names had been scratched out or overwritten",
+      "definitions_ex_vn": "nhiều tên đã bị trầy xước hoặc ghi đè",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write too elaborately or ornately.",
+      "definitions_ex_en": "there is a tendency to overwrite their parts and fall into cliché",
+      "definitions_ex_vn": "Có xu hướng ghi đè lên các bộ phận của họ và rơi vào sáo rỗng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in insurance) accept more risk than the premium income limits allow.",
+      "definitions_ex_en": "there should be regular monitoring to ensure that underwriters do not overwrite",
+      "definitions_ex_vn": "Cần có sự giám sát thường xuyên để đảm bảo rằng các nhà bảo lãnh không ghi đè lên",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

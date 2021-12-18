@@ -1,0 +1,73 @@
+{
+  "english": "test",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khảo thí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.",
+      "definitions_ex_en": "no sparking was visible during the tests",
+      "definitions_ex_vn": "Không có tia lửa có thể nhìn thấy trong các bài kiểm tra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a movable hearth in a reverberating furnace, used for separating gold or silver from lead.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shell or integument of some invertebrates and protozoans, especially the chalky shell of a foraminiferan or the tough outer layer of a tunicate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice.",
+      "definitions_ex_en": "this range has not been tested on animals",
+      "definitions_ex_vn": "Phạm vi này đã không được thử nghiệm trên động vật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "testator.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "testimony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Testament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

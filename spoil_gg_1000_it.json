@@ -1,0 +1,63 @@
+{
+  "english": "spoil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến lợi phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ lấy được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cướp bóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cướp phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư hàng hóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "diminish or destroy the value or quality of.",
+      "definitions_ex_en": "I wouldn't want to spoil your fun",
+      "definitions_ex_vn": "Tôi sẽ không muốn làm hỏng niềm vui của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "harm the character of (someone, especially a child) by being too lenient or indulgent.",
+      "definitions_ex_en": "the last thing I want to do is spoil Thomas",
+      "definitions_ex_vn": "Điều cuối cùng tôi muốn làm là làm hỏng Thomas",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be extremely or aggressively eager for.",
+      "definitions_ex_en": "Cooper was spoiling for a fight",
+      "definitions_ex_vn": "Cooper đã làm hỏng một cuộc chiến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rob (a person or a place) of goods or possessions by force or violence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "goods stolen or taken forcibly from a person or place.",
+      "definitions_ex_en": "the looters carried their spoils away",
+      "definitions_ex_vn": "những kẻ cướp bóc mang theo chiến lợi phẩm của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "waste material brought up during the course of an excavation or a dredging or mining operation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "piece",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ phận của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mảnh vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu bánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một phe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một tấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chắp vá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a portion of an object or of material, produced by cutting, tearing, or breaking the whole.",
+      "definitions_ex_en": "a piece of cheese",
+      "definitions_ex_vn": "một miếng phô mai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assemble something from individual parts.",
+      "definitions_ex_en": "the children took turns piecing together each other's jigsaw puzzle",
+      "definitions_ex_vn": "Những đứa trẻ thay phiên nhau chắp ghép ghép hình ghép hình của nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "patch (something).",
+      "definitions_ex_en": "if it be broken it must be pieced",
+      "definitions_ex_vn": "Nếu nó bị phá vỡ, nó phải được ghép nối",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

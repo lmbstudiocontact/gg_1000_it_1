@@ -1,0 +1,61 @@
+{
+  "english": "steam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xì hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bốc hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chưng bằng hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the vapor into which water is converted when heated, forming a white mist of minute water droplets in the air.",
+      "definitions_ex_en": "a cloud of steam",
+      "definitions_ex_vn": "một đám mây hơi nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give off or produce steam.",
+      "definitions_ex_en": "a mug of coffee was steaming at her elbow",
+      "definitions_ex_vn": "Một cốc cà phê đang hấp ở khuỷu tay của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cook (food) by heating it in steam from boiling water.",
+      "definitions_ex_en": "steam the vegetables until just tender",
+      "definitions_ex_vn": "hấp rau cho đến khi chỉ đấu thầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ship or train) travel somewhere under steam power.",
+      "definitions_ex_en": "the 11:54 steamed into the station",
+      "definitions_ex_vn": "11:54 hấp vào nhà ga",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be or become extremely agitated or angry.",
+      "definitions_ex_en": "you got all steamed up over nothing!",
+      "definitions_ex_vn": "Bạn đã có tất cả hấp lên không có gì!",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

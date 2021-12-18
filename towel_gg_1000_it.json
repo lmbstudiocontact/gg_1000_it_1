@@ -1,0 +1,31 @@
+{
+  "english": "towel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khăn lau khi tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn tắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lau bằng khăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of thick absorbent cloth or paper used for drying oneself or wiping things dry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wipe or dry (a person or thing) with a towel.",
+      "definitions_ex_en": "she toweled her hair dry",
+      "definitions_ex_vn": "Cô ấy khô tóc khô",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

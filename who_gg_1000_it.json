@@ -1,0 +1,37 @@
+{
+  "english": "who",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ai",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "kẻ nào",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "người nào",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "what or which person or people.",
+      "definitions_ex_en": "who is that woman?",
+      "definitions_ex_vn": "Người phụ nữ đó là ai?",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to introduce a clause giving further information about a person or people previously mentioned.",
+      "definitions_ex_en": "Joan Fontaine plays the mouse who married the playboy",
+      "definitions_ex_vn": "Joan Fontaine chơi con chuột đã kết hôn với Playboy",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "World Health Organization.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

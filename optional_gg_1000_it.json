@@ -1,0 +1,21 @@
+{
+  "english": "optional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không bắt buộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tùy ý",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "available to be chosen but not obligatory.",
+      "definitions_ex_en": "a wide range of optional excursions is offered",
+      "definitions_ex_vn": "Một loạt các chuyến du ngoạn tùy chọn được cung cấp",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

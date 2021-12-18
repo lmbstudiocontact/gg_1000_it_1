@@ -1,0 +1,97 @@
+{
+  "english": "neat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lanh tay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thứ tự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khéo léo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khéo tay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguyên chất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phòng có ngăn nắp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rượu không có pha",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sạch sẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sạch sẻ lắm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thanh nhã",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xinh xắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gia súc lớn như bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gia súc lớn như ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gia súc lớn như trâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống bò",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a place or thing) arranged in an orderly, tidy way.",
+      "definitions_ex_en": "the books had been stacked up in neat piles",
+      "definitions_ex_vn": "Những cuốn sách đã được xếp chồng lên nhau trong những đống gọn gàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "done with or demonstrating skill or efficiency.",
+      "definitions_ex_en": "Howard's neat, precise tackling",
+      "definitions_ex_vn": "Howard gọn gàng, giải quyết chính xác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of liquid, especially liquor) not diluted or mixed with anything else.",
+      "definitions_ex_en": "he drank neat Scotch",
+      "definitions_ex_vn": "anh ấy uống scotch gọn gàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a bovine animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "non-exercise activity thermogenesis (the energy dissipated as heat by a person during minor physical activity, such as fidgeting or shivering, that does not involve a large expenditure of energy and is not perceived as exercise).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ]
+}

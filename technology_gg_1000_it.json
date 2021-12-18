@@ -1,0 +1,17 @@
+{
+  "english": "technology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỷ thuật học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the application of scientific knowledge for practical purposes, especially in industry.",
+      "definitions_ex_en": "advances in computer technology",
+      "definitions_ex_vn": "Những tiến bộ trong công nghệ máy tính",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "total",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "toàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tổng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "toàn bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toàn thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cộng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính gộp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tổng cộng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "comprising the whole number or amount.",
+      "definitions_ex_en": "a total cost of $4,000",
+      "definitions_ex_vn": "Tổng chi phí 4.000 đô la",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "complete; absolute.",
+      "definitions_ex_en": "a total stranger",
+      "definitions_ex_vn": "một người lạ hoàn toàn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the whole number or amount of something.",
+      "definitions_ex_en": "he scored a total of thirty-three points",
+      "definitions_ex_vn": "anh ấy đã ghi được tổng cộng ba mươi ba điểm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "amount in number to.",
+      "definitions_ex_en": "they were left with debts totaling $6,260",
+      "definitions_ex_vn": "họ đã bị bỏ lại với các khoản nợ với tổng trị giá $ 6.260",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

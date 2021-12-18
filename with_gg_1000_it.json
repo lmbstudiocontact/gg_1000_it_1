@@ -1,0 +1,75 @@
+{
+  "english": "with",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cùng với",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "với",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "accompanied by (another person or thing).",
+      "definitions_ex_en": "a nice steak with a bottle of red wine",
+      "definitions_ex_vn": "một miếng bít tết đẹp với một chai rượu vang đỏ",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "possessing (something) as a feature or accompaniment.",
+      "definitions_ex_en": "a flower-sprigged blouse with a white collar",
+      "definitions_ex_vn": "một chiếc áo cánh hoa có cổ trắng",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the instrument used to perform an action.",
+      "definitions_ex_en": "cut it with a knife",
+      "definitions_ex_vn": "Cắt nó bằng dao",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in opposition to.",
+      "definitions_ex_en": "we started fighting with each other",
+      "definitions_ex_vn": "Chúng tôi bắt đầu chiến đấu với nhau",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating the manner or attitude of the person doing something.",
+      "definitions_ex_en": "with great reluctance",
+      "definitions_ex_vn": "với sự miễn cưỡng lớn",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating responsibility.",
+      "definitions_ex_en": "leave it with me",
+      "definitions_ex_vn": "để nó với tôi",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in relation to.",
+      "definitions_ex_en": "my father will be angry with me",
+      "definitions_ex_vn": "Bố tôi sẽ giận tôi",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "employed by.",
+      "definitions_ex_en": "she's with IBM now",
+      "definitions_ex_vn": "Cô ấy với IBM bây giờ",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in the same direction as.",
+      "definitions_ex_en": "marine mammals generally swim with the current",
+      "definitions_ex_vn": "động vật có vú biển thường bơi với hiện tại",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "indicating separation or removal from something.",
+      "definitions_ex_en": "to part with one's dearest possessions",
+      "definitions_ex_vn": "một phần với một tài sản thân yêu nhất của một người",
+      "definitions_type_word": "preposition"
+    }
+  ]
+}

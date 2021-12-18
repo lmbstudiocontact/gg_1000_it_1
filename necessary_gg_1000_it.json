@@ -1,0 +1,61 @@
+{
+  "english": "necessary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cần phải làm việc gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nếu cần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tất yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiết yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cần thiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ cần dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không thể tránh được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tất nhiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "required to be done, achieved, or present; needed; essential.",
+      "definitions_ex_en": "it's not necessary for you to be here",
+      "definitions_ex_vn": "Bạn không cần thiết phải ở đây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "determined, existing, or happening by natural laws or predestination; inevitable.",
+      "definitions_ex_en": "a necessary consequence",
+      "definitions_ex_vn": "một hậu quả cần thiết",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the basic requirements of life, such as food and warmth.",
+      "definitions_ex_en": "not merely luxuries, but also the common necessaries",
+      "definitions_ex_vn": "không chỉ đơn thuần là xa xỉ, mà còn là những điều cần thiết phổ biến",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

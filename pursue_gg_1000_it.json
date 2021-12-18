@@ -1,0 +1,35 @@
+{
+  "english": "pursue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đuổi bắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo đuổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truy nả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "follow (someone or something) in order to catch or attack them.",
+      "definitions_ex_en": "the officer pursued the van",
+      "definitions_ex_vn": "Cán bộ theo đuổi xe van",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or way) continue or proceed along (a path or route).",
+      "definitions_ex_en": "the road pursued a straight course over the scrubland",
+      "definitions_ex_vn": "Con đường theo đuổi một khóa học thẳng trên Scrubland",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

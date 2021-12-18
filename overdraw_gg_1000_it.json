@@ -1,0 +1,29 @@
+{
+  "english": "overdraw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viết chi phiếu quá số tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "draw money from (one's bank account) in excess of what the account holds.",
+      "definitions_ex_en": "you only pay interest if your account is overdrawn",
+      "definitions_ex_vn": "Bạn chỉ trả lãi nếu tài khoản của bạn bị rút tiền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exaggerate in describing or depicting (someone or something).",
+      "definitions_ex_en": "some of the characters were overdrawn",
+      "definitions_ex_vn": "Một số nhân vật đã bị rút tiền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "draw (a bow) too far.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

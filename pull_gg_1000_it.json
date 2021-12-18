@@ -1,0 +1,129 @@
+{
+  "english": "pull",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "níu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "túm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chèo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có ảnh hưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghìm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giựt chuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "in bản thử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "leo lên giốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bản in thử lần đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một cú chèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ưu thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự níu lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "exert force on (someone or something) so as to cause movement toward oneself.",
+      "definitions_ex_en": "he pulled them down onto the couch",
+      "definitions_ex_vn": "Anh kéo chúng xuống đi văng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a vehicle or person) move steadily in a specified direction or to reach a specified point.",
+      "definitions_ex_en": "the bus was about to pull away",
+      "definitions_ex_vn": "Xe buýt sắp kéo đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (someone) to patronize, buy, or show interest in something; attract.",
+      "definitions_ex_en": "tourist attractions that pull in millions of foreign visitors",
+      "definitions_ex_vn": "Các điểm tham quan du lịch kéo hàng triệu du khách nước ngoài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cancel or withdraw (an entertainment or advertisement).",
+      "definitions_ex_en": "the gig was pulled at the first sign of difficulty",
+      "definitions_ex_vn": "Gig được kéo vào dấu hiệu khó khăn đầu tiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a lineman) withdraw from position and cross parallel to and behind the line of scrimmage to block opposing players for a runner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "print (a proof).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of taking hold of something and exerting force to draw it toward one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a force drawing someone or something in a particular direction or course of action.",
+      "definitions_ex_en": "the pull of the water tore her away",
+      "definitions_ex_vn": "kéo nước xé cô đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a printer's proof.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

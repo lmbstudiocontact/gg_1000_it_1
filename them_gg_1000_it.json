@@ -1,0 +1,33 @@
+{
+  "english": "them",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chúng nó",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "họ",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used as the object of a verb or preposition to refer to two or more people or things previously mentioned or easily identified.",
+      "definitions_ex_en": "I bathed the kids and read them stories",
+      "definitions_ex_vn": "Tôi tắm cho những đứa trẻ và đọc những câu chuyện của họ",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "themselves.",
+      "definitions_ex_en": "they bethought them of a new expedient",
+      "definitions_ex_vn": "họ đã ban cho họ một sự nhanh chóng mới",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "those.",
+      "definitions_ex_en": "look at them eyes",
+      "definitions_ex_vn": "nhìn vào mắt họ",
+      "definitions_type_word": "article"
+    }
+  ]
+}

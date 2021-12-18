@@ -1,0 +1,47 @@
+{
+  "english": "possess",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ám ảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếm hửu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have as belonging to one; own.",
+      "definitions_ex_en": "I do not possess a television set",
+      "definitions_ex_vn": "Tôi không sở hữu một chiếc tivi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a demon or spirit, especially an evil one) have complete power over (someone) and be manifested through their speech or actions.",
+      "definitions_ex_en": "she was possessed by the Devil",
+      "definitions_ex_vn": "Cô bị ác quỷ chiếm hữu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have sexual intercourse with (a woman).",
+      "definitions_ex_en": "he just wanted her, to possess her",
+      "definitions_ex_vn": "anh ấy chỉ muốn cô ấy, sở hữu cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "maintain (oneself or one's mind or soul) in a state or condition of patience or quiet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

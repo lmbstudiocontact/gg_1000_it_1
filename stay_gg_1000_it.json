@@ -1,0 +1,105 @@
+{
+  "english": "stay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sức chịu đựng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ở lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian lưu lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chận lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remain in the same place.",
+      "definitions_ex_en": "you stay here and I'll be back soon",
+      "definitions_ex_vn": "Bạn ở lại đây và tôi sẽ quay lại sớm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remain in a specified state or position.",
+      "definitions_ex_en": "her ability to stay calm",
+      "definitions_ex_vn": "khả năng giữ bình tĩnh của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) live somewhere temporarily as a visitor or guest.",
+      "definitions_ex_en": "the girls had gone to stay with friends",
+      "definitions_ex_vn": "Các cô gái đã đi ở lại với bạn bè",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stop, delay, or prevent (something), in particular suspend or postpone (judicial proceedings) or refrain from pressing (charges).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "support or prop up.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "secure or steady (a mast) by means of stays.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of staying somewhere, in particular of living somewhere temporarily as a visitor or guest.",
+      "definitions_ex_en": "an overnight stay at a luxury hotel",
+      "definitions_ex_vn": "Ở lại một đêm tại một khách sạn sang trọng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curb or check.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device used as a brace or support.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "power of endurance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large rope, wire, or rod used to support a ship's mast, leading from the masthead to another mast or spar or down to the deck.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

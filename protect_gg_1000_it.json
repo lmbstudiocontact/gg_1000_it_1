@@ -1,0 +1,29 @@
+{
+  "english": "protect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo vệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "che chở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng ngừa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "keep safe from harm or injury.",
+      "definitions_ex_en": "he tried to protect Kelly from the attack",
+      "definitions_ex_vn": "Anh cố gắng bảo vệ Kelly khỏi cuộc tấn công",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

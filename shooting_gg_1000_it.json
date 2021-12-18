@@ -1,0 +1,57 @@
+{
+  "english": "shooting",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đi săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắn súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bị trúng đạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nẩy mầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhức nhối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quăng lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vượt qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng cấm săn bắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or practice of shooting with a gun.",
+      "definitions_ex_en": "the events that led up to the shooting of the man",
+      "definitions_ex_vn": "các sự kiện dẫn đến vụ nổ súng của người đàn ông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of filming or photographing a scene, film, etc.",
+      "definitions_ex_en": "the shooting of a music video",
+      "definitions_ex_vn": "Việc quay video âm nhạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "moving or growing quickly.",
+      "definitions_ex_en": "shooting beams of light played over the sea",
+      "definitions_ex_vn": "Chụp tia sáng chơi trên biển",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

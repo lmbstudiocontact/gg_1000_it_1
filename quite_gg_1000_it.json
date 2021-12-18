@@ -1,0 +1,53 @@
+{
+  "english": "quite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cũng ngần ấy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đúng vậy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hoàn toàn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nguyên cả",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tất cả",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "toàn vẹn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thật vậy",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "to the utmost or most absolute extent or degree; absolutely; completely.",
+      "definitions_ex_en": "it's quite out of the question",
+      "definitions_ex_vn": "Đó là khá nhiều câu hỏi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to a certain or fairly significant extent or degree; fairly.",
+      "definitions_ex_en": "it's quite warm outside",
+      "definitions_ex_vn": "Nó khá ấm áp bên ngoài",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "expressing agreement with or understanding of a remark or statement.",
+      "definitions_ex_en": "“I don't want to talk about that now.” “Quite.”",
+      "definitions_ex_vn": "\"Tôi không muốn nói về điều đó bây giờ.\"",
+      "definitions_type_word": "exclamation"
+    }
+  ]
+}

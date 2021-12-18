@@ -1,0 +1,25 @@
+{
+  "english": "placid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình tỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ôn hòa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên lặng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or animal) not easily upset or excited.",
+      "definitions_ex_en": "this horse has a placid nature",
+      "definitions_ex_vn": "Con ngựa này có một bản chất placid",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

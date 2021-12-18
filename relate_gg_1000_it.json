@@ -1,0 +1,49 @@
+{
+  "english": "relate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn khớp nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liên lạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan hệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thuật lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or show a connection between.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "feel sympathy with; identify with.",
+      "definitions_ex_en": "kids related to him because he was so anti-establishment",
+      "definitions_ex_vn": "trẻ em liên quan đến anh ta vì anh ta đã chống thành lập như vậy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give an account of (a sequence of events); narrate.",
+      "definitions_ex_en": "various versions of the chilling story have been related by the locals",
+      "definitions_ex_vn": "Các phiên bản khác nhau của câu chuyện lạnh lẽo đã liên quan đến người dân địa phương",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

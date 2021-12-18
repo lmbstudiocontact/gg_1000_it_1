@@ -1,0 +1,117 @@
+{
+  "english": "some",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một vài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người nào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chừng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "độ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "có một ít",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "một số",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "một trong những",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "vài người",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unspecified amount or number of.",
+      "definitions_ex_en": "I made some money running errands",
+      "definitions_ex_vn": "Tôi đã thực hiện một số tiền đang chạy việc vặt",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used to refer to someone or something that is unknown or unspecified.",
+      "definitions_ex_en": "I was talking to some journalist the other day",
+      "definitions_ex_vn": "Tôi đã nói chuyện với một nhà báo vào một ngày khác",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "(used with a number) approximately.",
+      "definitions_ex_en": "some thirty different languages are spoken",
+      "definitions_ex_vn": "Một số ba mươi ngôn ngữ khác nhau được nói",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a considerable amount or number of.",
+      "definitions_ex_en": "he went to some trouble",
+      "definitions_ex_vn": "anh ấy đã gặp rắc rối",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "at least a small amount or number of.",
+      "definitions_ex_en": "he liked some music but generally wasn't musical",
+      "definitions_ex_vn": "Anh ấy thích một số âm nhạc nhưng nói chung không phải là âm nhạc",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "expressing admiration of something notable.",
+      "definitions_ex_en": "that was some goal",
+      "definitions_ex_vn": "đó là một mục tiêu",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "an unspecified number or amount of people or things.",
+      "definitions_ex_en": "here are some of our suggestions",
+      "definitions_ex_vn": "Dưới đây là một số gợi ý của chúng tôi",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "at least a small amount or number of people or things.",
+      "definitions_ex_en": "surely some have noticed",
+      "definitions_ex_vn": "chắc chắn một số đã nhận thấy",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "forming adjectives meaning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "productive of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "characterized by being.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "(forming nouns) denoting a group of a specified number.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "denoting a portion of a body, especially a particle of a cell.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ]
+}

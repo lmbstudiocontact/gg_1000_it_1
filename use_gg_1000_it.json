@@ -1,0 +1,97 @@
+{
+  "english": "use",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hưởng dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hữu ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự có ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ.",
+      "definitions_ex_en": "she used her key to open the front door",
+      "definitions_ex_vn": "Cô sử dụng chìa khóa của mình để mở cửa trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take or consume (an amount) from a limited supply.",
+      "definitions_ex_en": "we have used all the available funds",
+      "definitions_ex_vn": "Chúng tôi đã sử dụng tất cả các quỹ có sẵn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "describing an action or state of affairs that was done repeatedly or existed for a period in the past.",
+      "definitions_ex_en": "this road used to be a dirt track",
+      "definitions_ex_vn": "Con đường này từng là một đường mòn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be or become familiar with someone or something through experience.",
+      "definitions_ex_en": "she was used to getting what she wanted",
+      "definitions_ex_vn": "Cô đã quen với việc có được những gì cô ấy muốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "one would like or benefit from.",
+      "definitions_ex_en": "I could use another cup of coffee",
+      "definitions_ex_vn": "Tôi có thể sử dụng một tách cà phê khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of using something or the state of being used for a purpose.",
+      "definitions_ex_en": "modern trains are now in use",
+      "definitions_ex_vn": "Xe lửa hiện đại đang được sử dụng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the value or advantage of something.",
+      "definitions_ex_en": "what's the use of crying?",
+      "definitions_ex_vn": "Việc sử dụng khóc là gì?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the habitual consumption of a drug.",
+      "definitions_ex_en": "theft and dealing financed their heroin use",
+      "definitions_ex_vn": "Trộm cắp và xử lý việc tài trợ sử dụng heroin của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the characteristic ritual and liturgy of a Christian Church or diocese.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

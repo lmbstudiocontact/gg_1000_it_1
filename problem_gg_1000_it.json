@@ -1,0 +1,39 @@
+{
+  "english": "problem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài toán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vấn đề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.",
+      "definitions_ex_en": "they have financial problems",
+      "definitions_ex_vn": "Họ có vấn đề tài chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inquiry starting from given conditions to investigate or demonstrate a fact, result, or law.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

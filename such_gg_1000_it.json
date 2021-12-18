@@ -1,0 +1,33 @@
+{
+  "english": "such",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như thế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như vậy",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the type previously mentioned.",
+      "definitions_ex_en": "I have been involved in many such courses",
+      "definitions_ex_vn": "Tôi đã tham gia vào nhiều khóa học như vậy",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "of the type about to be mentioned.",
+      "definitions_ex_en": "there is no such thing as a free lunch",
+      "definitions_ex_vn": "Không có những điều như một bữa ăn trưa miễn phí",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "to so high a degree; so great (often used to emphasize a quality).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "article"
+    }
+  ]
+}

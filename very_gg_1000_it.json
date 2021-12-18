@@ -1,0 +1,31 @@
+{
+  "english": "very",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hết sức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a high degree.",
+      "definitions_ex_en": "very much so",
+      "definitions_ex_vn": "Rất nhiều như vậy",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "actual; precise (used to emphasize the exact identity of a particular person or thing).",
+      "definitions_ex_en": "those were his very words",
+      "definitions_ex_vn": "Đó là những lời nói của anh ấy",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "english": "skull",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sọ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a framework of bone or cartilage enclosing the brain of a vertebrate; the skeleton of a person's or animal's head.",
+      "definitions_ex_en": "he broke his collar bone and fractured his skull",
+      "definitions_ex_vn": "Anh ta gãy xương cổ áo và gãy đầu lâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit (someone) on the head.",
+      "definitions_ex_en": "my waking came in drugged stages—I had been skulled",
+      "definitions_ex_vn": "Thức dậy của tôi trong giai đoạn ma tát, tôi đã bị skulled",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

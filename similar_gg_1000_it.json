@@ -1,0 +1,41 @@
+{
+  "english": "similar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tương tợ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "resembling without being identical.",
+      "definitions_ex_en": "a soft cheese similar to Brie",
+      "definitions_ex_vn": "một pho mát mềm tương tự như brie",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing similar to another.",
+      "definitions_ex_en": "he was one of those whose similar you never meet",
+      "definitions_ex_vn": "anh ấy là một trong những người có vẻ giống như bạn không bao giờ gặp nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance that produces effects resembling the symptoms of particular diseases (the basis of homeopathic treatment).",
+      "definitions_ex_en": "the principle of treatment by similars",
+      "definitions_ex_vn": "nguyên tắc điều trị theo tương tự",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

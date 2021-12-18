@@ -1,0 +1,21 @@
+{
+  "english": "populate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trú ngụ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form the population of (a town, area, or country).",
+      "definitions_ex_en": "the island is populated by scarcely 40,000 people",
+      "definitions_ex_vn": "hòn đảo được đông dân bởi 40.000 người",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

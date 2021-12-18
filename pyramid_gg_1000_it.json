@@ -1,0 +1,37 @@
+{
+  "english": "pyramid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình chóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim tự tháp ở ai cập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm toán hình chóp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a monumental structure with a square or triangular base and sloping sides that meet in a point at the top, especially one built of stone as a royal tomb in ancient Egypt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object, shape, or arrangement in the form of a pyramid.",
+      "definitions_ex_en": "a pyramid of logs",
+      "definitions_ex_vn": "một kim tự tháp của các bản ghi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system of financial growth achieved by a small initial investment, with subsequent investments being funded by using unrealized profits as collateral.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

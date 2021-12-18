@@ -1,0 +1,49 @@
+{
+  "english": "stride",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bước dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi bước dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiến bộ nhiều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "walk with long, decisive steps in a specified direction.",
+      "definitions_ex_en": "he strode across the road",
+      "definitions_ex_vn": "Anh sải bước trên đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cross (an obstacle) with one long step.",
+      "definitions_ex_en": "by giving a little leap she could stride across like a grown-up",
+      "definitions_ex_vn": "Bằng cách đưa ra một bước nhảy vọt nhỏ, cô ấy có thể sải bước như một người trưởng thành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long, decisive step.",
+      "definitions_ex_en": "he crossed the room in a couple of strides",
+      "definitions_ex_vn": "Anh băng qua căn phòng trong một vài bước tiến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a step or stage in progress toward an aim.",
+      "definitions_ex_en": "great strides have been made toward equality",
+      "definitions_ex_vn": "Những bước tiến lớn đã được thực hiện đối với sự bình đẳng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a rhythmic style of jazz piano playing in which the left hand alternately plays single bass notes on the downbeat and chords an octave higher on the upbeat.",
+      "definitions_ex_en": "a stride pianist",
+      "definitions_ex_vn": "một nghệ sĩ piano sải chân",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

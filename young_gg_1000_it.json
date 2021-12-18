@@ -1,0 +1,31 @@
+{
+  "english": "young",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thiếu niên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trẻ tuổi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having lived or existed for only a short time.",
+      "definitions_ex_en": "a young girl",
+      "definitions_ex_vn": "Một cô gái trẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "offspring, especially of an animal before or soon after birth.",
+      "definitions_ex_en": "this species carries its young",
+      "definitions_ex_vn": "Loài này mang non trẻ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

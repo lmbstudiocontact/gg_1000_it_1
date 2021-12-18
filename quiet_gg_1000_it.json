@@ -1,0 +1,77 @@
+{
+  "english": "quiet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giản dị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiền lành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ôn hòa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên ổn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên tỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không cho nói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho an tâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho êm dịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tiêu tan sở sệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm yên lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "making little or no noise.",
+      "definitions_ex_en": "the car has a quiet, economical engine",
+      "definitions_ex_vn": "Chiếc xe có động cơ yên tĩnh, kinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "carried out discreetly, secretly, or with moderation.",
+      "definitions_ex_en": "we wanted a quiet wedding",
+      "definitions_ex_vn": "Chúng tôi muốn một đám cưới yên tĩnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "absence of noise or bustle; silence; calm.",
+      "definitions_ex_en": "the ringing of the telephone shattered the early morning quiet",
+      "definitions_ex_vn": "tiếng chuông điện thoại tan vỡ vào sáng sớm",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

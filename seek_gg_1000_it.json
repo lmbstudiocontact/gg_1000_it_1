@@ -1,0 +1,25 @@
+{
+  "english": "seek",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm kiếm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "attempt to find (something).",
+      "definitions_ex_en": "they came here to seek shelter from biting winter winds",
+      "definitions_ex_vn": "Họ đến đây để tìm nơi trú ẩn từ việc cắn gió mùa đông",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

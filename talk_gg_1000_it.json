@@ -1,0 +1,67 @@
+{
+  "english": "talk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc nói chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói chuyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói ngoại ngữ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "speak in order to give information or express ideas or feelings; converse or communicate by spoken words.",
+      "definitions_ex_en": "the two men talked",
+      "definitions_ex_vn": "Hai người đàn ông nói chuyện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have formal dealings or discussions; negotiate.",
+      "definitions_ex_en": "they won't talk to the regime that killed their families",
+      "definitions_ex_vn": "Họ sẽ không nói chuyện với chế độ đã giết gia đình họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use (a particular language) in speech.",
+      "definitions_ex_en": "we were talking German",
+      "definitions_ex_vn": "Chúng tôi đang nói tiếng Đức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "communication by spoken words; conversation or discussion.",
+      "definitions_ex_en": "there was a slight but noticeable lull in the talk",
+      "definitions_ex_vn": "Có một sự ru ngủ nhỏ nhưng đáng chú ý trong cuộc nói chuyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "formal discussions or negotiations over a period.",
+      "definitions_ex_en": "peace talks",
+      "definitions_ex_vn": "Lời nói hòa bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an informal address or lecture.",
+      "definitions_ex_en": "a thirty-minute illustrated talk",
+      "definitions_ex_vn": "một cuộc nói chuyện minh họa ba mươi phút",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

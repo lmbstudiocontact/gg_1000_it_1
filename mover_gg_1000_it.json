@@ -1,0 +1,27 @@
+{
+  "english": "mover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên động lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát động lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing in motion, especially an animal.",
+      "definitions_ex_en": "this horse is a lovely mover and jumper",
+      "definitions_ex_vn": "Con ngựa này là một động lực và jumper đáng yêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who makes a formal proposal at a meeting or in an assembly.",
+      "definitions_ex_en": "movers and seconders rise and give speeches",
+      "definitions_ex_vn": "Movers và thứ hai tăng và phát biểu",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

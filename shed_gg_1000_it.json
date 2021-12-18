@@ -1,0 +1,81 @@
+{
+  "english": "shed",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chái để hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường giáp nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường sông núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mái hiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tréo go của sợi dệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cởi quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột da",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rã cánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỏa ánh sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trụi lá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột vỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a simple roofed structure, typically made of wood or metal, used as a storage space, a shelter for animals, or a workshop.",
+      "definitions_ex_en": "a bicycle shed",
+      "definitions_ex_vn": "một chiếc xe đạp nhà kho.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "park (a vehicle) in a depot.",
+      "definitions_ex_en": "the buses were temporarily shedded in that depot",
+      "definitions_ex_vn": "Các xe buýt đã tạm thời được rũ bỏ trong kho đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a tree or other plant) allow (leaves or fruit) to fall to the ground.",
+      "definitions_ex_en": "both varieties shed leaves in winter",
+      "definitions_ex_vn": "Cả hai giống rụng lá vào mùa đông",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

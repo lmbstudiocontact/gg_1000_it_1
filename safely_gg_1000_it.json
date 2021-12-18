@@ -1,0 +1,43 @@
+{
+  "english": "safely",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cẩn thận",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không nguy hiểm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thận trọng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a way that gives protection from danger or risk.",
+      "definitions_ex_en": "there is a memento she keeps safely stored away",
+      "definitions_ex_vn": "Có một vật lưu niệm mà cô ấy tiếp tục được lưu trữ một cách an toàn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a way that is not likely to cause or lead to harm or injury.",
+      "definitions_ex_en": "all of us have a responsibility to drive safely",
+      "definitions_ex_vn": "Tất cả chúng ta đều có trách nhiệm lái xe an toàn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "with confidence through being based on good reasons or evidence.",
+      "definitions_ex_en": "we can safely say that things are improving",
+      "definitions_ex_vn": "Chúng ta có thể nói một cách an toàn rằng mọi thứ đang được cải thiện",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "without being injured or harmed.",
+      "definitions_ex_en": "all crews have returned safely from their missions",
+      "definitions_ex_vn": "Tất cả các phi hành đoàn đã trở lại an toàn từ các nhiệm vụ của họ",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

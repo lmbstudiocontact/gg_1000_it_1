@@ -1,0 +1,33 @@
+{
+  "english": "plural",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ số nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về số nhiều",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a word or form) denoting more than one, or (in languages with dual number) more than two.",
+      "definitions_ex_en": "the first person plural",
+      "definitions_ex_vn": "người đầu tiên số nhiều",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "containing several diverse elements.",
+      "definitions_ex_en": "a plural society",
+      "definitions_ex_vn": "một xã hội số nhiều",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a plural word or form.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

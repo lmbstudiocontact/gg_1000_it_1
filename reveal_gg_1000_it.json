@@ -1,0 +1,45 @@
+{
+  "english": "reveal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bề dầy của bức tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm thấy vật dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thố lộ tâm tình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (previously unknown or secret information) known to others.",
+      "definitions_ex_en": "Brenda was forced to reveal Robbie's whereabouts",
+      "definitions_ex_vn": "Brenda bị buộc phải tiết lộ nơi ở của Robbie",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in a movie or television show) a final revelation of information that has previously been kept from the characters or viewers.",
+      "definitions_ex_en": "the big reveal at the end of the movie answers all questions",
+      "definitions_ex_vn": "Tiết lộ lớn ở cuối bộ phim trả lời tất cả các câu hỏi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either side surface of an aperture in a wall for a door or window.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

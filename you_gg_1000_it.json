@@ -1,0 +1,43 @@
+{
+  "english": "you",
+  "list_translation_mean": [
+    {
+      "translate_mean": "anh",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "ông",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "mày",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "các anh",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "các bạn",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "bạn",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to refer to the person or people that the speaker is addressing.",
+      "definitions_ex_en": "are you listening?",
+      "definitions_ex_vn": "Bạn đang nghe?",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "used to refer to any person in general.",
+      "definitions_ex_en": "after a while, you get used to it",
+      "definitions_ex_vn": "Sau một thời gian, bạn đã quen với nó",
+      "definitions_type_word": "pronoun"
+    }
+  ]
+}

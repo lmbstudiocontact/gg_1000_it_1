@@ -1,0 +1,33 @@
+{
+  "english": "persuade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuyên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho tin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghe theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phục theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xúi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (someone) to do something through reasoning or argument.",
+      "definitions_ex_en": "it wasn't easy, but I persuaded him to do the right thing",
+      "definitions_ex_vn": "nó không dễ dàng, nhưng tôi đã thuyết phục anh ta làm điều đúng đắn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english": "roadside",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về lề đường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lề đường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the strip of land beside a road.",
+      "definitions_ex_en": "roadside cafes",
+      "definitions_ex_vn": "quán cà phê đường",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

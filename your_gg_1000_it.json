@@ -1,0 +1,45 @@
+{
+  "english": "your",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của cậu",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của mầy",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của ông",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của anh",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của bạn",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or associated with the person or people that the speaker is addressing.",
+      "definitions_ex_en": "what is your name?",
+      "definitions_ex_vn": "tên của bạn là gì?",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "belonging to or associated with any person in general.",
+      "definitions_ex_en": "the sight is enough to break your heart",
+      "definitions_ex_vn": "Cảnh tượng đủ để phá vỡ trái tim của bạn",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used when addressing the holder of certain titles.",
+      "definitions_ex_en": "Your Majesty",
+      "definitions_ex_vn": "Uy nghi của bạn",
+      "definitions_type_word": "article"
+    }
+  ]
+}

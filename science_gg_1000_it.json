@@ -1,0 +1,33 @@
+{
+  "english": "science",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỷ thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoa học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment.",
+      "definitions_ex_en": "the world of science and technology",
+      "definitions_ex_vn": "Thế giới khoa học và công nghệ",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

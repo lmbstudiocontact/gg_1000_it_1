@@ -1,0 +1,21 @@
+{
+  "english": "thank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cảm ơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảm tạ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "express gratitude to (someone), especially by saying “Thank you”.",
+      "definitions_ex_en": "Mac thanked her for the meal and left",
+      "definitions_ex_vn": "Mac cảm ơn cô ấy cho bữa ăn và trái",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

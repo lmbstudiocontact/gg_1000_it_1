@@ -1,0 +1,25 @@
+{
+  "english": "sew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "may",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vá quần áo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine.",
+      "definitions_ex_en": "she sewed the seams and hemmed the border",
+      "definitions_ex_vn": "Cô may các đường nối và viền biên giới",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

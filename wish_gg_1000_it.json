@@ -1,0 +1,35 @@
+{
+  "english": "wish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng ao ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mong ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "muốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feel or express a strong desire or hope for something that is not easily attainable; want something that cannot or probably will not happen.",
+      "definitions_ex_en": "we wished for peace",
+      "definitions_ex_vn": "Chúng tôi mong muốn hòa bình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a desire or hope for something to happen.",
+      "definitions_ex_en": "the union has reiterated its wish for an agreement",
+      "definitions_ex_vn": "Liên minh đã nhắc lại mong muốn của nó cho một thỏa thuận",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

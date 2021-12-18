@@ -1,0 +1,25 @@
+{
+  "english": "unwind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bung ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quây trả lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo dây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "undo or be undone after winding or being wound.",
+      "definitions_ex_en": "Ella unwound the long woolen scarf from her neck",
+      "definitions_ex_vn": "Ella cởi khăn dài khăn len dài từ cổ cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

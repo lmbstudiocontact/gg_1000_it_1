@@ -1,0 +1,43 @@
+{
+  "english": "unbend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mở dây buộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bẻ ngay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hết nhăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nới ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thẳng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vật gì hết cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become straight from a bent or twisted form or position.",
+      "definitions_ex_en": "I had trouble unbending my cramped knees",
+      "definitions_ex_vn": "Tôi đã gặp khó khăn khi có thể vô tận đầu gối chật chội của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "unfasten (sails) from yards and stays.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

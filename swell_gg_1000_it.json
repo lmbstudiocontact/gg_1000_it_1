@@ -1,0 +1,91 @@
+{
+  "english": "swell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sưng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phồng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phình lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phong lưu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thanh nhã",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ lồi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ phồng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có danh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sóng biển nổi lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ sưng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có vẻ thanh nhã",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.",
+      "definitions_ex_en": "her bruised knee was already swelling up",
+      "definitions_ex_vn": "Đầu gối bầm tím của cô đã sưng lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a full or gently rounded shape or form.",
+      "definitions_ex_en": "the soft swell of her breast",
+      "definitions_ex_vn": "phồng lên mềm mại của vú",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gradual increase in sound, amount, or intensity.",
+      "definitions_ex_en": "there was a swell of support in favor of him",
+      "definitions_ex_vn": "Có một sự sưng lên của sự ủng hộ ủng hộ anh ta",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slow, regular movement of the sea in rolling waves that do not break.",
+      "definitions_ex_en": "there was a heavy swell",
+      "definitions_ex_vn": "Có một sưng nặng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mechanism for producing a crescendo or diminuendo in an organ or harmonium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person of wealth or high social position, typically one perceived as fashionable or stylish.",
+      "definitions_ex_en": "a crowd of city swells",
+      "definitions_ex_vn": "Một đám đông thành phố sưng lên",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

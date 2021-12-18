@@ -1,0 +1,35 @@
+{
+  "english": "noisy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đứa bé nghịch ngợm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "huyên náo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "om sòm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ồn ào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "making or given to making a lot of noise.",
+      "definitions_ex_en": "a noisy, giggling group of children",
+      "definitions_ex_vn": "một nhóm trẻ em ồn ào, cười khúc khích",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "accompanied by or introducing random fluctuations that obscure the real signal or data.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "english": "solve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giải phương trình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải quyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thanh toán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "find an answer to, explanation for, or means of effectively dealing with (a problem or mystery).",
+      "definitions_ex_en": "the policy could solve the town's housing crisis",
+      "definitions_ex_vn": "Chính sách có thể giải quyết cuộc khủng hoảng nhà ở của thị trấn",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

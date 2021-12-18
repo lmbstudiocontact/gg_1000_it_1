@@ -1,0 +1,27 @@
+{
+  "english": "their",
+  "list_translation_mean": [
+    {
+      "translate_mean": "của chúng nó",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của họ",
+      "type_word": "pronoun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging to or associated with the people or things previously mentioned or easily identified.",
+      "definitions_ex_en": "parents are keen to help their children",
+      "definitions_ex_vn": "Cha mẹ rất muốn giúp đỡ con cái của họ",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used in titles.",
+      "definitions_ex_en": "a double portrait of Their Majesties",
+      "definitions_ex_vn": "một chân dung kép của các hùng vĩ của họ",
+      "definitions_type_word": "article"
+    }
+  ]
+}

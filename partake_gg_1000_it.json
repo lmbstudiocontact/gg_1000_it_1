@@ -1,0 +1,41 @@
+{
+  "english": "partake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia xẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tham dự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dự vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "eat or drink (something).",
+      "definitions_ex_en": "she had partaken of a cheese sandwich and a cup of coffee",
+      "definitions_ex_vn": "Cô đã tham gia một chiếc bánh sandwich phô mai và một tách cà phê",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "join in (an activity).",
+      "definitions_ex_en": "visitors can partake in golfing or clay pigeon shooting",
+      "definitions_ex_vn": "Khách truy cập có thể tham gia vào việc chụp Pigeon Golfing hoặc Clay Pigeon",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be characterized by (a quality).",
+      "definitions_ex_en": "the birth of twins became an event that partook of the mythic",
+      "definitions_ex_vn": "Sự ra đời của cặp song sinh đã trở thành một sự kiện đã tham gia huyền thoại",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "several",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khác nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phân biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "riêng biệt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "more than two but not many.",
+      "definitions_ex_en": "the author of several books",
+      "definitions_ex_vn": "Tác giả của một số cuốn sách",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "separate or respective.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

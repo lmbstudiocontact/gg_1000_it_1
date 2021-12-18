@@ -1,0 +1,17 @@
+{
+  "english": "river",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+      "definitions_ex_en": "the River Danube",
+      "definitions_ex_vn": "sông Danube.",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

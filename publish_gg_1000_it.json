@@ -1,0 +1,39 @@
+{
+  "english": "publish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bố cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "công bố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát giác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất bản",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prepare and issue (a book, journal, piece of music, etc.) for public sale, distribution, or readership.",
+      "definitions_ex_en": "we publish practical reference books",
+      "definitions_ex_vn": "Chúng tôi xuất bản sách tài liệu tham khảo thực tế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "communicate (a libel) to a third party.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "other",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách khác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khác hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trước",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "denoting a person or thing that is different or distinct from one already mentioned or known about.",
+      "definitions_ex_en": "stick the camera on a tripod or some other means of support",
+      "definitions_ex_vn": "Dán máy ảnh trên chân máy hoặc một số phương tiện hỗ trợ khác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "further; additional.",
+      "definitions_ex_en": "one other word of advice",
+      "definitions_ex_vn": "một lời khuyên khác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing that is different or distinct from one already mentioned or known about.",
+      "definitions_ex_en": "a language unrelated to any other",
+      "definitions_ex_vn": "một ngôn ngữ không liên quan đến bất kỳ khác",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "a further or additional person or thing of the type aleady mentioned.",
+      "definitions_ex_en": "he is the author of five books and collaborated on three others",
+      "definitions_ex_vn": "Ông là tác giả của năm cuốn sách và hợp tác trên ba cuốn người khác",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "that which is distinct from, different from, or opposite to something or oneself.",
+      "definitions_ex_en": "she needs to escape the tyranny of the Other",
+      "definitions_ex_vn": "cô ấy cần phải thoát khỏi sự chuyên chế của người khác",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "view or treat (a person or group of people) as intrinsically different from and alien to oneself.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "soap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xà bông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used with water for washing and cleaning, made of a compound of natural oils or fats with sodium hydroxide or another strong alkali, and typically having perfume and coloring added.",
+      "definitions_ex_en": "a bar of soap",
+      "definitions_ex_vn": "xà phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soap opera.",
+      "definitions_ex_en": "the soaps are at the top of the ratings",
+      "definitions_ex_vn": "Các xà phòng nằm trên đỉnh xếp hạng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wash with soap.",
+      "definitions_ex_en": "she soaped her face",
+      "definitions_ex_vn": "Cô ấy đang rửa mặt",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

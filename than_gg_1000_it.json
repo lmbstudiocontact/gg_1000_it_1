@@ -1,0 +1,41 @@
+{
+  "english": "than",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "conjunction"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to introduce the second element in a comparison.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used in expressions introducing an exception or contrast.",
+      "definitions_ex_en": "they observe rather than act",
+      "definitions_ex_vn": "họ quan sát hơn là hành động",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used in expressions indicating one thing happening immediately after another.",
+      "definitions_ex_en": "scarcely was the work completed than it was abandoned",
+      "definitions_ex_vn": "hiếm khi làm việc hoàn thành hơn nó bị bỏ rơi",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "introducing the second element in a comparison.",
+      "definitions_ex_en": "he was much smaller than his son",
+      "definitions_ex_vn": "anh ấy nhỏ hơn nhiều so với con trai của mình",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "apart from; except.",
+      "definitions_ex_en": "he claims not to own anything other than his home",
+      "definitions_ex_vn": "ông tuyên bố không sở hữu bất cứ điều gì khác ngoài nhà của anh ấy",
+      "definitions_type_word": "preposition"
+    }
+  ]
+}

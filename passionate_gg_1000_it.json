@@ -1,0 +1,33 @@
+{
+  "english": "passionate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay tức giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch liệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nóng nảy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dử dội",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "showing or caused by strong feelings or a strong belief.",
+      "definitions_ex_en": "passionate pleas for help",
+      "definitions_ex_vn": "cầu xin đam mê để được giúp đỡ",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

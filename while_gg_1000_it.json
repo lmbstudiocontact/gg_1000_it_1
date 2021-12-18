@@ -1,0 +1,71 @@
+{
+  "english": "while",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong khi",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "đương khi",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "khoảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giết thì giờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thì giờ trôi qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of time.",
+      "definitions_ex_en": "we chatted for a while",
+      "definitions_ex_vn": "Chúng tôi đã trò chuyện một lúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at the same time; meanwhile.",
+      "definitions_ex_en": "he starts to draw, talking the while",
+      "definitions_ex_vn": "Anh ta bắt đầu vẽ, nói chuyện trong khi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "during the time that; at the same time as.",
+      "definitions_ex_en": "nothing much changed while he was away",
+      "definitions_ex_vn": "Không có gì thay đổi nhiều khi anh ta đi vắng",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "whereas (indicating a contrast).",
+      "definitions_ex_en": "one person wants out, while the other wants the relationship to continue",
+      "definitions_ex_vn": "một người muốn ra ngoài, trong khi người kia muốn có mối quan hệ tiếp tục",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "during which.",
+      "definitions_ex_en": "the period while the animal remains alive",
+      "definitions_ex_vn": "khoảng thời gian trong khi động vật vẫn còn sống",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "pass time in a leisurely manner.",
+      "definitions_ex_en": "a diversion to while away the long afternoons",
+      "definitions_ex_vn": "một sự chuyển hướng trong khi đi sau những buổi chiều dài",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "english": "soon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chẳng bao lâu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lập tức",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sớm",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in or after a short time.",
+      "definitions_ex_en": "everyone will soon know the truth",
+      "definitions_ex_vn": "Mọi người sẽ sớm biết sự thật",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to indicate one's preference in a particular matter.",
+      "definitions_ex_en": "I'd just as soon Tim did it",
+      "definitions_ex_vn": "Tôi sẽ sớm làm điều đó",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "english": "untidy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có thứ tự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lộn xộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tóc không chải",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not arranged neatly and in order.",
+      "definitions_ex_en": "the place was dreadfully untidy",
+      "definitions_ex_vn": "Nơi này thật khó hiểu",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

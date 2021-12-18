@@ -1,0 +1,81 @@
+{
+  "english": "settle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiếm làm thuộc địa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để cho vửng chắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để lóng trong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lập nghiệp nơi nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định ngày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giải quyết vấn đề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ buồm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dịu dần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt công việc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thanh toán nợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trầm tỉnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "resolve or reach an agreement about (an argument or problem).",
+      "definitions_ex_en": "every effort was made to settle the dispute",
+      "definitions_ex_vn": "mọi nỗ lực đã được thực hiện để giải quyết tranh chấp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pay (a debt or account).",
+      "definitions_ex_en": "his bill was settled by charge card",
+      "definitions_ex_vn": "Dự luật của anh ta đã được giải quyết bằng thẻ tính phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adopt a more steady or secure style of life, especially in a permanent job and home.",
+      "definitions_ex_en": "one day I will settle down and raise a family",
+      "definitions_ex_vn": "Một ngày nào đó tôi sẽ ổn định và nuôi một gia đình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sit or come to rest in a comfortable position.",
+      "definitions_ex_en": "he settled into an armchair",
+      "definitions_ex_vn": "Anh định cư vào ghế bành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a wooden bench with a high back and arms, typically incorporating a box under the seat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

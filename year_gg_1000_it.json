@@ -1,0 +1,41 @@
+{
+  "english": "year",
+  "list_translation_mean": [
+    {
+      "translate_mean": "năm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the time taken by the earth to make one revolution around the sun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary affairs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's age or time of life.",
+      "definitions_ex_en": "she had a composure well beyond her years",
+      "definitions_ex_vn": "cô ấy đã có một sự điềm tĩnh vượt xa những năm của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very long time; ages.",
+      "definitions_ex_en": "it's going to take years to put that right",
+      "definitions_ex_vn": "nó sẽ mất nhiều năm để đặt đúng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of students grouped together as being of roughly similar ages, mostly entering a school or college in the same academic year.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

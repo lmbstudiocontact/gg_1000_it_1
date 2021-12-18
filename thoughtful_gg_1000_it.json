@@ -1,0 +1,33 @@
+{
+  "english": "thoughtful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ân cần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay nghĩ vơ vẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lo lắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngẫm nghĩ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "absorbed in or involving thought.",
+      "definitions_ex_en": "brows drawn together in thoughtful consideration",
+      "definitions_ex_vn": "lông mày được vẽ cùng nhau trong sự cân nhắc chu đáo",
+      "definitions_type_word": "adjective"
+    }
+  ]
+}

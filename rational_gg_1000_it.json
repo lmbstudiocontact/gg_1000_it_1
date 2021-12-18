@@ -1,0 +1,37 @@
+{
+  "english": "rational",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng lý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp lý",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "based on or in accordance with reason or logic.",
+      "definitions_ex_en": "I'm sure there's a perfectly rational explanation",
+      "definitions_ex_vn": "Tôi chắc chắn có một lời giải thích hợp lý hoàn hảo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a number, quantity, or expression) expressible, or containing quantities that are expressible, as a ratio of whole numbers. When expressed as a decimal, a rational number has a finite or recurring expansion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a rational number.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

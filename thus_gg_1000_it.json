@@ -1,0 +1,45 @@
+{
+  "english": "thus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đến đây",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đến đó",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "như thế",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "như vậy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "vật",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as a result or consequence of this; therefore.",
+      "definitions_ex_en": "Burke knocked out Byrne, thus becoming champion",
+      "definitions_ex_vn": "Burke bị đánh gục Byrne, do đó trở thành vô địch",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in the manner now being indicated or exemplified; in this way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "to this point; so.",
+      "definitions_ex_en": "the website has been cracked three times thus far",
+      "definitions_ex_vn": "Trang web đã bị bẻ khóa ba lần cho đến nay",
+      "definitions_type_word": "adverb"
+    }
+  ]
+}

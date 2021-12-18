@@ -1,0 +1,75 @@
+{
+  "english": "need",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lúc hoạn nạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc khốn khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhu cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhu yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cần dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng nghèo khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiếu thốn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "require (something) because it is essential or very important.",
+      "definitions_ex_en": "I need help now",
+      "definitions_ex_vn": "Tôi cần giúp đỡ ngay bây giờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing necessity or obligation.",
+      "definitions_ex_en": "need I say more?",
+      "definitions_ex_vn": "Cần tôi nói nhiều hơn?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be necessary.",
+      "definitions_ex_en": "lest you, even more than needs, embitter our parting",
+      "definitions_ex_vn": "kẻo bạn, thậm chí nhiều hơn nhu cầu, khiêu khích chia tay chúng ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "circumstances in which something is necessary, or that require some course of action; necessity.",
+      "definitions_ex_en": "the basic human need for food",
+      "definitions_ex_vn": "nhu cầu thực phẩm cơ bản của con người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is wanted or required.",
+      "definitions_ex_en": "his day-to-day needs",
+      "definitions_ex_vn": "nhu cầu hàng ngày của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of requiring help, or of lacking basic necessities such as food.",
+      "definitions_ex_en": "help us in our hour of need",
+      "definitions_ex_vn": "giúp chúng tôi trong giờ nhu cầu của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

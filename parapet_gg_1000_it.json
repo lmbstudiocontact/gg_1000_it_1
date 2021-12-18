@@ -1,0 +1,25 @@
+{
+  "english": "parapet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lan can",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao lơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lũy đắp bằng đá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a low protective wall along the edge of a roof, bridge, or balcony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

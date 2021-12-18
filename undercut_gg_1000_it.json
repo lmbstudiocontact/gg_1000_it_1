@@ -1,0 +1,75 @@
+{
+  "english": "undercut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đánh móc từ dưới lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt phi lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán rẻ hơn người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ thầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cúp banh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đấu thầu rẻ hơn người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chảy xói làm đất lở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mòn lần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "offer goods or services at a lower price than (a competitor).",
+      "definitions_ex_en": "these industries have been undercut by more efficient foreign producers",
+      "definitions_ex_vn": "Những ngành công nghiệp này đã bị cắt xén bởi các nhà sản xuất nước ngoài hiệu quả hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut or wear away the part below or under (something, especially a cliff).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "weaken; undermine.",
+      "definitions_ex_en": "the chairman denied his authority was being undercut",
+      "definitions_ex_vn": "Chủ tịch phủ nhận thẩm quyền của mình đang bị undercut",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in sports such as tennis or golf) strike (a ball) with a chopping motion so as to give it backspin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a space formed by the removal or absence of material from the lower part of something, such as a cliff, a coal seam, or part of a carving in relief.",
+      "definitions_ex_en": "there may be some bigger fish in the safety of the undercut",
+      "definitions_ex_vn": "Có thể có một số loài cá lớn hơn trong sự an toàn của undercut",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hairstyle in which the hair is shaved or cut very short on the sides or back of the head but left relatively long on top.",
+      "definitions_ex_en": "she styled her short bob into an edgy undercut",
+      "definitions_ex_vn": "Cô ấy đã tạo kiểu Bob ngắn của mình vào một undercut edgy",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

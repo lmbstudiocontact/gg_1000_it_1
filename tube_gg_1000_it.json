@@ -1,0 +1,65 @@
+{
+  "english": "tube",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn ống vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, hollow cylinder of metal, plastic, glass, etc. for holding or transporting something, chiefly liquids or gases.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing in the form of or resembling a tube.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the subway system in London.",
+      "definitions_ex_en": "a cross-London trek on the Tube",
+      "definitions_ex_vn": "một chuyến đi chéo London trên ống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sealed container, typically of glass and either evacuated or filled with gas, containing two electrodes between which an electric current can be made to flow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fit (a person or animal) with a tube to assist breathing, especially after a laryngotomy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "convey in a tube.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ride on water on a large inflated inner tube.",
+      "definitions_ex_en": "we tubed down creeks, slid down water cascades, and fished in canyons",
+      "definitions_ex_vn": "chúng tôi ống xuống những con lạch, trượt xuống thác nước, và đánh bắt ở hẻm núi",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

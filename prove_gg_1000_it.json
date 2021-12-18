@@ -1,0 +1,65 @@
+{
+  "english": "prove",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng minh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng rỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng thật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "demonstrate the truth or existence of (something) by evidence or argument.",
+      "definitions_ex_en": "the concept is difficult to prove",
+      "definitions_ex_vn": "Khái niệm này rất khó để chứng minh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "demonstrate to be the specified thing by evidence or argument.",
+      "definitions_ex_en": "innocent until proven guilty",
+      "definitions_ex_vn": "vô tội cho đến khi được chứng minh có tội",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of bread dough) become aerated by the action of yeast; rise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (a gun or other item) to a testing process.",
+      "definitions_ex_en": "firearms proved for black powder should not be used with smokeless ammunition",
+      "definitions_ex_vn": "Súng được chứng minh cho bột đen không nên được sử dụng với đạn không khói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in homeopathy) demonstrate the action of (a remedy) by seeing what effect it produces in a healthy individual.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ]
+}

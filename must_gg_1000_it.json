@@ -1,0 +1,87 @@
+{
+  "english": "must",
+  "list_translation_mean": [
+    {
+      "translate_mean": "meo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuồng loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi cơn giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu chưa lên men",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu mới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cần",
+      "type_word": "auxiliary verb"
+    },
+    {
+      "translate_mean": "cần phải",
+      "type_word": "auxiliary verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be obliged to; should (expressing necessity).",
+      "definitions_ex_en": "you must show your ID card",
+      "definitions_ex_vn": "Bạn phải hiển thị thẻ ID của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing an opinion about something that is logically very likely.",
+      "definitions_ex_en": "there must be something wrong",
+      "definitions_ex_vn": "Cái này chắc phải có cái gì đó trục trặc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "something that should not be overlooked or missed.",
+      "definitions_ex_en": "this video is a must for parents",
+      "definitions_ex_vn": "Video này là bắt buộc cho cha mẹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grape juice before or during fermentation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mustiness, dampness, or mold.",
+      "definitions_ex_en": "a pervasive smell of must",
+      "definitions_ex_vn": "Một mùi phổ biến của phải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a condition of heightened aggression and unpredictable behavior occurring annually in certain male animals, especially elephants and camels, in association with a surge in testosterone level, equivalent to the rutting season of deer and some other mammals.",
+      "definitions_ex_en": "a big old bull elephant in must",
+      "definitions_ex_vn": "một con voi lớn cũ phải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a male elephant or camel) in a condition marked by heightened aggression and unpredictable behavior that usually occurs annually in association with a surge in testosterone level.",
+      "definitions_ex_en": "two musth males competing for a female",
+      "definitions_ex_vn": "Hai con đực Musth cạnh tranh cho một phụ nữ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to form adjectives and nouns denoting things that are essential or highly recommended.",
+      "definitions_ex_en": "a must-visit destination",
+      "definitions_ex_vn": "một điểm đến đến thăm",
+      "definitions_type_word": "combining form"
+    }
+  ]
+}

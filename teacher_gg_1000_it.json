@@ -1,0 +1,25 @@
+{
+  "english": "teacher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giáo sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who teaches, especially in a school.",
+      "definitions_ex_en": "a history teacher",
+      "definitions_ex_vn": "một giáo viên lịch sử",
+      "definitions_type_word": "noun"
+    }
+  ]
+}

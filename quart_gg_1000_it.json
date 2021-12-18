@@ -1,0 +1,33 @@
+{
+  "english": "quart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ để đo một phần tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thế đánh gươm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a unit of liquid capacity equal to a quarter of a gallon or two pints, equivalent in the US to approximately 0.94 liter and in Britain to approximately 1.13 liters.",
+      "definitions_ex_en": "two quarts of milk",
+      "definitions_ex_vn": "hai lít sữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fourth of eight standard parrying positions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in piquet) a sequence of four cards of the same suit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ]
+}
